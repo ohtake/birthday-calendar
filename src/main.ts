@@ -12,5 +12,5 @@ const distDir = "dist";
   }
 
   const c = await createSylvanianCalendar();
-  await c.writeFile(path.join(distDir, "sylvanian.ical"));
+  await c.writeFile(path.join(distDir, "sylvanian.ics"));
 })();

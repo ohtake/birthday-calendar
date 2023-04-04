@@ -62,7 +62,9 @@ export async function createSylvanianCalendar() {
     if (!hasBirthday(r)) return;
     const familyRel = `${r.Family}の${r.Relation1}`;
     const relOption = r.Relation2 ? `(${r.Relation2})` : "";
-    const fullName = `${r.GivenName} ${r.FamilyName || "NoFamilyName"}`;
+    const fullName = `${r.GivenName || "NoGivenName"} ${
+      r.FamilyName || "NoFamilyName"
+    }`;
     const summary = `${familyRel}${relOption} ${fullName}`;
     const startYear = getYear(r);
     bc.addBirthday(summary, r.BirthMonth, r.BirthDay, {

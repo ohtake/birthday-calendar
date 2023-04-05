@@ -1,21 +1,24 @@
 Family	FamilyEn	FamilyNameJa	FamilyNameEn
-アヒル		パドルトン	
-アルパカ		ウーリー	
-ウシ		バターカップ	
-カワウソ		スプラッシー	
-カンガルー		ホッパー	
-キャラメルイヌ		キャラメル	
-キリン		ハイブランチ	
-クマ		ペティート	
-クリームネコ			Keats
-くるみリス		ウォールナット	
-コアラ		アウトバック	
-サル		ダーウィン	
+アヒル1	Duck		Puddleford
+アヒル2	Duck		Waddlington
+アヒル3	Duck	パドルトン	Puddleton
+アルパカ	Woolly Alpaca	ウーリー	Woolly
+ウシ	Friesian Cow	バターカップ	Buttercup
+カワウソ	Splashy Otter	スプラッシー	Splashy
+カンガルー	Kangaroo	ホッパー	Hopper
+キャラメルイヌ	Caramel Dog	キャラメル	Caramel
+キリン	Highbranch Giraffe	ハイブランチ	Highbranch
+クマ	Little Bear	ペティート	Petite
+クリームネコ	Cream Cat		Keats
+くるみリス	Walnut Squirrel	ウォールナット	Walnut
+グレイッシュネコ	Grey Cat		Harvey
+コアラ	Koala	アウトバック	Outback
+サル	Monkey	ダーウィン	Darwin
 しおかぜウサギ			Seabreeze
 シカ		バックリー	
-シナモンウサギ		シナモン	
+シナモンウサギ	Cinnamon Rabbit	シナモン	Cinnamon
 シフォンイヌ			Doughty
-シマネコ		サンディー	
+シマネコ	Striped Cat	サンディー	Sandy
 ショコラウサギ	Chocolate Rabbit	チョコレート	Chocolate
 シルクネコ		ゴライトリー	
 シルバーポニー		シルバー	
@@ -24,16 +27,18 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn
 シロクマ2		ポーラー	
 ゾウ		バブルブルック	
 チャコールネコ		マーロウ	
-チワワ		ロペス	
-トイプードル		ケーキブレッド	
-トナカイ		スノードリフト	
+チワワ	Chihuahua Dog	ロペス	Lopez
+トイプードル	Toy Poodle	ケーキブレッド	Cakebread
+トナカイ	Reindeer	スノードリフト	Snowdrift
 どんぐりネズミ			
+ののはなウサギ	Nonohana Rabbit		
 ハスキー		ハスキー	
 ハリネズミ		ブランブル	
 パンダ		プーキー	
 ヒツジ		デール	
 フェネック		フェネック	
-フローラウサギ		フローラ	
+ブタ	Pig		Grunt
+フローラウサギ	Flora Rabbit	フローラ	Flora
 ペルシャネコ		ペルシアン	
 ペンギン		ワドル	
 ほしぞらネコ		ミッドナイト	
@@ -41,7 +46,7 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn
 マーガレットウサギ		マーガレット	
 マシュマロネズミ		マシュマロ	
 マロンポニー		チェストナッツ	
-みるくウサギ		ペリーウィンクル	
+みるくウサギ	Milk Rabbit	ペリーウィンクル	Periwinkle
 メイプルネコ		メープル	
 モグラ		マクバローズ	
 ヤギ		ブライトフィールド	
@@ -49,4 +54,5 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn
 ラッコ			Neptune
 ラテネコ		フォンターナ	
 ラブラドール		フェントン	
-わたウサギ			Cottontail
+ラベンダーウサギ	Lavender Rabbit		
+わたウサギ	Cottontail Rabbit		Cottontail

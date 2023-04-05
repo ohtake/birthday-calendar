@@ -1,4 +1,4 @@
-import { BirthdayCalender, leftJoin, loadTSV } from "./lib";
+import { BirthdayCalender, groupBy, leftJoin, loadTSV } from "./lib";
 
 type Birthday = {
   BirthMonth: number;
@@ -56,21 +56,80 @@ export async function createSylvanianCalendar() {
   );
 
   const joined = leftJoin(characters, families, "Family");
+  const familyGroups = groupBy(joined, (m) => m.Family);
 
   const bc = new BirthdayCalender("Sylvanian Birthdays");
-  joined.forEach((r) => {
-    if (!hasBirthday(r)) return;
-    const familyRel = `${r.Family}の${r.Relation1}`;
-    const relOption = r.Relation2 ? `(${r.Relation2})` : "";
-    const fullName = `${r.GivenName || "NoGivenName"} ${
-      r.FamilyName || "NoFamilyName"
-    }`;
-    const summary = `${familyRel}${relOption} ${fullName}`;
-    const startYear = getYear(r);
-    bc.addBirthday(summary, r.BirthMonth, r.BirthDay, {
-      description: r.Favorites,
-      startYear,
+  familyGroups.forEach((familyMembers, _family) => {
+    const familyTable = familyMembers
+      .map((m) => {
+        const bdStr = `${m.BirthMonth ?? "?"}/${m.BirthDay ?? "?"}`;
+        const str = `${toFullRelation(m)} ${m.GivenName} ${bdStr}`;
+        return str;
+      })
+      .join("\n");
+    // 双子や三つ子をまとめる
+    // TODO 「ふたごの女の子」と「ふたごの男の子」がまとまらない
+    const relGroups = groupBy(familyMembers, (m) =>
+      [m.Relation1, m.BirthMonth, m.BirthDay].join("-")
+    );
+    relGroups.forEach((rg) => {
+      addBirthdayEntry(bc, rg, familyTable);
     });
   });
   return bc;
+}
+
+function addBirthdayEntry(
+  bc: BirthdayCalender,
+  members: (CharaData & Partial<FamilyData>)[],
+  familyTable: string
+) {
+  const m0 = members[0];
+  if (!hasBirthday(m0)) return;
+  const summaries: string[] = [];
+  summaries.push(`${m0.Family}の${m0.Relation1}`);
+  if (members.length === 1 && m0.Relation2) summaries.push(`(${m0.Relation2})`);
+  summaries.push(" ");
+  if (members.length === 1) {
+    summaries.push(toFullName(m0));
+  } else {
+    const givenNames = members
+      .map((m) => m.GivenName ?? "NoGivenName")
+      .join("/");
+    summaries.push(`${givenNames} ${m0.FamilyName ?? "NoFamilyName"}`);
+  }
+  const summary = summaries.join("");
+  const startYear = getYear(m0);
+  let groupList: string;
+  if (members.length === 1) {
+    groupList = m0.Favorites ?? "";
+  } else {
+    groupList = members
+      .map(
+        (m) =>
+          `${m.Relation2} ${toFullName(m)}${
+            m.Favorites ? ` [${m.Favorites}]` : ""
+          }`
+      )
+      .join("\n");
+  }
+  const descriptions: string[] = [];
+  if (groupList) descriptions.push(groupList);
+  descriptions.push(familyTable);
+  bc.addBirthday(summary, m0.BirthMonth, m0.BirthDay, {
+    description: descriptions.join("\n\n"),
+    startYear,
+  });
+}
+
+function toFullRelation(
+  m: Partial<Pick<CharaData, "Relation1" | "Relation2">>
+): string {
+  return `${m.Relation1}${m.Relation2 ? `(${m.Relation2})` : ""}`;
+}
+
+function toFullName(
+  m: Partial<Pick<CharaData, "GivenName"> & Pick<FamilyData, "FamilyName">>
+): string {
+  return `${m.GivenName || "NoGivenName"} ${m.FamilyName || "NoFamilyName"}`;
 }

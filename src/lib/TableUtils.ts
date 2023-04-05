@@ -48,3 +48,20 @@ export function leftJoin<
     }
   });
 }
+
+export function groupBy<TRow extends {}>(
+  rows: readonly TRow[],
+  selector: (r: TRow) => string
+): Map<string, TRow[]> {
+  const map: Map<string, TRow[]> = new Map();
+  rows.forEach((r) => {
+    const key = selector(r);
+    const arr = map.get(key);
+    if (arr) {
+      arr.push(r);
+    } else {
+      map.set(key, [r]);
+    }
+  });
+  return map;
+}

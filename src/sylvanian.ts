@@ -19,6 +19,29 @@ type FamilyData = {
   FamilyName: string;
 };
 
+const relationOrder = [
+  "お父さん",
+  "お母さん",
+  "お姉さん",
+  "お兄さん",
+  "女の子",
+  "男の子",
+  "ふたごの女の子",
+  "ふたごの男の子",
+  "赤ちゃん",
+  "小さい赤ちゃん",
+  "ふたごちゃん",
+  "みつごちゃん",
+  "おじいさん",
+  "おばあさん",
+  // "ピアニスト",
+] as const;
+
+const relationOrderMap = new Map<string, number>();
+relationOrder.forEach((r, i) => {
+  relationOrderMap.set(r, i);
+});
+
 function hasBirthday<T extends Partial<Birthday>>(d: T): d is T & Birthday {
   return d.BirthMonth !== undefined && d.BirthDay !== undefined;
 }
@@ -60,6 +83,7 @@ export async function createSylvanianCalendar() {
 
   const bc = new BirthdayCalender("Sylvanian Birthdays");
   familyGroups.forEach((familyMembers, _family) => {
+    sortFamilyMembers(familyMembers);
     const familyTable = familyMembers
       .map((m) => {
         const bdStr = `${m.BirthMonth ?? "?"}/${m.BirthDay ?? "?"}`;
@@ -119,6 +143,21 @@ function addBirthdayEntry(
   bc.addBirthday(summary, m0.BirthMonth, m0.BirthDay, {
     description: descriptions.join("\n\n"),
     startYear,
+  });
+}
+
+function sortFamilyMembers(arr: CharaData[]) {
+  arr.sort((a, b) => {
+    const aRelOrder = relationOrderMap.get(a.Relation1);
+    const bRelOrder = relationOrderMap.get(b.Relation1);
+    if (aRelOrder !== bRelOrder) {
+      if (aRelOrder === undefined) return 1;
+      if (bRelOrder === undefined) return -1;
+      return aRelOrder - bRelOrder;
+    }
+    const aGiven = a.GivenName;
+    const bGiven = b.GivenName;
+    return aGiven.localeCompare(bGiven);
   });
 }
 

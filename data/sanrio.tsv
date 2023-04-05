@@ -15,12 +15,12 @@ KT	ジョージ	Cat	6	3
 KT	メアリー	Cat	9	14	
 KT	アンソニー	Cat	10	25	
 KT	マーガレット	Cat	3	31	
-KT	タイニーチャム	Bear	10	27	
-KT	タイニーピンク	Bear	10	27	
-KT	タイニーブルー	Bear	10	27	
-KT	タイニークリーム	Bear	10	27	
-KT	タイニーラベンダー	Bear	10	27	
-KT	タイニーグリーン	Bear	10	27	
+TC	タイニーチャム	Bear	10	27	
+TC	タイニーピンク	Bear	10	27	
+TC	タイニーブルー	Bear	10	27	
+TC	タイニークリーム	Bear	10	27	
+TC	タイニーラベンダー	Bear	10	27	
+TC	タイニーグリーン	Bear	10	27	
 KT	モーリー	Mole			
 KT	ジュディ	Mouse			
 KT	ジョーイ	Mouse			
@@ -126,3 +126,127 @@ CH	チュ	Mouse
 クイックワックス	三つ子の男のコ	Bird			
 クイックワックス	クィニー	Bird			
 キッズベア（ハウディ）	キッズベア（ハウディ）	Bear			
+ウィーメリールー	メリールー	Human			
+ボゴ ザ シティボーイ	ボゴ				
+プチアンジュ	プチアンジュ	Human			
+パピーラブ	スタイリッシュ ラビット	Rabbit			
+パピーラブ	ジェントルマン ドッグ	Dog			
+パピーラブ	スマーティー キャット	Cat			
+パピーラブ	スポーティ ベア	Bear			
+チェルシーストライプス	チェルシーストライプス	Fairy			
+トゥイーディードロップス	トゥイーディードロップス	Rabbit			
+ビリーパイ	ビリーパイ	Bear			
+メローチューン	メローチューン	Cat			
+ゾウ自転車	ゾウ自転車	Elephant			
+FP	フレッシュパンチ				
+ハウストレイン	ハウストレイン	Vehicle			
+バブルチークス	バブルチークス	Bear, Mouse, Rabbit			
+GO	ゴロ	Human			かみなり歴53年14月25日
+GO	ピカ	Human			かみなり歴53年14月25日
+GO	ドン	Human			かみなり歴53年14月25日
+ファンカムアライブ	ファンカムアライブ	Bear			
+BD	ミスターベアーズドリーム	Bear			
+クラフティクルー	クラフティクルー	Elephant, Cat, Rabbit, Lion, Bear			
+VA	エディ	Human	1	25	
+VA	エミィ	Human	1	25	
+VA	エルフ	Dog	11	11	
+ブーギーウー	ブー	Pig			
+ブーギーウー	ギー	Pig			
+ブーギーウー	ウー	Pig			
+ジッピーズー	ジッピーズー	Bear, Rabbit, Elephant, Lion, Cow, Dog			
+カントリーフレッシュベジーズ	カントリーフレッシュベジーズ	Vegetable			
+RB	ザ ラナバウツ	Vehicle			
+ZB	ザシキブタ	Pig	2	4	
+ZB	タビー	Mouse			
+ジェントルベアリーグ	ジェントルベアリーグ	Bear			
+ベジメニュー	ベジメニュー	Rabbit			
+ズーズーギャング	ズーズーギャング	Mouse, Pig, Bear, Mole			
+TA	たあ坊	Human	5	5	
+TA	まあくん	Human			
+TA	おかあさん	Human			
+TA	おとうさん	Human			
+TA	おじいちゃん	Human			
+TA	おばあちゃん	Human			
+TA	おじいちゃん	Human			
+TA	おばあちゃん	Human			
+TA	なこちゃん	Human			
+TA	イヌくん				
+TA	ニワトリさん				
+TA	ヒヨコさん				
+TA	カエルさん				
+TA	青い鳥さん				
+TA	くまさん				
+TA	ぞうさん				
+TA	タヌキさん				
+TA	キツネさん				
+TA	ウサギさん				
+TA	おさるさん				
+TA	ブタさん				
+TA	パンダさん				
+TA	ネズミさん				
+TA	ネコさん				
+TA	ワニさん				
+TA	カメさん				
+TA	トラさん				
+TA	ライオンさん				
+TA	ひつじさん				
+TA	ヤギさん				
+TA	アシカさん				
+TA	ペンギンさん				
+TA	シロクマさん				
+TA	ヒョウさん				
+TA	リスさん				
+TA	ラッコさん				
+TA	コアラさん				
+TA	モグラさん				
+TA	ナマケモノさん				
+TA	イルカさん				
+TA	イノシシくん				
+TA	カバさん				
+TA	ウシさん				
+TA	ウマさん				
+TA	キリンさん				
+TA	トナカイさん				
+TA	カッパさん				
+TA	タツさん				
+TA	オニさん				
+TA	サンタさん				
+NZ	ねずみ小僧	Human			
+NZ	こばんねこ	Cat			
+NZ	お菊ちゃん	Human	5	5	
+NZ	らん丸	Human			
+NZ	ぜにすて平次	Human			
+パーティアラカルト	パーティアラカルト	Food			
+NA	ニャ	Cat	1	17	
+NA	ニィ	Cat	1	17	
+NA	ニュ	Cat	1	17	
+NA	ニェ	Cat	1	17	
+NA	ニョン	Cat	1	17	
+ピクシーピコ	ピクシーピコ	Fairy			
+HG	ハンギョドン		3	14	
+HG	さゆり	Octopus	5	9	
+HG	おたまろ	Frog	12	10	
+HG	イタロー	Squid	1	2	
+ロベルタ	ロベルタ	Bear			
+ムッシュマリン	ムッシュマリン	Human			
+ミニールミュー	ミニー	Cat			
+ウイニングジャック	ジャック	Dog			
+ウイニングジャック	ナゲット	Bird			
+カモメ	カモメ	Bird			
+カルチャーショック	夢之介	Human			
+カルチャーショック	鉄之進	Human			
+GF	ギミーファイブ	Human			
+キャッツビーキッズ	キャッツビーキッズ	Cat			
+キャプテンウィリー（クジラ）	キャプテンウィリー（クジラ）	Whale			
+ザ メインストリーム,ファンシー	ザ メインストリーム,ファンシー	Rabbit, Bear, Cat			
+スポーティングベアーズ	スポーティングベアーズ				
+MA	マロン	Rabbit	5	31	
+MA	シナモン	Mouse			
+だちょのすけ	だちょのすけ	Bird			
+だちょのすけ	だちょみ	Bird			
+NN	クロ	Cat	11	19	
+NN	トラ	Cat	11	19	
+NN	ミケ	Cat	11	19	
+トビートリックス	トビートリックス	Dog			
+テディ ザ テディ	テディ ザ テディ	Bear			
+コットンテイルズ	コットンテイルズ	Rabbit			

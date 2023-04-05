@@ -9,25 +9,27 @@ type CharaData = {
   Family: string;
   Relation1: string;
   Relation2: string;
-  GivenName: string;
+  GivenNameJa: string;
+  GivenNameEn: string;
   Sex: "M" | "F" | "";
   Favorites: string;
 } & Partial<Birthday>;
 
 type FamilyData = {
   Family: string;
-  FamilyName: string;
+  FamilyEn: string;
+  FamilyNameJa: string;
+  FamilyNameEn: string;
 };
 
 const relationOrder = [
   "お父さん",
   "お母さん",
-  "お姉さん",
   "お兄さん",
-  "女の子",
+  "お姉さん",
   "男の子",
+  "女の子",
   "ふたごの女の子",
-  "ふたごの男の子",
   "赤ちゃん",
   "小さい赤ちゃん",
   "ふたごちゃん",
@@ -87,7 +89,9 @@ export async function createSylvanianCalendar() {
     const familyTable = familyMembers
       .map((m) => {
         const bdStr = `${m.BirthMonth ?? "?"}/${m.BirthDay ?? "?"}`;
-        const str = `${toFullRelation(m)} ${m.GivenName} ${bdStr}`;
+        const str = `${toFullRelation(m)} ${
+          m.GivenNameJa || m.GivenNameEn || "NoGivenName"
+        } ${bdStr}`;
         return str;
       })
       .join("\n");
@@ -118,9 +122,11 @@ function addBirthdayEntry(
     summaries.push(toFullName(m0));
   } else {
     const givenNames = members
-      .map((m) => m.GivenName ?? "NoGivenName")
+      .map((m) => m.GivenNameJa || m.GivenNameEn || "NoGivenName")
       .join("/");
-    summaries.push(`${givenNames} ${m0.FamilyName ?? "NoFamilyName"}`);
+    summaries.push(
+      `${givenNames} ${m0.FamilyNameJa || m0.FamilyNameEn || "NoFamilyName"}`
+    );
   }
   const summary = summaries.join("");
   const startYear = getYear(m0);
@@ -155,8 +161,8 @@ function sortFamilyMembers(arr: CharaData[]) {
       if (bRelOrder === undefined) return -1;
       return aRelOrder - bRelOrder;
     }
-    const aGiven = a.GivenName;
-    const bGiven = b.GivenName;
+    const aGiven = a.GivenNameJa || a.GivenNameEn;
+    const bGiven = b.GivenNameJa || b.GivenNameEn;
     return aGiven.localeCompare(bGiven);
   });
 }
@@ -168,7 +174,13 @@ function toFullRelation(
 }
 
 function toFullName(
-  m: Partial<Pick<CharaData, "GivenName"> & Pick<FamilyData, "FamilyName">>
+  m: Partial<
+    Pick<CharaData, "GivenNameJa" | "GivenNameEn"> &
+      Pick<FamilyData, "FamilyNameJa" | "FamilyNameEn">
+  >
 ): string {
-  return `${m.GivenName || "NoGivenName"} ${m.FamilyName || "NoFamilyName"}`;
+  return [
+    m.GivenNameJa || m.GivenNameEn || "NoGivenName",
+    m.FamilyNameJa || m.FamilyNameEn || "NoFamilyName",
+  ].join(" ");
 }

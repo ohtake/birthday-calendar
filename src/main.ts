@@ -1,6 +1,7 @@
-import { createSylvanianCalendar } from "./sylvanian";
 import fs from "fs/promises";
 import path from "path";
+import { createSanrioCalendar } from "./sanrio";
+import { createSylvanianCalendar } from "./sylvanian";
 
 const distDir = "dist";
 
@@ -11,6 +12,9 @@ const distDir = "dist";
     await fs.mkdir(distDir);
   }
 
-  const c = await createSylvanianCalendar();
-  await c.writeFile(path.join(distDir, "sylvanian.ics"));
+  const cSanrio = await createSanrioCalendar();
+  await cSanrio.writeFile(path.join(distDir, "sanrio.ics"));
+
+  const cSylv = await createSylvanianCalendar();
+  await cSylv.writeFile(path.join(distDir, "sylvanian.ics"));
 })();

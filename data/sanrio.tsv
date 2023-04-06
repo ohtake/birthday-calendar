@@ -258,7 +258,7 @@ UM	おウメばあちゃん	Human	5	18
 ようかいきっず	ドラムスコ	Ghost			
 ようかいきっず	ミイラゴン	Ghost			
 ようかいきっず	マジョリン	Ghost			
-PD	本舗固 歩香本	Raccon Dog	9	15	ぽこぽん年の十五夜
+PD	本舗固 歩香本	Raccon Dog	9	15	ぽこぽん年の十五夜（SPLでは9月15日扱い）
 PD	本舗固 狐狸庵	Raccon Dog			
 PD	本舗固 夢千代	Raccon Dog			
 PD	分部久 花	Raccon Dog	3	3	
@@ -359,3 +359,110 @@ PC	ジャンプ	Dolphin	3	21
 ディンドンダニー	ダニー	Bear			
 スポッティドッティ	スポッティドッティ	Dog			
 スポッティドッティ	サッシー	Cat			
+ワッフルキッズ	ワッフル	Bear	5	5	
+ワッフルキッズ	マフィン	Bear	3	3	
+ワッフルキッズ	ビスケット	Bear	10	10	
+ワッフルキッズ	フリッター	Porcupine	5	3	
+ワッフルキッズ	クッキー	Rabbit	12	25	
+ワッフルキッズ	タフィー	Bird	11	3	
+ワッフルキッズ	ピスタチオ	Dog	4	29	
+てつなぎクマ	てつなぎクマ	Bear			
+リトルコットンウッドコテージ	イエロー	Fairy			
+リトルコットンウッドコテージ	パープル	Fairy			
+リトルコットンウッドコテージ	レッド	Fairy			
+リトルコットンウッドコテージ	ブルー	Fairy			
+リトルコットンウッドコテージ	オレンジ	Fairy			
+リトルコットンウッドコテージ	グリーン	Fairy			
+リトルコットンウッドコテージ	グレー	Fairy			
+ぴんきぃびぃちゃん	ぴんきぃびぃちゃん	Bee			
+フーティフーツ	フーティフーツ	Bird			
+シュガークリームパフ	シュガークリームパフ	Bear	10	5	
+プカプカパラダイス	プカプカパラダイス	Jellyfish	3	12	
+プカプカパラダイス	デンキクラゲ	Jellyfish			
+ファニーボーンズ	ファニーボーンズ	Dog			
+ウィアーダイナソアーズ！	ティラン	Dinosaur			
+ウィアーダイナソアーズ！	トップス	Dinosaur			
+ウィアーダイナソアーズ！	ステガ	Dinosaur			
+ウィアーダイナソアーズ！	プテラ	Dinosaur			
+ウィアーダイナソアーズ！	ブラッキー	Dinosaur			
+ウィアーダイナソアーズ！	プレッシー	Dinosaur			
+OM	もんきち	Monkey	1	13	
+OM	もんた	Monkey	11	26	
+OM	ももちゃん	Monkey	3	3	
+OM	うーくん	Monkey	2	1	
+OM	大吉	Monkey	5	5	
+OM	もんすけ	Monkey	4	1	
+OM	ちえお	Monkey	12	25	
+ペロはともだち	ペロはともだち	Dog			
+ハニーフィールド	ハニーフィールド	Bear			春がおとずれるころ
+パタパタペッピー	ペッピー	Bird	8	26	
+チューチューターコ	ターコ	Octopus			
+チューチューターコ	コータ	Squid			
+XO	ばつ丸	Penguin	4	1	
+XO	パパ	Penguin			
+XO	ママ	Penguin			
+XO	つん子	Penguin	4	2	
+XO	バッドツインズ	Penguin			
+XO	グッドはな丸	Seal	8	7	
+XO	伊集院パンダバ	Panda	8	8	
+XO	はなたれカメ	Turtle			
+XO	蘇我イルカ	Dolphin			
+XO	小川サメオ	Shark			
+パラダイスライブス	カモカモ	Platypus			
+パラダイスライブス	ハリー	Echidna			
+レヌヌオース	レヌヌオース	Bear			
+カッパのカッピー	カッピー	Kappa			
+カッパのカッピー	リンリン	Flower			
+カッパのカッピー	おったまコプター	Flower			
+KP	ピッポ	Pig	12	16	12月16日のぽかぽか天気の日
+KP	ユメハ	Squirrel	10	10	
+KP	ケン	Bird			
+KP	ハナ	Bird			
+KP	サワ	Bird			
+ベンジャミンベア	ベンジャミンベア	Bear			
+ジンジャースナップ	ジンジャースナップ	Mouse			
+フレンドリーコッコちゃん	フレンドリーコッコちゃん	Bird			
+花とうさぎ	花とうさぎ	Rabbit			
+つぐみ堂	つぐみ堂	Bird			
+ピッケビッケ	ピッケビッケ	Mouse	1	1	ねずみ年の１月１日
+アッちゃんがいちばん！	アッちゃんがいちばん！	Human	1	15	
+HB	ホリーズベアー	Bear			
+うりうりころん	お母さん	Pig			
+うりうりころん	うりまる	Pig			
+うりうりころん	うりまろ	Pig			
+うりうりころん	うりりん	Pig			
+うりうりころん	ころん	Pig			
+ポーラーピクニック	ポーラーピクニック	Penguin			
+ピックスプレス	ピックスプレス	Frog			
+ハッパキッズ	ハッパキッズ	Insect			
+プワワ	プワワ	Ghost			流れ星が、南の空をよぎった満月の夜。
+テルテルポロンちゃん	テルテルポロンちゃん				
+PN	プリン	Dog	4	16	4月16日のお天気いい日
+PN	マフィン	Humster	9	16	
+PN	スコーン	Mouse	2	16	
+PN	ベーグル	Squirrel	8	16	
+PN	パウダー	Rabbit	12	12	
+PN	ホイップ	Penguin	6	16	
+PN	タルト	Rabbit	10	10	
+PN	カスタード	Bird	5	15	
+PN	ミント	Frog	6	6	
+PN	マカロン	Dog	3	3	
+PN	バニラ	Bear	1	3	
+PN	ココナッツ	Monkey	7	2	
+PN	シロップ	Bird	4	6	
+PN	クッキー	Humster	9	30	
+PN	ビスケ	Humster	9	30	
+PN	ひつじさん	Sheep			
+PN	パパ	Dog	8	8	
+PN	ママ	Dog	8	8	
+PN	おじいちゃん	Dog	9	15	
+PN	おばあちゃん	Dog	3	14	
+ウィスカーズ＆パウズ	ウィスカーズ＆パウズ	Cat			
+キンダーキッズ	キンダーキッズ	Rabbit, Bear			
+CO	チョコキャット	Cat	5	10	
+CO	クッキーバウ	Dog	10	20	
+CO	ジェリービーン	Rabbit	5	24	
+CO	ナッツー	Humster	3	30	
+CO	リーフィ	Bird	12	24	
+CO	シフォン	Bird	12	24	
+CO	レモネード	Bird	12	24	

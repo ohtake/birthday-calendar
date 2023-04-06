@@ -45,16 +45,13 @@ export async function createSanrioCalendar() {
       BirthDay,
     } as CharaData;
   });
-  const series = await loadTSV<SeriesData>(
-    "./data/sylvanianFamilyName.tsv",
-    (row) => {
-      const ReleaseYear = parseInt(row.ReleaseYear);
-      return {
-        ...row,
-        ReleaseYear,
-      } as SeriesData;
-    }
-  );
+  const series = await loadTSV<SeriesData>("./data/sanrioSeries.tsv", (row) => {
+    const ReleaseYear = parseInt(row.ReleaseYear);
+    return {
+      ...row,
+      ReleaseYear,
+    } as SeriesData;
+  });
 
   const joined = leftJoin(characters, series, "SeriesKey");
 

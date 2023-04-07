@@ -1,3 +1,4 @@
+SeriesKey	CharaName	Species	BirthMonth	BirthDay	BirthdayNote
 コロちゃん	コロちゃん	Bear	11	8	
 バニー＆マッティ	バニー	Rabbit	12	29	
 バニー＆マッティ	マッティ	Mouse			
@@ -437,7 +438,7 @@ HB	ホリーズベアー	Bear
 プワワ	プワワ	Ghost			流れ星が、南の空をよぎった満月の夜。
 テルテルポロンちゃん	テルテルポロンちゃん				
 PN	プリン	Dog	4	16	4月16日のお天気いい日
-PN	マフィン	Humster	9	16	
+PN	マフィン	Hamster	9	16	
 PN	スコーン	Mouse	2	16	
 PN	ベーグル	Squirrel	8	16	
 PN	パウダー	Rabbit	12	12	
@@ -449,8 +450,8 @@ PN	マカロン	Dog	3	3
 PN	バニラ	Bear	1	3	
 PN	ココナッツ	Monkey	7	2	
 PN	シロップ	Bird	4	6	
-PN	クッキー	Humster	9	30	
-PN	ビスケ	Humster	9	30	
+PN	クッキー	Hamster	9	30	
+PN	ビスケ	Hamster	9	30	
 PN	ひつじさん	Sheep			
 PN	パパ	Dog	8	8	
 PN	ママ	Dog	8	8	
@@ -461,96 +462,96 @@ PN	おばあちゃん	Dog	3	14
 CO	チョコキャット	Cat	5	10	
 CO	クッキーバウ	Dog	10	20	
 CO	ジェリービーン	Rabbit	5	24	
-CO	ナッツー	Humster	3	30	
+CO	ナッツー	Hamster	3	30	
 CO	リーフィ	Bird	12	24	
 CO	シフォン	Bird	12	24	
 CO	レモネード	Bird	12	24	
-CK	クリリン	Humster	2	4	飼い主の女の子のお家に来た日を、誕生日に決めた
-CK	サクラ	Humster	2	4	
-CK	チビクリ	Humster	10	8	
-CK	コマチ	Humster	10	8	
-CK	クルミ	Humster	10	8	
-CK	チェリー	Humster	10	8	
-CK	シンゴ	Humster	10	8	
-CK	ミルク	Humster	10	8	
-CK	チャチャ	Humster	10	8	
-CK	パンツ	Humster			
-CK	ブック	Humster			
-CK	レオナルド３世	Humster			
-CK	ジョー	Humster			
-CK	ペロ	Humster			
-CK	フムフム	Humster			
-CK	シマちゃん	Humster			
-CK	マイケル	Humster			
-CK	長老	Humster			
-CK	レイン	Humster			
-CK	もぐちゃん	Humster			
-CK	タフ	Humster			
-CK	げんき	Humster			
-CK	アラシ	Humster			
-CK	モーちゃん	Humster			
-CK	ポッケ	Humster			
-CK	タイム	Humster			
-CK	スピーディ	Humster			
-CK	サーカス	Humster			
-CK	キャッチ	Humster			
-CK	チョッキ	Humster			
-CK	モサッコ	Humster			
-CK	ビク	Humster			
-CK	ブッチ	Humster			
-CK	スコップ	Humster			
-CK	キューブ	Humster			
-CK	マッキー	Humster			
-CK	ネンネ	Humster			
-CK	アイちゃん	Humster			
-CK	テレちゃん	Humster			
-CK	マリリン	Humster			
-CK	チョコ	Humster			
-CK	マロ	Humster			
-CK	にこちゃん	Humster			
-CK	プリマ	Humster			
-CK	べべ	Humster			
-CK	リリィ	Humster			
-CK	リンリン	Humster			
-CK	ピア	Humster			
-CK	テディコ	Humster			
-CK	エリザベス	Humster			
-CK	ふくちゃん	Humster			
-CK	ムス	Humster			
-CK	アンジュ	Humster			
-CK	ジニー	Humster			
-CK	モコちゃん	Humster			
-CK	ホッペ	Humster			
-CK	テク	Humster			
-CK	ミッケ	Humster			
-CK	ミミコ	Humster			
-CK	ピント	Humster			
-CK	ハート	Humster			
-CK	パンちゃん	Humster			
-CK	じゃん	Humster	8	4	
-CK	がり	Humster	9	5	
-CK	あん	Humster	11	6	
-CK	はむっち	Humster	4	7	
-CK	すたあ	Humster	6	8	
-CK	ビーン	Humster			
-CK	マッシュ	Humster			
-CK	きなこ	Humster			
-CK	おはぎ	Humster			
-CK	トモちゃん	Humster			
-CK	ダンディー	Humster			
-CK	ボス	Humster			
-CK	プリンス	Humster			
-CK	こげ	Humster			
-CK	まる	Humster			
-CK	ベル	Humster			
-CK	ロロボ	Humster			
-CK	ボロロ	Humster			
-CK	ロロコ	Humster			
-CK	カーリー	Humster			
-CK	ピュン	Humster			
-CK	チェン	Humster			
-CK	ハン	Humster			
-CK	ポー	Humster			
+CK	クリリン	Hamster	2	4	飼い主の女の子のお家に来た日を、誕生日に決めた
+CK	サクラ	Hamster	2	4	
+CK	チビクリ	Hamster	10	8	
+CK	コマチ	Hamster	10	8	
+CK	クルミ	Hamster	10	8	
+CK	チェリー	Hamster	10	8	
+CK	シンゴ	Hamster	10	8	
+CK	ミルク	Hamster	10	8	
+CK	チャチャ	Hamster	10	8	
+CK	パンツ	Hamster			
+CK	ブック	Hamster			
+CK	レオナルド３世	Hamster			
+CK	ジョー	Hamster			
+CK	ペロ	Hamster			
+CK	フムフム	Hamster			
+CK	シマちゃん	Hamster			
+CK	マイケル	Hamster			
+CK	長老	Hamster			
+CK	レイン	Hamster			
+CK	もぐちゃん	Hamster			
+CK	タフ	Hamster			
+CK	げんき	Hamster			
+CK	アラシ	Hamster			
+CK	モーちゃん	Hamster			
+CK	ポッケ	Hamster			
+CK	タイム	Hamster			
+CK	スピーディ	Hamster			
+CK	サーカス	Hamster			
+CK	キャッチ	Hamster			
+CK	チョッキ	Hamster			
+CK	モサッコ	Hamster			
+CK	ビク	Hamster			
+CK	ブッチ	Hamster			
+CK	スコップ	Hamster			
+CK	キューブ	Hamster			
+CK	マッキー	Hamster			
+CK	ネンネ	Hamster			
+CK	アイちゃん	Hamster			
+CK	テレちゃん	Hamster			
+CK	マリリン	Hamster			
+CK	チョコ	Hamster			
+CK	マロ	Hamster			
+CK	にこちゃん	Hamster			
+CK	プリマ	Hamster			
+CK	べべ	Hamster			
+CK	リリィ	Hamster			
+CK	リンリン	Hamster			
+CK	ピア	Hamster			
+CK	テディコ	Hamster			
+CK	エリザベス	Hamster			
+CK	ふくちゃん	Hamster			
+CK	ムス	Hamster			
+CK	アンジュ	Hamster			
+CK	ジニー	Hamster			
+CK	モコちゃん	Hamster			
+CK	ホッペ	Hamster			
+CK	テク	Hamster			
+CK	ミッケ	Hamster			
+CK	ミミコ	Hamster			
+CK	ピント	Hamster			
+CK	ハート	Hamster			
+CK	パンちゃん	Hamster			
+CK	じゃん	Hamster	8	4	
+CK	がり	Hamster	9	5	
+CK	あん	Hamster	11	6	
+CK	はむっち	Hamster	4	7	
+CK	すたあ	Hamster	6	8	
+CK	ビーン	Hamster			
+CK	マッシュ	Hamster			
+CK	きなこ	Hamster			
+CK	おはぎ	Hamster			
+CK	トモちゃん	Hamster			
+CK	ダンディー	Hamster			
+CK	ボス	Hamster			
+CK	プリンス	Hamster			
+CK	こげ	Hamster			
+CK	まる	Hamster			
+CK	ベル	Hamster			
+CK	ロロボ	Hamster			
+CK	ボロロ	Hamster			
+CK	ロロコ	Hamster			
+CK	カーリー	Hamster			
+CK	ピュン	Hamster			
+CK	チェン	Hamster			
+CK	ハン	Hamster			
+CK	ポー	Hamster			
 CK	コスモ	Alien			
 CK	りく	Turtle			
 ピンクのこりすピンクルちゃん	ピンクのこりすピンクルちゃん	Squirrel	7	7	
@@ -571,3 +572,201 @@ TL	ナッツ	Squirrel	10	10
 ねむっこにゃ〜ご	ねむっこにゃ〜ご	Cat	9	9	
 ねむっこにゃ〜ご	ぐう	Cat			
 ねむっこにゃ〜ご	ピッピ	Bird			
+はんなりこまち	こまち	Cat	3	3	
+RW	ROBOW@N	Dog	11	11	
+US	ウサハナ	Rabbit	8	7	
+US	ソラくん	Bear	5	6	
+US	パンニャちゃん	Panda	3	14	
+US	ワンワちゃん	Dog	11	11	
+US	ブッピーくん	Pig	10	10	
+US	ニャーコちゃん	Cat	2	7	
+SC	コロン	Bee	3	28	
+プチメリッコ	プチメリッコ	Sheep	2	14	
+CP	親方	Panda	10	18	
+CP	テンさん	Panda			
+CP	テコさん	Panda			
+CP	マイさん	Panda			
+CN	シナモン	Dog	3	6	
+CN	カプチーノ	Dog	6	27	
+CN	モカ	Dog	2	20	
+CN	シフォン	Dog	1	14	
+CN	エスプレッソ	Dog	12	4	
+CN	みるく	Dog	2	4	
+CN	ココ	Dog	7	25	
+CN	ナッツ	Dog	7	25	
+CN	コルネ	Unicorn			
+CN	ポロン	Dog			
+CN	シロ太郎	Cat			
+CN	鳥さん	Bird			
+CN	くまさん	Beer			
+HW	ポー	Beer	2	7	
+プルルンキュピ	プルルンキュピ	Fairy			
+タビスケ	タビスケ		9	7	
+チュッピーズ	ベリー	Mouse			
+チュッピーズ	ソーダ	Mouse			
+チュッピーズ	ミント	Mouse			
+チュッピーズ	グレープ	Mouse			
+チュッピーズ	レモン	Mouse			
+DL	ルー	Deer	1	8	
+DL	青い小鳥さん	Bird			
+DL	赤いキノコさん	Mushroom			
+DL	小さいキノコさん	Mushroom			
+パンダップル	パンダップル	Panda	6	2	
+パンダップル	イモムシちゃん	Insect			
+FZ	Z	Vehicle			
+PW	ぷち	Dog	10	15	わんこの日
+CI	ちびまる	Dog	2	2	
+CI	そら	Dog	5	5	
+CI	くーすけ	Dog	9	9	
+CI	ちわぴょん	Dog	3	3	
+CI	まめた	Dog	12	31	
+CI	てりきち	Dog	5	5	
+PT	パンタン	Panda	10	7	
+PT	ママ	Panda			
+PT	パパ	Panda			
+PT	ピノタン	Panda			
+PT	トリさん	Bird			
+PB	ベリーナ	Fruit			
+PB	バニャニャン	Fruit			
+PB	メロリーナ	Fruit			
+フルーリーミュー	フルーリーミュー	Cat			
+ちっちゃいもんちゃん	ちっちゃいもんちゃん	Monkey			
+ドキドキヤミーチャムズ	ドキドキバーガー	Food			
+ドキドキヤミーチャムズ	ドキドキフライ	Food			
+ドキドキヤミーチャムズ	ドキドキシェイク	Food			
+ドキドキヤミーチャムズ	ドキドキチキンチャム	Food			
+ドキドキヤミーチャムズ	ドキドキホットドック	Food			
+ドキドキヤミーチャムズ	ザ チリペッパートリオ	Food			
+SI	しろうさ	Rabbit	5	26	
+SI	くろうさ	Rabbit	5	26	
+SI	ももうさ	Rabbit	3	3	
+SI	はなうさ	Rabbit	3	3	
+SI	ストロベリーうさ	Rabbit	2	6	
+SI	ブルーベリーうさ	Rabbit	2	6	
+SI	ぶちうさ	Rabbit	8	1	
+SI	ミントうさ	Rabbit	8	1	
+SI	こむぎうさ	Rabbit	10	10	
+SI	ぱんだうさ	Rabbit	10	10	
+SI	ラテうさ	Rabbit	4	3	
+SI	カプチーノうさ	Rabbit	4	3	
+SI	あおうさ	Rabbit	12	13	
+SI	あおみみうさ	Rabbit	12	13	
+SI	カカオ	Mouse			
+SI	バニラ	Mouse			
+CY	チャーミー	Cat	10	31	パパからプレゼントされた日。キティが決めた
+CY	ハニーキュート	Cat	9	23	
+CY	シュガー	Hamster	5	1	
+CY	ミルフィーユ	Hamster			
+CY	ティラミス	Hamster			
+CY	ビスケット	Hamster			
+CY	ショコラ	Hamster			
+CY	パール	Cat			
+CY	エメラルド	Cat			
+CY	ルビー	Cat			
+CY	サファイア	Cat			
+CY	ブラックオパール	Cat			
+KU	クロミ	Rabbit			
+KU	バク	Tapir	2	29	
+KU	バコ	Tapir			
+KU	ニャンミ	Cat	2	22	
+KU	ワンミ	Dog	11	1	
+KU	コンミ	Fox	8	1	
+KU	チュウミ	Mouse	11	18	
+MN	マシュマロ	Cat	2	22	
+CA	アズキ	Dog	9	25	
+TE	ラッテくん	Beer	2	14	
+TE	メープルちゃん	Beer	3	3	
+TE	フラッペくん	Beer	10	10	
+TE	マキアートくん	Beer	5	5	
+TE	チャイくん	Beer	4	1	
+TE	ミスター・ スチーム	Ghost			
+TE	マドラーさん				
+TE	かくざとうくん	Food			
+PU	ぱんくんち	Panda			
+PU	ショクパンくん	Food			
+PU	コッペパンくん	Food			
+LR	ベリー	Demon	6	6	
+LR	チェリー	Demon	9	9	
+BF	ジョージ	Mouse			
+BF	マリールウ	Mouse			
+BF	ハンナ	Mouse			
+BF	ジェラルド	Mouse			
+BF	チェンバレン	Mouse			
+BF	リカルド	Mouse			
+BF	ブックス	Mouse			
+ザ ラナバウツ（働く車）	だんぷのだんちゃん	Vehicle			
+ザ ラナバウツ（働く車）	しょうぼうしゃのしょうくん	Vehicle			
+ザ ラナバウツ（働く車）	ホイールローダーのローちゃん	Vehicle			
+ザ ラナバウツ（働く車）	ミキサーしゃのミックン	Vehicle			
+ザ ラナバウツ（働く車）	クレーンしゃのれんちゃん	Vehicle			
+ザ ラナバウツ（働く車）	きゅうきゅしゃのキュっちー	Vehicle			
+ザ ラナバウツ（働く車）	ショベルカーのベルくん	Vehicle			
+ザ ラナバウツ（働く車）	レッカーしゃのレックくん	Vehicle			
+ザ ラナバウツ（働く車）	パトカーのパットくん	Vehicle			
+ザ ラナバウツ（働く車）	ロードローラーのロールくん	Vehicle			
+ザ ラナバウツ（働く車）	タクシーのたっくん	Vehicle			
+ザ ラナバウツ（働く車）	バスのバーシー	Vehicle			
+ザ ラナバウツ（働く車）	ワゴンのゴンちゃん	Vehicle			
+ザ ラナバウツ（働く車）	郵便車のゆうぴー	Vehicle			
+JL	ルビー	Rabbit	7	29	
+JL	ラブラ	Bear	12	27	
+JL	キング	Dog	8	10	
+JL	ディアン	Cat	1	20	
+JL	ダイアナ	Cat	4	20	
+JL	コール	Mouse	9	6	
+JL	グラナイト	Lion	12	1	
+JL	ルーア	Rabbit	8	28	
+JL	ガーネット	Cat	1	8	
+JL	ジャスパー	Cheetah	2	14	
+JL	ニック	Ferret	8	22	
+JL	サンゴ	Cat	7	10	
+JL	アレク	Cat	3	3	
+JL	コハク	Dog	6	5	
+JL	ブラウニー	Hedgehog	10	23	
+JL	リル	Pig	4	24	
+JL	チターナ	Squirrel	9	23	
+JL	リン	Bird	11	23	
+JL	ローサ	Bear	6	18	
+JL	エンジェラ	Alpaca	3	30	
+JL	クリス	Dog	7	5	
+JL	プレーズ	Dog	2	14	
+JL	ミルキィ	Dog	4	8	
+JL	カイト	Dog	12	4	
+JL	フローラ	Sheep	1	17	
+JL	タータ	Monkey	12	19	
+JL	ぺリドット	Dog	8	3	
+JL	ネフライト	Dog	2	1	
+JL	トール	Cat	10	13	
+JL	ラルド	Panda	5	17	
+JL	チャロット	Bee	4	3	
+JL	サフィー	Dog	9	1	
+JL	イオ	Rabbit	12	29	
+JL	トパーズ	Dog	11	12	
+JL	カイヤ	Cat	5	15	
+JL	ラピス	Cat	9	15	
+JL	ルナ	Rabbit	6	8	
+JL	ユーク	Dog	11	3	
+JL	オパール	Unicorn	10	3	
+JL	アメリ	Hamster	2	9	
+JL	アクア	Fish	3	26	
+JL	ラリマー	Fox	12	3	
+JL	さくらん	Beer	3	9	
+JL	メロリーナ	Dog	4	12	
+JL	エクレン	Rabbit	1	24	
+JL	マカロニア	Rabbit	3	15	
+JL	ドナドナ	Hamster	1	15	
+JL	ハニー	Squirrel	11	28	
+JL	ショコラ	Beer	6	3	
+JL	プリンキー	Monkey	8	31	
+JL	マコ	Hamster	11	11	
+JL	カコ	Hamster	11	11	
+JL	ロコ	Hamster	11	11	
+JL	コロン	Hamster	11	11	
+JL	グミミン	Fennec	5	30	
+SM	バレエうさ	Rabbit			
+SM	プリマうさ	Rabbit			
+チェリーナチェリーネ	チェリーナ	Fairy			
+チェリーナチェリーネ	チェリーネ	Fairy			
+MI	ミスベアーズドリーム	Beer	6	24	
+NP	ニョッキ	Cat			
+NP	ペンネ	Cat			

@@ -9,7 +9,7 @@ type CharaData = {
   SeriesKey: string;
   CharaName: string;
   Species: string;
-  Actual: string;
+  BirthdayNote: string;
 } & Partial<Birthday>;
 
 type SeriesData = {
@@ -65,7 +65,7 @@ export async function createSanrioCalendar() {
     const startYear = getYear(c);
     bc.addBirthday(summary, c.BirthMonth, c.BirthDay, {
       startYear,
-      description: c.Actual ?? "",
+      description: c.BirthdayNote ?? "",
     });
   });
   return bc;

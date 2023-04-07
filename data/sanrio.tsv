@@ -211,7 +211,7 @@ TA	カッパさん
 TA	タツさん				
 TA	オニさん				
 TA	サンタさん				
-NZ	ねずみ小僧	Human			
+NZ	チュー吉	Human			
 NZ	こばんねこ	Cat			
 NZ	お菊ちゃん	Human	5	5	
 NZ	らん丸	Human			
@@ -357,7 +357,7 @@ PC	ジャンプ	Dolphin	3	21
 ディンドンダニー	ディン	Bear			
 ディンドンダニー	ドン	Bear			
 ディンドンダニー	ダニー	Bear			
-スポッティドッティ	スポッティドッティ	Dog			
+SD	スポッティドッティ	Dog	3	21	
 スポッティドッティ	サッシー	Cat			
 ワッフルキッズ	ワッフル	Bear	5	5	
 ワッフルキッズ	マフィン	Bear	3	3	
@@ -395,7 +395,7 @@ OM	もんすけ	Monkey	4	1
 OM	ちえお	Monkey	12	25	
 ペロはともだち	ペロはともだち	Dog			
 ハニーフィールド	ハニーフィールド	Bear			春がおとずれるころ
-パタパタペッピー	ペッピー	Bird	8	26	
+PY	ペッピー	Bird	8	26	
 チューチューターコ	ターコ	Octopus			
 チューチューターコ	コータ	Squid			
 XO	ばつ丸	Penguin	4	1	
@@ -1098,6 +1098,7 @@ PG	南極総明	Penguin
 PG	北極星治	Penguin			
 ピンキーリルローズ＆リオスカイピース	ピンキーリルローズ	Sheep	6	23	
 ピンキーリルローズ＆リオスカイピース	リオスカイピース	Bear	5	1	
+ピンキーリルローズ＆リオスカイピース	タコパーンダロボ	Robot	10	28	
 MF	モップ	Bear	2	10	
 MF	カニカマ	Crab			
 MF	ギョニク	Fish			
@@ -1145,3 +1146,14 @@ BA	ぼさりす	Squirrel
 BA	ぼさふぇれっと	Ferret			
 BA	ぼさきつね	Fox			
 BA	ぼさあるぱか	Alpaca			
+TF	ターフィー	Horse	9	16	
+TF	ターフィーパパ	Horse			
+TF	ターフィーママ	Horse			
+TF	ポニータ	Horse			
+ポポネン	ポポネン	Otter	6	5	
+リトルラヴィン	リトルラヴィン	Dog	9	17	
+リトルラヴィン	パパ	Dog			
+リトルラヴィン	ママ	Dog			
+リトルラヴィン	妹	Dog			
+リトルラヴィン	双子の妹	Dog			
+リトルラヴィン	双子の弟	Dog			

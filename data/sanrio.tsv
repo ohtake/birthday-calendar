@@ -70,7 +70,7 @@ MM	りすくん	Squirrel
 MP	ピアノちゃん	Sheep	7	6	
 MM	くまくん	Bear			
 MM	きつねくん	Fox			
-MM	あらいぐまくん	Raccoon			
+MM	あらいぐまくん	Raccon			
 MM	ぞうさん	Elephant			
 MM	カンガルーくん	Kangaroo			
 MM	はりねずみくん	Hedgehog			
@@ -349,7 +349,7 @@ PC	ジャンプ	Dolphin	3	21
 タバサディーン	タバサディーン	Human	10	24	2000年10月24日
 どんじゃらほい	ぎゅうべえ	Cow			
 どんじゃらほい	コン吉	Fox			
-どんじゃらほい	ポン太	Raccoon Dog			
+どんじゃらほい	ポン太	Raccon Dog			
 どんじゃらほい	いの助	Pig			
 どんじゃらほい	ちゅう助	Mouse			
 トフィールー	トフィールー	Human			
@@ -770,3 +770,378 @@ SM	プリマうさ	Rabbit
 MI	ミスベアーズドリーム	Beer	6	24	
 NP	ニョッキ	Cat			
 NP	ペンネ	Cat			
+WI	メル	Rabbit	9	20	
+WI	チーコ	Cat	3	31	
+WI	アロ	Bear	5	7	
+WI	マリン	Turtle	7	3	
+WI	ポコ	Panda	12	3	
+WI	ルウ	Koala	11	11	
+WI	ニィナ	Dragon	3	2	
+WI	ロザンヌ	Alpaca	2	14	
+WI	マイマイ	Dog	10	28	
+WI	ルッツ	Lion	1	10	
+WI	サンディ	Bird			
+WI	マンディ	Bird			
+WI	チューズディ	Bird			
+WI	ウェンズディ	Bird			
+WI	サーズディ	Bird			
+WI	フライディ	Bird			
+WI	サタディ	Bird			
+WI	シエル	Fairy			
+FL	ルゥルゥ	Human			
+FL	フラン	Bear			
+IG	イチゴマン	Cat	1	15	ハローキティが初めてイチゴマンに変身した日
+DG	ダークグレープマン	Cat	9	23	
+HM	ハニーモモ	Cat	3	3	
+GP	ゴーちゃん。	Panda	5	5	
+ビートロイド	ビートロイド	Insect			
+SR	有栖川メイプル	Food			
+SR	ラメカ・パシャリコワ	Mouse			
+SR	ジーペ・パリスガワ				
+SRプラズマ	シアン	Cat	5	24	
+SRプラズマ	チュチュ	Rabbit	6	18	
+SRプラズマ	レトリー	Dog	11	7	
+SRプラズマ	モア	Sheep	8	7	
+SRシンガン	クロウ	Hedgehog	9	6	
+SRシンガン	アイオーン	Lion	2	10	
+SRシンガン	ヤイバ	Fox	8	18	
+SRシンガン	ロム	Leopard	6	6	
+SR雫	ウエンディ	Spirit	2	25	
+SR雫	コリエンテ	Rabbit	11	27	
+SR雫	タートルBIG	Turtle	12	13	
+SR雫	シャボボン		4	8	
+SRドルチ	キャンディラパン	Rabbit	3	11	
+SRドルチ	チョキュルイユ	Squirrel	1	19	
+SRドルチ	クリームテディ	Bear	12	15	
+SRドルチ	ピグマカロン	Pig	2	9	
+SRすたばん	チッティ	Cheetah	6	20	
+SRすたばん	ゼブリナ	Zebra	10	23	
+SRすたばん	ライナ	Lion	5	8	
+SRすたばん	フェネリィ	Fennec	10	31	
+SRにんじん	嵐	Dog	7	19	
+SRにんじん	朧	Demon	12	18	
+SRにんじん	燐	Fox	4	14	
+SRにんじん	神威	Robot	1	12	
+SRトラクロ	シュウ☆ゾー		7	7	
+SRトラクロ	カイ		10	9	
+SRトラクロ	リク		10	9	
+SRバイガン	バイレッド		3	27	
+SRバイガン	バイブルー		1	14	
+SRバイガン	バイグリーン		3	16	
+SRバイガン	バイイエロー		5	10	
+SRバイガン	バイピンク		9	22	
+SR徒然	ダル太夫	Cat	7	26	
+SR徒然	阿	Dog	8	25	
+SR徒然	吽	Mouse	6	8	
+SRウワペタ	しばりん	Dog	4	16	
+SRウワペタ	ぽこえ	Raccoon Dog	9	27	
+SRウワペタ	きっつん	Fox	7	16	
+SRウワペタ	はっくん	Civet	5	2	
+SRしにもの	まりまり	Ghost	9	22	
+SRしにもの	でゅらでゅら	Dracula	5	16	
+SRしにもの	もんもん	Monster	1	8	
+SRしにもの	つぎはぎ	Ghost	6	22	
+SRしにもの	がしがし	Ghost	3	16	
+SRガウガ	キンタウルス	Wolf	11	26	
+SRガウガ	デーヤン	Demon	8	2	
+SRガウガ	ダイシゼン	Mountain	2	18	
+SRガウガ	ウチュウラー	Otter	9	6	
+SRアリビ	アンナスピール	Cat	2	29	
+SRアリビ	アサミロズィ	Rabbit	11	9	
+SRアリビ	カノンベリル	Monkey	2	11	
+SRアリビ	マァリスピラ	Bird	8	2	
+SRアリビ	アムリン	Dog	10	18	
+SRデモンズ	デモンバット	Bat	1	3	
+SRデモンズ	デモンマングー	Mongoose	6	4	
+SRデモンズ	デモンスモッグ		4	11	
+SRデモンズ	タスマニアンデモン	Tasmanian devil	2	7	
+SRデモンズ	デモンマミー	Mummy	4	5	
+SRラボム	ハライク	Squirrel	10	20	
+SRラボム	ミトミトン		5	6	
+SRラボム	イトダイン	Statue	12	1	
+SRドロ先	クワガタツヤ	Insect	1	16	
+SRドロ先	カブトモアキ	Insect	12	13	
+SRドロ先	テントウムツミ	Insect	9	19	
+SRラペッジ	リックス	Dog	5	13	
+SRラペッジ	ミックス	Dog	5	13	
+SRラペッジ	DJyksビート	Monkey	11	15	
+SRラペッジ	アシッドモンド	Panda	12	14	
+SRチャーミー	タネフルン	Plant	7	22	
+SRチャーミー	アニフルン	Plant	8	21	
+SRチャーミー	サダフルン	Plant	3	2	
+SRチャーミー	モーペイ	Insect	8	1	
+SRチャーミー	テンタン	Insect	4	27	
+SRぜろよん	Gengen	Rabbit	10	28	
+SRぜろよん	Kazzed	Weasel	9	19	
+SRぜろよん	Ryuryu	Ferret	10	25	
+SRぜろよん	Heikou	Weasel	4	17	
+SRクリクリ	ロージア	Cat	7	23	
+SRクリクリ	ツキノ	Bear	9	16	
+SRクリクリ	ホルミー	Cow	5	29	
+SRクリクリ	ジャクリン	Frog	10	5	
+SRテケバキツ	タケッパー	Kappa	11	14	
+SRテケバキツ	ヨシテン	Demon	5	2	
+SRテケバキツ	フジレイド	Okapi	7	26	
+SRテケバキツ	タクバニング	Spirit	2	18	
+SRシロラク	やぎぬぱん	Panda	1	31	
+SRシロラク	シミースワンズ	Bird	12	9	
+SRシロラク	オチザダック	Bird	1	10	
+SRシロラク	タイペコ	Bird	10	13	
+SR-BVL	アイレーン	Lion	12	22	
+SR-BVL	ペイペイン	Giraffe	2	22	
+SR-BVL	ハンドレッコ	Robot	6	26	
+SRアルカレ	チタン	Unicorn	11	11	
+SRアルカレ	オリオン	Cow	1	22	
+SRアルカレ	セレン	Sheep	4	23	
+SRアルカレ	アルゴン	Gazelle	3	29	
+SRフカシギ	マロ	Crab	11	15	
+SRフカシギ	ゲ・フロッチ	Bird	10	6	
+SRフカシギ	シャッキー	Shark	10	23	
+SRスペクトル	カナート	Cat	5	3	
+SRスペクトル	キッカー	Wolf	10	24	
+SRスペクトル	イヴアリー	Dog	10	25	
+SRスペクトル	ヒデニーロ	Dog	3	8	
+SRスペクトル	マオッティ	Cat	11	22	
+SRヨカゼ	リカオ	Wild dog	10	4	
+SRヨカゼ	ジャロップ	Wild dog	3	4	
+SRヨカゼ	クースカ	Skunk	3	4	
+SRヨカゼ	ウララギ	Rabbit	12	4	
+SRましゅましゅ	ほわん	Fox	5	1	
+SRましゅましゅ	マシマヒメコ	Cat	7	22	
+SRましゅましゅ	デルミン	Demon	3	10	
+SRましゅましゅ	ルフユ	Wolf	12	22	
+SRどこ指	ヤス	Bird	8	4	
+SRどこ指	ハッチン	Bee	4	4	
+SRどこ指	ジョウ	Phoenix	10	10	
+SRどこ指	双循	Dog	11	23	
+SRレイジン	ララリン	Wild cat	9	15	
+SRレイジン	スモモネ	Squirrel	6	2	
+SRレイジン	ういうい	Rabbit	2	1	
+SRヤバ洗	こやしか	Deer			
+SRヤバ洗	ぺんぺんぼぼ	Penguin			
+SRヤバ洗	もりもりとぷす	Dinosaur			
+SRホルトン	マキシマムザ亮とん	Pig			
+SRホルトン	ダイスケとん	Pig			
+SRホルトン	上とん	Pig			
+SRホルトン	ナヲとん	Pig			
+SRホルトン	アイナ・ジ・エンとん	Pig			
+SRゼロティク	ぎゃらこ	Monkey	11	1	
+SRゼロティク	しまっく	Hedgehog	11	2	
+SRゼロティク	れっぱにょ	Red panda	11	13	
+SRゼロティク	ギリリ	Giraffe	6	21	
+SRふぁにゃ	さとにゃん	Cat			
+SRふぁにゃ	とわにゃ	Cat			
+SRふぁにゃ	けびんぬ	Cat			
+SRふぁにゃ	ワガニャー	Cat			
+SRクロモス	919	Dog	9	19	
+SRクロモス	661	Ghost	6	5	
+SRクロモス	659	Ghost	6	5	
+SRクロモス	151	Rabbit	1	5	
+SRクロモス	13	Urchin	1	13	
+SRジグジグ	キャプテンみこみこ	Rabbit			
+SRジグジグ	オフィサーりゅんりゅん	Dragon			
+SRジグジグ	エイブルシーマンまるまる	Dog			
+BO	ぼんぼんりぼん	Rabbit	8	7	
+BO	るんるんルル	Rabbit	6	9	
+BO	ラララフローラ	Rabbit	12	3	
+BO	ミルキーミミ	Rabbit	10	10	
+DK	ドリームテイルクーベア	Bear			
+KI	きりみちゃん	Food	8	31	初めて切り身になった日（野菜の日なのに…）
+KI	かまぼこちゃん	Food			
+KI	たくわんわん	Food			
+KI	なるとちゃん	Food			
+KI	タイくん	Food			
+KI	ブリくん	Food			
+KI	サメせんぱい	Food			
+KI	さばくん	Food			
+KI	ロースちゃん	Food			
+KI	さわらくん	Food			
+KI	ぎんだらさん	Food			
+KI	シャトーブリアン	Food			
+KI	カルビくん	Food			
+KI	ささみん	Food			
+KI	ラムチョップ	Food			
+KI	ぎゅうたんくん	Food			
+KI	練乳がけいちごちゃん	Food			
+KI	マグロくん	Food			
+GU	ぐでたま	Food			毎日
+GU	ぎゅでちゃま	Food			
+GU	ロック	Food			
+GU	ハードボイルド	Food			
+GU	うずら	Food			
+GU	ゆでたまご	Food			
+GU	グレたま	Food			
+GU	明太子	Food			
+GU	たまごどうふ	Food			
+GU	クロックマダム	Food			
+GU	DJぐでたま	Food			
+GU	ニセたま	Human			
+GU	しゃきぴよ	Bird			
+かしわんこもち	かしわんこ	Food	5	6	
+かしわんこもち	ぼたわんこ	Food			
+かしわんこもち	さくらわんこ	Food			
+かしわんこもち	しおまめわんこ	Food			
+かしわんこもち	うぐいすさん	Food			
+かしわんこもち	白玉わんこ	Food			
+HU	ハミングミント	Deer	3	10	
+SZ	メンタくん	Octopus			
+SZ	ラブちゃん				
+SZ	クリぼう				
+SZ	ダイオウ兄さん				
+SZ	チョウさん				
+SZ	フク助				
+SZ	リューグー				
+SZ	シーさん				
+SZ	メガどん				
+SZ	ソックン				
+SZ	ムーちゃん				
+SZ	オオグチボヤーズ				
+SZ	タカさん				
+SZ	ニュウドウおじさん				
+SZ	センジュさん				
+SZ	コシオリーナ				
+SZ	サケじい				
+SZ	イトーキー				
+SZ	ニジ姉さん				
+SZ	ミズ兄				
+SZ	ボウさん				
+SZ	チヒロさん				
+SZ	ヤモリン				
+CG	こぎみゅん	Food	5	7	
+CG	ぎょうざくん				
+CG	エビフライ				
+CG	たこやきシスターズ				
+CG	ピッツァン				
+CG	うどんさん				
+CG	チョココロネェ				
+CG	ケーキちゃん				
+CG	パスタン				
+CG	からあげ兄弟				
+CG	うさぎさん				
+CG	こぎみょん				
+AR	烈子	Red panda	11	6	
+AR	鷲美				
+AR	ゴリ部長				
+AR	トン部長				
+AR	ヤギュウ課長				
+AR	小宮係長				
+AR	寺田さん				
+AR	カバ恵				
+AR	坪根さん				
+AR	フェネ子				
+AR	ハイ田				
+AR	大上さん				
+AR	只野くん				
+AR	わらびださん				
+AR	カラ姐				
+AR	安達さん				
+AR	角田				
+AR	社長				
+AR	ヨガインストラクターの先生				
+AR	カフェ店員				
+AR	れさすけさん				
+AR	鷲子				
+AR	トッティ				
+AR	ヨコサワさん				
+AR	マジロさん				
+AR	穴井				
+AR	胡麻川さん				
+LF	めろぉ	Rabbit	6	18	メロディは1月18日だと思っていたけど、本当は6月18日
+LF	くまぉ				
+LF	うりぼ				
+LF	ぴんきぃ				
+LF	かわうー				
+LF	ぴっぴぃ				
+LF	はっちぃ				
+LF	まいみぃ				
+LF	おかめさん				
+HA	奥歯				乳歯から生え変わった日
+HA	お歯黒				
+HA	出っ歯				
+HA	八重歯				
+HA	金歯				
+HA	銀歯				
+HA	ゾンビ歯				
+HA	インプラント				
+HA	プラーク歯				
+HA	けんしろう				
+HA	きばにゃん				
+中年ひろいん Ojisan's	中年ひろいん Ojisan's	Human			
+SB	長谷川 康太	Human	4	15	
+SB	水野 祐	Human	7	17	
+SB	吉野 俊介	Human	6	7	
+SB	西宮 諒	Human	9	16	
+SB	源 誠一郎	Human	3	2	
+SB	雨ケ谷 昴	Human	10	8	
+SB	菅見 直樹	Human	5	13	
+SB	豊原 夢ノ介	Human	10	30	
+SB	羽倉 虎男	Human	11	2	
+SB	柏木 智博	Human	2	21	
+SB	若野 ゆず	Human	11	28	
+SB	藤田 潤	Human	5	31	
+SB	古賀 康弘	Human	12	15	
+SB	梅崎 慎矢	Human	2	10	
+SB	糸永 壱郎	Human	1	24	
+SB	緒方 尊比古	Human	8	26	
+SB	寺田 如恵留	Human	6	25	
+SB	浜田 和生	Human	3	30	
+カリバディクス	カリーナ	Squirrel	6	9	
+カリバディクス	ディキー	Wolf			
+カリバディクス	がおっきー				
+カリバディクス	チッパー	Wolf			
+カリバディクス	フィーヌ	Squirrel			
+PG	江ノ島ショーン	Penguin	3	24	
+PG	栗尾音々	Clione			
+PG	雪村杏奈	Penguin			
+PG	墨田マキ	Penguin			
+PG	南極総明	Penguin			
+PG	北極星治	Penguin			
+ピンキーリルローズ＆リオスカイピース	ピンキーリルローズ	Sheep	6	23	
+ピンキーリルローズ＆リオスカイピース	リオスカイピース	Bear	5	1	
+MF	モップ	Bear	2	10	
+MF	カニカマ	Crab			
+MF	ギョニク	Fish			
+MF	あじまる	Seal			
+MF	マシュ	Penguin			
+MW	みゅー	Cat	9	2	
+MW	ぺこ	Cat	12	3	
+MW	すう	Cat	1	25	
+MW	ねね	Cat	3	29	
+MW	れい	Cat	7	6	
+MW	ちあ	Cat	4	25	
+MW	ゆに	Cat	5	30	
+MW	つぎ	Cat	2	8	
+MW	はぎ	Cat	2	8	
+KN	にゃんたろう	Cat	7	12	
+BC	ミア	Cat	2	22	
+BC	チェルシー	Cat	2	22	
+BC	リコ	Cat	2	22	
+BC	レイラ	Cat	2	22	
+BC	エマ	Cat	2	22	
+MG	シンタ	Human	8	31	
+MG	ヒカル	Human	5	12	
+MG	ダイゴロウ	Human	7	21	
+MG	カナタ	Human	9	9	
+MG	ハヤテ	Human	10	20	
+MG	ゾーヤ	Human	12	19	
+MG	ライオン	Human	5	3	
+MG	ライム	Human	7	9	
+MG	マリア	Human	3	25	
+MG	ユズリハ	Human	1	6	
+MG	マドカ	Human	11	4	
+MG	マモル	Human	4	20	
+MG	リンリン	Human	2	16	
+MG	ワタル	Human	6	14	
+MG	ダイヤ	Human	12	25	
+MG	アキ	Human	11	23	
+MG	岡田ユウ	Human	1	14	
+MG	ルミ先生	Human	3	9	
+BA	ぼさうさ	Rabbit			
+BA	ぼさとり	Bird			
+BA	ぼさねこ	Cat			
+BA	ぼさいぬ	Dog			
+BA	ぼさはむすたー	Hamster			
+BA	ぼさりす	Squirrel			
+BA	ぼさふぇれっと	Ferret			
+BA	ぼさきつね	Fox			
+BA	ぼさあるぱか	Alpaca			

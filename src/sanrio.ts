@@ -77,15 +77,23 @@ export async function createSanrioCalendar() {
               }`;
             })
             .join("\n");
-    characters.forEach((c) => {
-      if (!hasBirthday(c)) return;
-      const summary =
-        c.SeriesKey === c.CharaName
-          ? c.CharaName
-          : `${c.SeriesKey} ${c.CharaName}`;
+    const charactersWithBD = characters.filter(hasBirthday);
+    const bdGroup = groupBy(
+      charactersWithBD,
+      (c) => `${c.BirthMonth}-${c.BirthDay}`
+    );
+    bdGroup.forEach((g) => {
+      const c = g[0];
+      const prefix = c.SeriesKey;
+      const names = g.map((c) => c.CharaName).join("/");
+      const summary = prefix === names ? prefix : `${prefix} ${names}`;
       const startYear = getYear(c);
       const descriptionBlocks: string[] = [];
-      if (c.BirthdayNote) descriptionBlocks.push(c.BirthdayNote);
+      const notes = g
+        .map((c) => c.BirthdayNote)
+        .filter((s) => s)
+        .join("\n");
+      if (notes) descriptionBlocks.push(notes);
       descriptionBlocks.push(groupSummary, groupTable);
       bc.addBirthday(summary, c.BirthMonth, c.BirthDay, {
         startYear,

@@ -1,4 +1,4 @@
-import { BirthdayCalender, leftJoin, loadTSV } from "./lib";
+import { BirthdayCalender, groupBy, leftJoin, loadTSV } from "./lib";
 
 type Birthday = {
   BirthMonth: number;
@@ -54,18 +54,43 @@ export async function createSanrioCalendar() {
   });
 
   const joined = leftJoin(characters, series, "SeriesKey");
+  const grouped = groupBy(joined, (c) => c.SeriesKey);
 
   const bc = new BirthdayCalender("Sanrio Birthdays");
-  joined.forEach((c) => {
-    if (!hasBirthday(c)) return;
-    const summary =
-      c.SeriesKey === c.CharaName
-        ? c.CharaName
-        : `${c.SeriesKey} ${c.CharaName}`;
-    const startYear = getYear(c);
-    bc.addBirthday(summary, c.BirthMonth, c.BirthDay, {
-      startYear,
-      description: c.BirthdayNote ?? "",
+  grouped.forEach((characters, seriesKey) => {
+    const c0 = characters[0];
+    const groupSummaries = [c0.SeriesNameJa];
+    if (c0.SeriesNameEn) groupSummaries.push("/", c0.SeriesNameEn);
+    groupSummaries.push(
+      `[${c0.ReleaseYear}${
+        c0.ReleaseYearNote ? `(${c0.ReleaseYearNote})` : ""
+      }]`
+    );
+    const groupSummary = groupSummaries.join(" ");
+    const groupTable =
+      characters.length === 1
+        ? ""
+        : characters
+            .map((c) => {
+              return `${c.CharaName} ${c.BirthMonth ?? "?"}/${
+                c.BirthDay ?? "?"
+              }`;
+            })
+            .join("\n");
+    characters.forEach((c) => {
+      if (!hasBirthday(c)) return;
+      const summary =
+        c.SeriesKey === c.CharaName
+          ? c.CharaName
+          : `${c.SeriesKey} ${c.CharaName}`;
+      const startYear = getYear(c);
+      const descriptionBlocks: string[] = [];
+      if (c.BirthdayNote) descriptionBlocks.push(c.BirthdayNote);
+      descriptionBlocks.push(groupSummary, groupTable);
+      bc.addBirthday(summary, c.BirthMonth, c.BirthDay, {
+        startYear,
+        description: descriptionBlocks.join("\n\n"),
+      });
     });
   });
   return bc;

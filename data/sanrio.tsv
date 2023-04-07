@@ -79,12 +79,12 @@ MM	ふくろうのおじさん	Bird
 MM	とりさん	Bird			
 MM	ちょうちょさん	Bird			
 MM	アヒルの親子	Bird			
-SB	バロー	Donkey			
-SB	スピーディ	Mouse			
-SB	キャシー	Cat			
-SB	ピキ	Pig			
-SB	ロビン	Rabbit			
-SB	モグ	Mole			
+スパンキーバロー	バロー	Donkey			
+スパンキーバロー	スピーディ	Mouse			
+スパンキーバロー	キャシー	Cat			
+スパンキーバロー	ピキ	Pig			
+スパンキーバロー	ロビン	Rabbit			
+スパンキーバロー	モグ	Mole			
 ララバイラバブルズ	ウィンキー	Human			
 ララバイラバブルズ	ウィンクル	Human			
 ララバイラバブルズ	テディ	Bear			
@@ -357,7 +357,7 @@ KA	るぱぱ
 ディンドンダニー	ディン	Bear			
 ディンドンダニー	ドン	Bear			
 ディンドンダニー	ダニー	Bear			
-SD	スポッティドッティ	Dog	3	21	
+スポッティドッティ	スポッティドッティ	Dog	3	21	
 スポッティドッティ	サッシー	Cat			
 WK	ワッフル	Bear	5	5	
 WK	マフィン	Bear	3	3	

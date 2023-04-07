@@ -3,22 +3,22 @@ SeriesKey	SeriesNameJa	SeriesNameEn	ReleaseYear	ReleaseYearNote	ParentSeriesKey
 バニー＆マッティ	バニー＆マッティ	BUNNY & MATTY	1974		
 TS	リトルツインスターズ	LITTLE TWIN STARS	1975		
 TP	タイニーポエム	TINY POEM	1975		
-スモールピープル	スモールピープル	SMALL PEOPLE	1976		
+SP	スモールピープル	SMALL PEOPLE	1976		
 KT	ハローキティ	HELLO KITTY	1974	デザイン制作された年	
 DN	ディアダニエル	DEAR DANIEL	1999		KT
 PJ	パティ＆ジミー	PATTY & JIMMY	1974		
-ロビーラビット	ロビーラビット	ROBBY RABBIT	1975		
+RR	ロビーラビット	ROBBY RABBIT	1975		
 SK	いちごの王さま		1975		
 ピーク・ア・ブー	ピーク・ア・ブー	PEEK・A・BOO	1977		
 八千代チャーマー	八千代チャーマー		1974		
 MM	マイメロディ	MY MELODY	1975		
-スパンキーバロー	スパンキーバロー	SPUNKY BURRO	1975		
+SB	スパンキーバロー	SPUNKY BURRO	1975		
 ララバイラバブルズ	ララバイラバブルズ	LULLABY LOVABLES	1976		
 ファンシーエレファント	ファンシーエレファント	FANCY ELEPHANT	1977		
 汽車	汽車	THE LITTLE TRAIN	1977		
 ピーターデイビス	ピーターデイビス	PETER DAVIS	1978		
 BN	ボタンノーズ	BUTTON NOSE	1978		
-ボーイ&ガール	ボーイ&ガール	BOY & GIRL	1978		
+BG	ボーイ&ガール	BOY & GIRL	1978		
 ブーギーブー	ブーギーブー	BOO GIE BOO	1978		
 ラビーデイズ	ラビーデイズ	LOVEE DAYS	1978		
 ビッグチャレンジ	ビッグチャレンジ	BIG CHALLENGES	1978		
@@ -27,29 +27,29 @@ TX	タキシードサム	TUXEDOSAM	1979
 キャプテンウィリー（水兵）	キャプテンウィリー（水兵）	CAPTAIN WILLY	1979		
 キャプテンウィリー（クジラ）	キャプテンウィリー（クジラ）	CAPTAIN WILLY	1985		
 フェアリーチャーマー	フェアリーチャーマー	FAIRY CHARMER	1979		
-セブンシリードワーフ	セブンシリードワーフ	SEVEN SILLY DWARFS	1979		
+SD	セブンシリードワーフ	SEVEN SILLY DWARFS	1979		
 プレインパラダイス	プレインパラダイス	PLAYIN' PARADISE	1979		
 CH	チアリーチャム	CHEERY CHUMS	1979		
-トリップトゥワンダーランド	トリップトゥワンダーランド	TRIP TO WONDERLAND	1979		
+TW	トリップトゥワンダーランド	TRIP TO WONDERLAND	1979		
 トリックトラップ	トリックトラップ	TRIC TRAP	1979		
 ドゥーピーデーモンズ	ドゥーピーデーモンズ	DOPEY DEMONS	1979		
-クイックワックス	クイックワックス	QUI-QUAKS	1979		
+QQ	クイックワックス	QUI-QUAKS	1979		
 キッズベア（ハウディ）	キッズベア（ハウディ）	KIDSBEAR	1979		
 MP	マイスウィートピアノ	MY SWEET PIANO	1980		MM
-ウィーメリールー	ウィーメリールー		1980		
+ML	ウィーメリールー		1980		
 ボゴ ザ シティボーイ	ボゴ ザ シティボーイ	BOGO THE CITY BOY	1980		
 プチアンジュ	プチアンジュ	PETIT ANGE	1980		
-パピーラブ	パピーラブ	PUPPIE LUV	1980		
+PL	パピーラブ	PUPPIE LUV	1980		
 チェルシーストライプス	チェルシーストライプス	CHELSEA STRIPES	1980		
 トゥイーディードロップス	トゥイーディードロップス	TWEE DEE DROPS	1980		
 ビリーパイ	ビリーパイ	BILLY-PIE	1981		
-メローチューン	メローチューン	MELLOTUNE	1981		
+MT	メローチューン	MELLOTUNE	1981		
 ゾウ自転車	ゾウ自転車		1981		
 FP	フレッシュパンチ	FRESH PUNCH	1981		
 ハウストレイン	ハウストレイン	HOUSE TRAIN	1981		
 バブルチークス	バブルチークス	BUBBLE CHEEKS	1982		
 GO	ゴロピカドン	GOROPIKADON	1982		
-ファンカムアライブ	ファンカムアライブ	FUN COME ALIVE	1983		
+FA	ファンカムアライブ	FUN COME ALIVE	1983		
 BD	ミスターベアーズドリーム	MR. BEAR'S DREAM	1983		
 クラフティクルー	クラフティクルー	CRAFTYCREW	1983		
 VA	ザ ボードビルデュオ	THE VAUDEVILLE DUO	1983		
@@ -85,20 +85,20 @@ NN	ノラネコランド	NORANEKOLAND	1985
 テディ ザ テディ	テディ ザ テディ	TEDDY THE TEDDY	1985		
 コットンテイルズ	コットンテイルズ	COTTONTAILS	1985		
 トレンドセッターズ	トレンドセッターズ	TREND SETTERS	1985		
-ビバリーヒルズキッド	ビバリーヒルズキッド	BEVERLY HILLS KID	1986		
+BK	ビバリーヒルズキッド	BEVERLY HILLS KID	1986		
 ユータクン	ユータクン	YŪTAKUN	1986		
 アルフレッドアロハ	アルフレッドアロハ		1986		
 UM	ウメ屋雑貨店		1986		
 ようかいきっず	ようかいきっず		1986		
-PD	ぽこぽん日記		1986		
+PK	ぽこぽん日記		1986		
 ブラウニーズストーリー	ブラウニーズストーリー	BROWNIES' STORY	1986		
-パジャマクラブ	パジャマクラブ	PAJAMASCLUB	1986		
-トウィードルディーディー	トウィードルディーディー	TWEEDLE DEE DEE	1986		
+PA	パジャマクラブ	PAJAMASCLUB	1986		
+TD	トウィードルディーディー	TWEEDLE DEE DEE	1986		
 すずめや	すずめや		1986		
 ファジーズファミリー	ファジーズファミリー	FUZZIE'S FAMILY	1987		
 MC	ミミックマイク	MIMICMIKE	1987		
 スティルスモールテイルズ	スティルスモールテイルズ	STILL SMALL TALES	1987		
-ダッカドゥ	ダッカドゥ	DUCKADOO	1987		
+DD	ダッカドゥ	DUCKADOO	1987		
 PI	パウピポ	PAUPIPO	1987		
 ディーンザビーン	ディーンザビーン	DEAN THE BEAN	1987		
 きんぎょ堂本舗	きんぎょ堂本舗		1987		
@@ -115,21 +115,21 @@ WA	笑う女		1989
 ロージィポージィ	ロージィポージィ	ROSIE POSIE	1989		
 るるる学園	るるる学園	RURURUGAKUEN	1989		
 ミリーピクシー	ミリーピクシー	MILLY PIXIE	1989		
-ぽんぽんひえた	ぽんぽんひえた	PON PON HIETA	1989		
-いっくちゃん	いっくちゃん		1989		
-ウィンキーピンキー	ウィンキーピンキー	WINKIPINKI	1989		
-カッパルンバ	カッパルンバ	KAPPA RUMBA	1989		
+PO	ぽんぽんひえた	PON PON HIETA	1989		
+IK	いっくちゃん		1989		
+WP	ウィンキーピンキー	WINKIPINKI	1989		
+KA	カッパルンバ	KAPPA RUMBA	1989		
 タバサディーン	タバサディーン	TABITHADEAN	1989		
 どんじゃらほい	どんじゃらほい		1989		
 トフィールー	トフィールー	TOFFEEROO	1989		
 ディンドンダニー	ディンドンダニー	DIN DON DANNY	1989		
 SD	スポッティドッティ	SPOTTIE DOTTIE	1990		
-ワッフルキッズ	ワッフルキッズ	WAFFLE KIDS	1990		
-てつなぎクマ	てつなぎクマ		1990		
+WK	ワッフルキッズ	WAFFLE KIDS	1990		
+TK	てつなぎクマ		1990		
 リトルコットンウッドコテージ	リトルコットンウッドコテージ	LITTLE COTTONWOOD COTTAGE	1990		
 ぴんきぃびぃちゃん	ぴんきぃびぃちゃん	PINKI BEE CHAN	1991		
 フーティフーツ	フーティフーツ	HOOTYHOOTS	1991		
-シュガークリームパフ	シュガークリームパフ	SUGARCREAMPUFF	1991		
+SU	シュガークリームパフ	SUGARCREAMPUFF	1991		
 プカプカパラダイス	プカプカパラダイス		1991		
 ファニーボーンズ	ファニーボーンズ	FUNNY BONES	1992		
 ウィアーダイナソアーズ！	ウィアーダイナソアーズ！	WE ARE DINOSAURS!	1992		
@@ -139,13 +139,13 @@ OM	おさるのもんきち		1992
 PY	パタパタペッピー	PATA PATA PEPPY	1992		
 チューチューターコ	チューチューターコ	CHU-CHU-TA-CO	1992		
 XO	バッドばつ丸	BAD BADTZ-MARU	1993		
-パラダイスライブス	パラダイスライブス	PARADISE LIVES	1993		
+PR	パラダイスライブス	PARADISE LIVES	1993		
 レヌヌオース	レヌヌオース	LES NOUNOURS	1993		
 カッパのカッピー	カッパのカッピー	KAPPA NO KAPPI	1993		
 KP	こぶたのピッポ	KOBUTA NO PIPPO	1993		
-ベンジャミンベア	ベンジャミンベア	BENJAMINBEAR	1993		
+BB	ベンジャミンベア	BENJAMINBEAR	1993		
 ジンジャースナップ	ジンジャースナップ	GINGERSNAP	1993		
-フレンドリーコッコちゃん	フレンドリーコッコちゃん		1993		
+FK	フレンドリーコッコちゃん		1993		
 花とうさぎ	花とうさぎ		1993		
 つぐみ堂	つぐみ堂		1993		
 ピッケビッケ	ピッケビッケ	PICKE BICKE	1994		
@@ -156,6 +156,7 @@ HB	ホリーズベアー	HOLLY'S BEAR	1994
 ピックスプレス	ピックスプレス	P.I.X.PRESS	1994		
 ハッパキッズ	ハッパキッズ	HAPPAKIDS	1994		
 プワワ	プワワ	PUWAWA	1995		
+CM	チッピイマウス	CHIPPYMOUSE	1995		
 テルテルポロンちゃん	テルテルポロンちゃん		1995		
 PN	ポムポムプリン	POMPOMPURIN	1996		
 ウィスカーズ＆パウズ	ウィスカーズ＆パウズ	WHISKERS & PAWS	1996		
@@ -169,21 +170,21 @@ OF	おきがるふれんず		1997
 SS	シンカンセン	SHINKANSEN	1999		
 へーすけ	へーすけ		1999		
 TL	たらいぐまのらんどりー		1999		
-ねむっこにゃ〜ご	ねむっこにゃ〜ご		1999		
+NM	ねむっこにゃ〜ご		1999		
 はんなりこまち	はんなりこまち		2000		
 RW	ロボワン	ROBOW@N	2000		
 US	ウサハナ	U・SA・HA・NA	2000		
-SC	スウィートコロン	SWEETCORON	2000		
+CR	スウィートコロン	SWEETCORON	2000		
 プチメリッコ	プチメリッコ	PETITE MERICCO	2000		
 CP	ちょこぱんだ		2000		
 CN	シナモロール	CINNAMOROLL	2002	初めてグッズが発売された年	
 HW	ホシノワグマ	HOSHINOWAGUMA	2001		
-プルルンキュピ	プルルンキュピ		2001		
+PQ	プルルンキュピ		2001		
 タビスケ	タビスケ	TABISUKE	2001		
-チュッピーズ	チュッピーズ	CHUPPIES	2001		
+CU	チュッピーズ	CHUPPIES	2001		
 DL	ディアリールー	DEERY-LOU	2001		
 パンダップル	パンダップル	PANDAPPLE	2002		
-FZ	フォーミュリックスゼット	FORMULIX Z	2002		
+FM	フォーミュリックスゼット	FORMULIX Z	2002		
 PW	ぷちぷちわんこ		2002		
 CI	ちびまる	CHI・BI・MA・RU	2002		
 PT	パンナピッタ	PANNAPITTA	2003		
@@ -203,7 +204,7 @@ BF	ベストフレンズストーリー	BESTFRIENDS' STORY	2007
 ザ ラナバウツ（働く車）	ザ ラナバウツ（働く車）	THE RUNABOUTS（Working car）	2007		RB
 JL	ジュエルペット	JEWELPET	2008		
 SM	シュガーメヌエット	SUGARMINUET	2008		SI
-チェリーナチェリーネ	チェリーナチェリーネ	CHERINACHERINE	2008		
+CE	チェリーナチェリーネ	CHERINACHERINE	2008		
 MI	ミスベアーズドリーム	MISS BEAR'S DREAM	2009		BD
 NP	ニョッキ＆ペンネ	NYOKKI & PENNE	2009		
 WI	ウィッシュミーメル	WISH ME MELL	2010		
@@ -212,7 +213,7 @@ IG	イチゴマン	ICHIGOMAN	2011		KT
 DG	ダークグレープマン	DARKGRAPEMAN	2012		KT
 HM	ハニーモモ	HONEYMOMO	2012		
 GP	ゴーエクスパンダ	GOEXPANDA	2011		
-ビートロイド	ビートロイド	BEETROID	2011		
+BR	ビートロイド	BEETROID	2011		
 SR	ショウバイロック!!	SHOW BY ROCK!!	2012		
 SRプラズマ	プラズマジカ		2012		SR
 SRシンガン	シンガンクリムゾンズ		2012		SR
@@ -259,6 +260,7 @@ HU	ハミングミント	HUMMINGMINT	2014
 SZ	シンカイゾク	SHINKAIZOKU	2014		
 CG	こぎみゅん	COGIMYUN	2015		
 AR	アグレッシブ烈子	AGGRESSIVE RETSUKO	2015		
+RF	リルリルフェアリル	RILU RILU FAIRILU	2015		
 LF	リトルフォレストフェロォ	LITTLEFORESTFELLOW	2015		MM
 HA	歯ぐるまんすたいる	HAGURUMANSTYLE	2015		
 中年ひろいん Ojisan's	中年ひろいん Ojisan's		2015		
@@ -276,3 +278,5 @@ BA	ぼさにまる	BOSANIMAL	2021
 TF	ターフィー	TURFY	2004		
 ポポネン	ポポネン		2020		CN
 リトルラヴィン	リトルラヴィン		2016		
+DF	ドリモンファクトリー		2019		
+YK	Yoshikitty		2009		KT

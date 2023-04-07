@@ -8,7 +8,7 @@ TS	パフ	Bear
 TS	ポフ	Bear			
 TS	ネムリン				
 TP	さっちゃん	Human	1	21	
-スモールピープル	スイートキャンディ	Human			
+SP	スイートキャンディ	Human			
 KT	キティ	Cat	11	1	
 KT	ミミィ	Cat	11	1	
 KT	ジョージ	Cat	6	3	
@@ -44,9 +44,9 @@ PJ	ジミー	Human	7	30
 PJ	ビリー	Human			
 PJ	ドラ	Human			
 PJ	ファジー	Dog			
-ロビーラビット	ロビーラビット	Rabbit			
-ロビーラビット	ビービー	Bee			
-ロビーラビット	ハニービー	Bee			
+RR	ロビーラビット	Rabbit			
+RR	ビービー	Bee			
+RR	ハニービー	Bee			
 SK	いちごの王さま	Human	12	7	
 SK	ダンディ	Human	5	24	
 SK	トミー	Human	8	18	
@@ -79,12 +79,12 @@ MM	ふくろうのおじさん	Bird
 MM	とりさん	Bird			
 MM	ちょうちょさん	Bird			
 MM	アヒルの親子	Bird			
-スパンキーバロー	バロー	Donkey			
-スパンキーバロー	スピーディ	Mouse			
-スパンキーバロー	キャシー	Cat			
-スパンキーバロー	ピキ	Pig			
-スパンキーバロー	ロビン	Rabbit			
-スパンキーバロー	モグ	Mole			
+SB	バロー	Donkey			
+SB	スピーディ	Mouse			
+SB	キャシー	Cat			
+SB	ピキ	Pig			
+SB	ロビン	Rabbit			
+SB	モグ	Mole			
 ララバイラバブルズ	ウィンキー	Human			
 ララバイラバブルズ	ウィンクル	Human			
 ララバイラバブルズ	テディ	Bear			
@@ -92,8 +92,8 @@ MM	アヒルの親子	Bird
 汽車	汽車	Vehicle			
 ピーターデイビス	ピーターデイビス	Dog			
 BN	トリシュ	Human	1	5	
-ボーイ&ガール	男の子	Human			
-ボーイ&ガール	女の子	Human			
+BG	男の子	Human			
+BG	女の子	Human			
 ブーギーブー	ブーギーブー	Dog			
 ラビーデイズ	ラビーデイズ	Cat			
 ビッグチャレンジ	ビッグチャレンジ	Crocodile			
@@ -107,7 +107,7 @@ TX	カニヤン	Crab
 キャプテンウィリー（水兵）	キャプテンウィリー（水兵）	Human			
 キャプテンウィリー（クジラ）	キャプテンウィリー（クジラ）	Whale			
 フェアリーチャーマー	フェアリーチャーマー	Fairy			
-セブンシリードワーフ	セブンシリードワーフ	Fairy			
+SD	セブンシリードワーフ	Fairy			
 プレインパラダイス	プレインパラダイス	Rabbit, Dog, Cat			
 CH	チャム	Rabbit			
 CH	パム	Elephant	10	10	
@@ -115,28 +115,28 @@ CH	プー	Pig	2	23
 CH	ミュー	Cat	8	13	
 CH	ムー	Bear	8	19	
 CH	チュ	Mouse			
-トリップトゥワンダーランド	オオカミ	Wolf			
-トリップトゥワンダーランド	ウサギ	Rabbit			
-トリップトゥワンダーランド	ゾウ	Elephant			
-トリップトゥワンダーランド	キリン	Giraffe			
-トリップトゥワンダーランド	ネコ	Cat			
+TW	オオカミ	Wolf			
+TW	ウサギ	Rabbit			
+TW	ゾウ	Elephant			
+TW	キリン	Giraffe			
+TW	ネコ	Cat			
 トリックトラップ	トリックトラップ	Dog			
 ドゥーピーデーモンズ	ドゥーピーデーモンズ	Demon			
-クイックワックス	お父さん	Bird			
-クイックワックス	三つ子の男のコ	Bird			
-クイックワックス	クィニー	Bird			
+QQ	お父さん	Bird			
+QQ	三つ子の男のコ	Bird			
+QQ	クィニー	Bird			
 キッズベア（ハウディ）	キッズベア（ハウディ）	Bear			
-ウィーメリールー	メリールー	Human			
+ML	メリールー	Human			
 ボゴ ザ シティボーイ	ボゴ				
 プチアンジュ	プチアンジュ	Human			
-パピーラブ	スタイリッシュ ラビット	Rabbit			
-パピーラブ	ジェントルマン ドッグ	Dog			
-パピーラブ	スマーティー キャット	Cat			
-パピーラブ	スポーティ ベア	Bear			
+PL	スタイリッシュ ラビット	Rabbit			
+PL	ジェントルマン ドッグ	Dog			
+PL	スマーティー キャット	Cat			
+PL	スポーティ ベア	Bear			
 チェルシーストライプス	チェルシーストライプス	Fairy			
 トゥイーディードロップス	トゥイーディードロップス	Rabbit			
 ビリーパイ	ビリーパイ	Bear			
-メローチューン	メローチューン	Cat			
+MT	メローチューン	Cat			
 ゾウ自転車	ゾウ自転車	Elephant			
 FP	フレッシュパンチ				
 ハウストレイン	ハウストレイン	Vehicle			
@@ -144,7 +144,7 @@ FP	フレッシュパンチ
 GO	ゴロ	Human			かみなり歴53年14月25日
 GO	ピカ	Human			かみなり歴53年14月25日
 GO	ドン	Human			かみなり歴53年14月25日
-ファンカムアライブ	ファンカムアライブ	Bear			
+FA	ファンカムアライブ	Bear			
 BD	ミスターベアーズドリーム	Bear			
 クラフティクルー	クラフティクルー	Elephant, Cat, Rabbit, Lion, Bear			
 VA	エディ	Human	1	25	
@@ -251,29 +251,29 @@ NN	ミケ	Cat	11	19
 テディ ザ テディ	テディ ザ テディ	Bear			
 コットンテイルズ	コットンテイルズ	Rabbit			
 トレンドセッターズ	トレンドセッターズ	Human			
-ビバリーヒルズキッド	フィリップアレン	Dog			
+BK	フィリップアレン	Dog			
 ユータクン	ユータクン	Ghost			
 アルフレッドアロハ	アルフレッドアロハ	Elephant			
 UM	おウメばあちゃん	Human	5	18	
 ようかいきっず	ドラムスコ	Ghost			
 ようかいきっず	ミイラゴン	Ghost			
 ようかいきっず	マジョリン	Ghost			
-PD	本舗固 歩香本	Raccon Dog	9	15	ぽこぽん年の十五夜（SPLでは9月15日扱い）
-PD	本舗固 狐狸庵	Raccon Dog			
-PD	本舗固 夢千代	Raccon Dog			
-PD	分部久 花	Raccon Dog	3	3	
-PD	うずら	Cat			
-PD	分部久 源内	Raccon Dog			
+PK	本舗固 歩香本	Raccon Dog	9	15	ぽこぽん年の十五夜（SPLでは9月15日扱い）
+PK	本舗固 狐狸庵	Raccon Dog			
+PK	本舗固 夢千代	Raccon Dog			
+PK	分部久 花	Raccon Dog	3	3	
+PK	うずら	Cat			
+PK	分部久 源内	Raccon Dog			
 ブラウニーズストーリー	ペニー	Bird			
 ブラウニーズストーリー	ジングル	Dog			
 ブラウニーズストーリー	レックス	Fox			
-パジャマクラブ	リトルローリー	Elephant			
-トウィードルディーディー	トウィードルディーディー	Bear			
+PA	リトルローリー	Elephant			
+TD	トウィードルディーディー	Bear			
 すずめや	すずめや	Bird, Rabbit, Fox			
 ファジーズファミリー	ファジーズファミリー	Bear			
 MC	ミミックマイク	Dog	7	21	
 スティルスモールテイルズ	スティルスモールテイルズ	Snow			
-ダッカドゥ	ダッカドゥ	Bird			
+DD	ダッカドゥ	Bird			
 PI	パウピポ	Giraffe	7	30	
 ディーンザビーン	ディーンザビーン	Human			
 きんぎょ堂本舗	きんぎょちゃん	Fish			
@@ -342,10 +342,10 @@ PC	ジャンプ	Dolphin	3	21
 るるる学園	立津手とも	Human	9	9	
 るるる学園	雨田てるみ	Human	12	18	
 ミリーピクシー	ミリーピクシー	Bear	3	1	
-ぽんぽんひえた	ぽんぽんひえた	Human			
-いっくちゃん	いっくちゃん	Human			
-ウィンキーピンキー	ウィンキーピンキー	Cat			チューリップがお庭に咲くころ
-カッパルンバ	るぱぱ				
+PO	ぽんぽんひえた	Human			
+IK	いっくちゃん	Human			
+WP	ウィンキーピンキー	Cat			チューリップがお庭に咲くころ
+KA	るぱぱ				
 タバサディーン	タバサディーン	Human	10	24	2000年10月24日
 どんじゃらほい	ぎゅうべえ	Cow			
 どんじゃらほい	コン吉	Fox			
@@ -359,14 +359,14 @@ PC	ジャンプ	Dolphin	3	21
 ディンドンダニー	ダニー	Bear			
 SD	スポッティドッティ	Dog	3	21	
 スポッティドッティ	サッシー	Cat			
-ワッフルキッズ	ワッフル	Bear	5	5	
-ワッフルキッズ	マフィン	Bear	3	3	
-ワッフルキッズ	ビスケット	Bear	10	10	
-ワッフルキッズ	フリッター	Porcupine	5	3	
-ワッフルキッズ	クッキー	Rabbit	12	25	
-ワッフルキッズ	タフィー	Bird	11	3	
-ワッフルキッズ	ピスタチオ	Dog	4	29	
-てつなぎクマ	てつなぎクマ	Bear			
+WK	ワッフル	Bear	5	5	
+WK	マフィン	Bear	3	3	
+WK	ビスケット	Bear	10	10	
+WK	フリッター	Porcupine	5	3	
+WK	クッキー	Rabbit	12	25	
+WK	タフィー	Bird	11	3	
+WK	ピスタチオ	Dog	4	29	
+TK	てつなぎクマ	Bear			
 リトルコットンウッドコテージ	イエロー	Fairy			
 リトルコットンウッドコテージ	パープル	Fairy			
 リトルコットンウッドコテージ	レッド	Fairy			
@@ -376,7 +376,7 @@ SD	スポッティドッティ	Dog	3	21
 リトルコットンウッドコテージ	グレー	Fairy			
 ぴんきぃびぃちゃん	ぴんきぃびぃちゃん	Bee			
 フーティフーツ	フーティフーツ	Bird			
-シュガークリームパフ	シュガークリームパフ	Bear	10	5	
+SU	シュガークリームパフ	Bear	10	5	
 プカプカパラダイス	プカプカパラダイス	Jellyfish	3	12	
 プカプカパラダイス	デンキクラゲ	Jellyfish			
 ファニーボーンズ	ファニーボーンズ	Dog			
@@ -408,8 +408,8 @@ XO	伊集院パンダバ	Panda	8	8
 XO	はなたれカメ	Turtle			
 XO	蘇我イルカ	Dolphin			
 XO	小川サメオ	Shark			
-パラダイスライブス	カモカモ	Platypus			
-パラダイスライブス	ハリー	Echidna			
+PR	カモカモ	Platypus			
+PR	ハリー	Echidna			
 レヌヌオース	レヌヌオース	Bear			
 カッパのカッピー	カッピー	Kappa			
 カッパのカッピー	リンリン	Flower			
@@ -419,9 +419,9 @@ KP	ユメハ	Squirrel	10	10
 KP	ケン	Bird			
 KP	ハナ	Bird			
 KP	サワ	Bird			
-ベンジャミンベア	ベンジャミンベア	Bear			
+BB	ベンジャミンベア	Bear			
 ジンジャースナップ	ジンジャースナップ	Mouse			
-フレンドリーコッコちゃん	フレンドリーコッコちゃん	Bird			
+FK	フレンドリーコッコちゃん	Bird			
 花とうさぎ	花とうさぎ	Rabbit			
 つぐみ堂	つぐみ堂	Bird			
 ピッケビッケ	ピッケビッケ	Mouse	1	1	ねずみ年の１月１日
@@ -436,6 +436,10 @@ HB	ホリーズベアー	Bear
 ピックスプレス	ピックスプレス	Frog			
 ハッパキッズ	ハッパキッズ	Insect			
 プワワ	プワワ	Ghost			流れ星が、南の空をよぎった満月の夜。
+CM	チッピイ	Mouse			
+CM	グー	Mouse			
+CM	パット	Mouse			
+CM	チョキ	Mouse			
 テルテルポロンちゃん	テルテルポロンちゃん				
 PN	プリン	Dog	4	16	4月16日のお天気いい日
 PN	マフィン	Hamster	9	16	
@@ -569,9 +573,9 @@ TL	らんどりー	Raccoon	12	8
 TL	ピー	Bird			
 TL	カエルくん	Frog			
 TL	ナッツ	Squirrel	10	10	
-ねむっこにゃ〜ご	ねむっこにゃ〜ご	Cat	9	9	
-ねむっこにゃ〜ご	ぐう	Cat			
-ねむっこにゃ〜ご	ピッピ	Bird			
+NM	ねむっこにゃ〜ご	Cat	9	9	
+NM	ぐう	Cat			
+NM	ピッピ	Bird			
 はんなりこまち	こまち	Cat	3	3	
 RW	ROBOW@N	Dog	11	11	
 US	ウサハナ	Rabbit	8	7	
@@ -580,7 +584,7 @@ US	パンニャちゃん	Panda	3	14
 US	ワンワちゃん	Dog	11	11	
 US	ブッピーくん	Pig	10	10	
 US	ニャーコちゃん	Cat	2	7	
-SC	コロン	Bee	3	28	
+CR	コロン	Bee	3	28	
 プチメリッコ	プチメリッコ	Sheep	2	14	
 CP	親方	Panda	10	18	
 CP	テンさん	Panda			
@@ -600,20 +604,20 @@ CN	シロ太郎	Cat
 CN	鳥さん	Bird			
 CN	くまさん	Beer			
 HW	ポー	Beer	2	7	
-プルルンキュピ	プルルンキュピ	Fairy			
+PQ	プルルンキュピ	Fairy			
 タビスケ	タビスケ		9	7	
-チュッピーズ	ベリー	Mouse			
-チュッピーズ	ソーダ	Mouse			
-チュッピーズ	ミント	Mouse			
-チュッピーズ	グレープ	Mouse			
-チュッピーズ	レモン	Mouse			
+CU	ベリー	Mouse			
+CU	ソーダ	Mouse			
+CU	ミント	Mouse			
+CU	グレープ	Mouse			
+CU	レモン	Mouse			
 DL	ルー	Deer	1	8	
 DL	青い小鳥さん	Bird			
 DL	赤いキノコさん	Mushroom			
 DL	小さいキノコさん	Mushroom			
 パンダップル	パンダップル	Panda	6	2	
 パンダップル	イモムシちゃん	Insect			
-FZ	Z	Vehicle			
+FM	Z	Vehicle			
 PW	ぷち	Dog	10	15	わんこの日
 CI	ちびまる	Dog	2	2	
 CI	そら	Dog	5	5	
@@ -765,8 +769,8 @@ JL	コロン	Hamster	11	11
 JL	グミミン	Fennec	5	30	
 SM	バレエうさ	Rabbit			
 SM	プリマうさ	Rabbit			
-チェリーナチェリーネ	チェリーナ	Fairy			
-チェリーナチェリーネ	チェリーネ	Fairy			
+CE	チェリーナ	Fairy			
+CE	チェリーネ	Fairy			
 MI	ミスベアーズドリーム	Beer	6	24	
 NP	ニョッキ	Cat			
 NP	ペンネ	Cat			
@@ -794,7 +798,7 @@ IG	イチゴマン	Cat	1	15	ハローキティが初めてイチゴマンに変�
 DG	ダークグレープマン	Cat	9	23	
 HM	ハニーモモ	Cat	3	3	
 GP	ゴーちゃん。	Panda	5	5	
-ビートロイド	ビートロイド	Insect			
+BR	ビートロイド	Insect			
 SR	有栖川メイプル	Food			
 SR	ラメカ・パシャリコワ	Mouse			
 SR	ジーペ・パリスガワ				
@@ -1046,6 +1050,100 @@ AR	ヨコサワさん
 AR	マジロさん				
 AR	穴井				
 AR	胡麻川さん				
+RF	りっぷ				
+RF	ひまわり				
+RF	ローズ				
+RF	すみれ				
+RF	りん				
+RF	さくら				
+RF	あじさい				
+RF	すず				
+RF	らん				
+RF	オリーブ				
+RF	ダンテ				
+RF	ジャスミン				
+RF	ひがん				
+RF	かすみ				
+RF	ガーベラ				
+RF	ダリア				
+RF	アザミ				
+RF	しじみ				
+RF	みるる				
+RF	アキアカネ				
+RF	レディ				
+RF	カマキリ				
+RF	スパイダー				
+RF	ホタル				
+RF	シロ				
+RF	かいこちゃん				
+RF	おタマさん				
+RF	カブト				
+RF	クワ				
+RF	あこや				
+RF	わかめ				
+RF	サンゴ				
+RF	ミスティ				
+RF	フィッシュ				
+RF	メッシュ				
+RF	ペン				
+RF	ルカ				
+RF	レインボー				
+RF	あめみ				
+RF	サンダー				
+RF	サン				
+RF	オーロラ				
+RF	おゆき				
+RF	スター				
+RF	くもも				
+RF	ウィンド				
+RF	のこ				
+RF	ドット				
+RF	ダケ				
+RF	ベニテング				
+RF	ヤコウ				
+RF	きのこうさぎ				
+RF	なめこ				
+RF	ほうし				
+RF	きんし				
+RF	コーン				
+RF	アーティ				
+RF	タマちゃん				
+RF	キャロット				
+RF	とまと				
+RF	キャベツ				
+RF	だんしゃく				
+RF	セロリ				
+RF	ブロコ				
+RF	カリコ				
+RF	ぴぃす				
+RF	ベガ				
+RF	プロキオン				
+RF	シリウス				
+RF	スピカ				
+RF	りんご				
+RF	モモ				
+RF	レモン				
+RF	さっくー&らんぼー				
+RF	ザクロ				
+RF	パイン				
+RF	ブルーベリー				
+RF	ストロベリー				
+RF	スウィーティー				
+RF	ラフレ				
+RF	トラ				
+RF	ハエトリー				
+RF	サボボン				
+RF	おじぎそう				
+RF	ウツボン				
+RF	ドリアン				
+RF	ジョンメケ				
+RF	きんぎょ先生				
+RF	ネコ夫人				
+RF	ぽわわ				
+RF	ポワリザ				
+RF	フェアリルゴール				
+RF	フェアリルマージ				
+RF	ホッパー				
 LF	めろぉ	Rabbit	6	18	メロディは1月18日だと思っていたけど、本当は6月18日
 LF	くまぉ				
 LF	うりぼ				
@@ -1157,3 +1255,5 @@ TF	ポニータ	Horse
 リトルラヴィン	妹	Dog			
 リトルラヴィン	双子の妹	Dog			
 リトルラヴィン	双子の弟	Dog			
+DF	ドリモンファクトリー	Food			
+YK	Yoshikitty	Cat	11	1	

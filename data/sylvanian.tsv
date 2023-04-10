@@ -99,15 +99,16 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 グレイッシュネコ	ふたごちゃん	女の子		Lulu	F	5	17	
 グレイッシュネコ	おじいさん			Bert	M			
 グレイッシュネコ	おばあさん			Joyes	F			
-グレークマ	お父さん			Forrest	M			
+グレークマ	お父さん			Forrest	M	11	16	
 グレークマ	お母さん			Honeysuckle	F	8	2	
-グレークマ	お兄さん			Logan	M			
+グレークマ	お兄さん			Logan	M	4	8	
 グレークマ	お姉さん			Summer	F	10	3	
 グレークマ	男の子			Preston	M	1	31	
-グレークマ	女の子			Ashley	F			
+グレークマ	女の子			Ashley	F	3	12	
+グレークマ	赤ちゃん					10	4	
 グレークマ	ふたごちゃん	男の子		Dusty	M			
 グレークマ	ふたごちゃん	女の子		Poppy	F			
-グレークマ	おじいさん			Ernest	M			
+グレークマ	おじいさん			Ernest	M	3	8	
 グレークマ	おばあさん			Primrose	F	12	8	
 コアラ	お父さん		ブルース	Bruce	M	1	3	
 コアラ	お母さん		カリッサ	Carissa	F	10	29	
@@ -155,6 +156,13 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 シマネコ	赤ちゃん		アプリコット	Apricot	F	4	11	すべり台であそぶこと
 シマネコ	ふたごちゃん	男の子/ブルー服	スコット	Scott	M	1	18	
 シマネコ	ふたごちゃん	女の子/ピンク服	スカイラー	Skyler	F	1	18	
+シマリス	お父さん			Kenneth	M			
+シマリス	お母さん			Emma	F			
+シマリス	男の子			Douglas	M	3	15	
+シマリス	女の子			Greta	F			
+シマリス	赤ちゃん							
+シマリス	ふたごちゃん	男の子		Ray	M			
+シマリス	ふたごちゃん	女の子		Fay	F			
 ショコラウサギ	お父さん		フレイジャー	Frasier	M	7	1	パンをやくこと
 ショコラウサギ	お母さん		テリー	Teri	F	11	17	ガーデニング・料理
 ショコラウサギ	お姉さん		ステラ	Stella	F	11	29	
@@ -220,6 +228,13 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 チワワ	赤ちゃん		ジョリンダ	Joelynda	F	4	12	つみ木であそぶこと
 チワワ	ふたごちゃん	女の子/イエロー服	ローラ	Lola	F	9	28	
 チワワ	ふたごちゃん	男の子/イエロー服	ペピ	Pepi	M	9	28	
+ティアドロップクマ	お父さん				M	4	24	
+ティアドロップクマ	お母さん				F	7	5	
+ティアドロップクマ	男の子				M	12	25	
+ティアドロップクマ	女の子				F	3	20	
+ティアドロップクマ	赤ちゃん					3	5	
+ティアドロップクマ	ふたごちゃん					11	24	
+ティアドロップクマ	ふたごちゃん					11	24	
 トイプードル	お父さん		フランク	Frank	M	1	11	
 トイプードル	お母さん		ベロニカ	Veronica	F	8	20	
 トイプードル	お姉さん		ローラ	Laura	F	8	8	
@@ -279,6 +294,16 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 パンダ	赤ちゃん	男の子/ブルーの服	トニー	Tony	M	12	30	
 パンダ	ふたごちゃん	女の子/おすわり	クララ	Clara	F	9	1	
 パンダ	ふたごちゃん	男の子/はいはい	ロイ	Roy	M	9	1	
+ビーバー1	お父さん			Wade	M	7	8	
+ビーバー1	お母さん			Nancy	F	1	25	
+ビーバー1	男の子			Roger	M	11	3	
+ビーバー1	女の子			Misty	F	3	9	
+ビーバー1	ふたごちゃん	男の子		Bucky	M	9	1	
+ビーバー1	ふたごちゃん	女の子		Bubble	F	9	1	
+ビーバー2	お父さん			Andrew	M	7	8	
+ビーバー2	お母さん			Aubrey	F	1	25	
+ビーバー2	女の子			Evelyn	F	2	9	
+ビーバー2	赤ちゃん	男の子		Ethan	M	9	1	
 ヒツジ	お父さん		イーワン	Ewan	M	7	21	カリフラワースープ・楽器作り
 ヒツジ	お母さん		バーバラ	Barbara	F	4	20	ブロッコリースープ・人形作り
 ヒツジ	男の子		ウィントン	Winton	M	6	14	サンドイッチ・読書
@@ -288,16 +313,6 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ヒツジ	ふたごちゃん	男の子/イエロー服	ショーン	Sean	M	4	9	
 ヒツジ	おじいさん			Wesley	M			
 ヒツジ	おばあさん			Dove	F			
-ビーバー1	お父さん			Wade	M	7	8	
-ビーバー1	お母さん			Nancy	F	1	25	
-ビーバー1	男の子			Roger	M	11	3	
-ビーバー1	女の子			Misty	F	3	9	
-ビーバー1	ふたごちゃん	男の子		Bucky	M	9	1	
-ビーバー1	ふたごちゃん	女の子		Bubble	F	9	1	
-ビーバー2	お父さん			Andrew	M			
-ビーバー2	お母さん			Aubrey	F			
-ビーバー2	女の子			Evelyn	F	2	9	
-ビーバー2	赤ちゃん	男の子		Ethan	M			
 フェネック	お父さん		ロナルド	Ronald	M	6	2	サンドアート
 フェネック	お母さん		シャロン	Sharon	F	10	10	絵本をかくこと
 フェネック	女の子		ジャスミン	Jasmine	F	2	8	砂絵
@@ -314,6 +329,11 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ブタ	みつごちゃん	女の子/赤		Tiny	F	9	18	
 ブタ	みつごちゃん	男の子/黄		Little	M	9	18	
 ブタ	みつごちゃん	男の子/青		Minor	M	9	18	
+ブラウンイヌ	お父さん				M	5	12	
+ブラウンイヌ	お母さん				F	3	10	
+ブラウンイヌ	男の子				M	8	4	
+ブラウンイヌ	女の子				F	6	9	
+ブラウンイヌ	赤ちゃん					7	13	
 ブラウンウサギ	お父さん			Herb	M	1	14	
 ブラウンウサギ	お母さん			Ginger	F			
 ブラウンウサギ	お兄さん			Ray	M			
@@ -324,6 +344,16 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ブラウンウサギ	ふたごちゃん	女の子		Juniper	F	6	20	
 ブラウンウサギ	おじいさん			Smokey	M	9	5	
 ブラウンウサギ	おばあさん			Flora	F	8	20	
+ブラウンクマ	お父さん			Taylor	M	4	24	
+ブラウンクマ	お母さん			Rose	F	7	5	
+ブラウンクマ	お兄さん			Birch	M	8	10	
+ブラウンクマ	お姉さん			Ivy	F	12	8	
+ブラウンクマ	男の子			Bud	M	12	25	
+ブラウンクマ	女の子			Daisy	F	3	20	
+ブラウンクマ	赤ちゃん	男の子		Burl	M			
+ブラウンクマ	赤ちゃん	女の子		Blossom	F			
+ブラウンクマ	おじいさん			Gus	M	5	29	
+ブラウンクマ	おばあさん			Fern	F	5	6	
 フローラウサギ	お父さん		ノーラン	Nolan	M	5	20	ハーブティー
 フローラウサギ	お母さん		アリア	Aria	F	3	28	ピアノ
 フローラウサギ	男の子		レノン	Lennon	M	10	26	理科の勉強
@@ -341,18 +371,25 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ペルシャネコ1	赤ちゃん	男の子		Marcus	M			
 ペルシャネコ1	ふたごちゃん	女の子		Roma	F			
 ペルシャネコ1	ふたごちゃん	男の子		Rona	M			
-ペルシャネコ2	お父さん		ルーカス	Lucas	M	6	19	スムージーづくり
-ペルシャネコ2	お母さん		ダーン	Dawn	F	1	25	天体観測
-ペルシャネコ2	お兄さん		フィン	Finn	M			
-ペルシャネコ2	お姉さん		アリシア	Alicia	F	9	20	エクササイズ
-ペルシャネコ2	ふたごの女の子	グレー/イエロー服	スカイ	Skye	F	2	5	日記
-ペルシャネコ2	ふたごの女の子	ホワイト/ピンク服	ライラ	Lyra	F	2	5	お気に入りのメトロノーム
-ペルシャネコ2	赤ちゃん		ライアン	Ryan	M	12	30	写真を撮ること
-ペルシャネコ2	ふたごちゃん	ピンク服	レイヤ	Leah	F	8	3	
-ペルシャネコ2	ふたごちゃん	エメラルド服	ベラミー	Bellamy	M	8	3	
-ペルシャネコ2	みつごちゃん	ホワイト/イエロー服	ブレア	Blair	F	11	25	
-ペルシャネコ2	みつごちゃん	グレー/グリーン服	ブレイク	Blake	M	11	25	
-ペルシャネコ2	みつごちゃん	ホワイト/ピンク服	ブリアナ	Brianna	F	11	25	
+ペルシャネコ2	お父さん			Arthur	M	5	2	
+ペルシャネコ2	お母さん			Cecilia	F	12	2	
+ペルシャネコ2	男の子			Felix	M	3	28	
+ペルシャネコ2	女の子			Nora	F	8	29	
+ペルシャネコ2	赤ちゃん	女の子		Bonnie	F	10	19	
+ペルシャネコ2	ふたごちゃん	男の子		Ned	M	6	29	
+ペルシャネコ2	ふたごちゃん	女の子		Nel	F	6	29	
+ペルシャネコ3	お父さん		ルーカス	Lucas	M	6	19	スムージーづくり
+ペルシャネコ3	お母さん		ダーン	Dawn	F	1	25	天体観測
+ペルシャネコ3	お兄さん		フィン	Finn	M			
+ペルシャネコ3	お姉さん		アリシア	Alicia	F	9	20	エクササイズ
+ペルシャネコ3	ふたごの女の子	グレー/イエロー服	スカイ	Skye	F	2	5	日記
+ペルシャネコ3	ふたごの女の子	ホワイト/ピンク服	ライラ	Lyra	F	2	5	お気に入りのメトロノーム
+ペルシャネコ3	赤ちゃん		ライアン	Ryan	M	12	30	写真を撮ること
+ペルシャネコ3	ふたごちゃん	ピンク服	レイヤ	Leah	F	8	3	
+ペルシャネコ3	ふたごちゃん	エメラルド服	ベラミー	Bellamy	M	8	3	
+ペルシャネコ3	みつごちゃん	ホワイト/イエロー服	ブレア	Blair	F	11	25	
+ペルシャネコ3	みつごちゃん	グレー/グリーン服	ブレイク	Blake	M	11	25	
+ペルシャネコ3	みつごちゃん	ホワイト/ピンク服	ブリアナ	Brianna	F	11	25	
 ペンギン	お父さん		オッジ―	Ozzie	M	7	18	釣り
 ペンギン	お母さん		サファイア	Sapphire	F	5	23	アイスダンス
 ペンギン	赤ちゃん	男の子/イエロー服	キッピ―	Kippie	M	8	4	アイスクリーム
@@ -366,6 +403,11 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ポニー	お母さん		セラフィナ	Serafina	F	11	8	
 ポニー	女の子	ブロンドヘア	サリー	Sally	F	10	20	
 ポニー	女の子	ピンクヘア	ジョイ	Joy	F	5	17	ネイルアート
+ネズミ	お父さん				M	5	5	
+ネズミ	お母さん				F	3	10	
+ネズミ	男の子				M	10	25	
+ネズミ	女の子				F	5	20	
+ネズミ	赤ちゃん					4	12	
 マーガレットウサギ	お父さん		ランドン	Landon	M			
 マーガレットウサギ	お母さん		リサ	Lisa	F			
 マーガレットウサギ	男の子		ロミオ	Romeo	M	8	19	豆
@@ -414,10 +456,17 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 モグラ	女の子			Molly	F	6	27	
 モグラ	赤ちゃん	男の子/ブルー服		Monty	M	9	20	
 モグラ	赤ちゃん	女の子/レッド服	ムー	Mo	F	9	20	ホットミルク
-ヤギ	お父さん		ビリー	Billy	M	6	10	ハイキング
-ヤギ	お母さん		ナンシー	Nancy	F	11	22	キルトづくり
-ヤギ	女の子		マンディ	Mandy	F	3	18	手紙を書くこと
-ヤギ	赤ちゃん	女の子	ジェニー	Jenny	F	12	4	ブランコ
+ヤギ1	お父さん				M			
+ヤギ1	お母さん				F			
+ヤギ1	赤ちゃん							
+ヤギ2	お父さん			Ramsey	M	3	6	
+ヤギ2	お母さん			Caprina	F	7	24	
+ヤギ2	ふたごちゃん	男の子		William	M	9	1	
+ヤギ2	ふたごちゃん	女の子		Nanette	F	9	1	
+ヤギ3	お父さん		ビリー	Billy	M	6	10	ハイキング
+ヤギ3	お母さん		ナンシー	Nancy	F	11	22	キルトづくり
+ヤギ3	女の子		マンディ	Mandy	F	3	18	手紙を書くこと
+ヤギ3	赤ちゃん	女の子	ジェニー	Jenny	F	12	4	ブランコ
 ライオン	お父さん		ライオネル	Lionel	M	6	18	
 ライオン	赤ちゃん		ローレンス	Lawrence	M	8	10	
 ラッコ	お父さん			Caspian	M	10	13	
@@ -441,6 +490,10 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ラベンダーウサギ	男の子				M	7	5	
 ラベンダーウサギ	女の子		ヴィーダ		F	2	8	
 ラベンダーウサギ	赤ちゃん				F	4	25	
+レッサーパンダ	お父さん			Wilbur	M	9	27	
+レッサーパンダ	お母さん			Fliss	F	3	4	
+レッサーパンダ	女の子			Frances	F	6	2	
+レッサーパンダ	赤ちゃん	女の子		Cali	F			
 わたウサギ	お父さん		アーロン	Aaron	M	8	10	
 わたウサギ	お母さん			Sorrel	F	4	28	
 わたウサギ	男の子			Gromwell	M	9	8	

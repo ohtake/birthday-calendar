@@ -25,6 +25,7 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn
 シバイヌ	Shiba Dog	ブラシウッド	Brushwood
 シフォンイヌ			Doughty
 シマネコ	Striped Cat	サンディー	Sandy
+シマリス	Furbanks Squirrel		Furbanks
 ショコラウサギ	Chocolate Rabbit	チョコレート	Chocolate
 シルクネコ	Silk Cat	ゴライトリー	Golightly
 シルバーポニー		シルバー	Silver
@@ -34,6 +35,7 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn
 ゾウ	Elephant	バブルブルック	Bubblebrook
 チャコールネコ	Tuxedo Cat	マーロウ	Marlowe
 チワワ	Chihuahua Dog	ロペス	Lopez
+ティアドロップクマ	Teardrop Bear		
 トイプードル	Toy Poodle	ケーキブレッド	Cakebread
 トナカイ	Reindeer	スノードリフト	Snowdrift
 どんぐりネズミ	Field Mouse		Fielding
@@ -46,13 +48,17 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn
 ヒツジ	Sheep	デール	Dale
 フェネック	Fennec Fox	フェネック	Fennec
 ブタ	Pig		Grunt
+ブラウンイヌ	Brown Dog		
 ブラウンウサギ	Brown Rabbit		Wildwood
+ブラウンクマ	Brown Bear		Timbertop
 フローラウサギ	Flora Rabbit	フローラ	Flora
 ペルシャネコ1	Persian Cat		Persis
-ペルシャネコ2	Persian Cat	ペルシアン	Persian
+ペルシャネコ2	Persian Cat		Teak
+ペルシャネコ3	Persian Cat	ペルシアン	Persian
 ペンギン	Penguin	ワドル	Waddle
 ほしぞらネコ	Midnight Cat	ミッドナイト	Midnight
 ポニー	Pony	メインリー	Manely
+ネズミ			
 マーガレットウサギ	Marguerite Rabbit	マーガレット	Marguerite
 マシュマロネズミ	Marshmallow Mouse	マシュマロ	Marshmallow
 マロンポニー		チェストナッツ	Chestnut
@@ -60,10 +66,13 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn
 みるくウサギ	Milk Rabbit	ペリーウィンクル	Periwinkle
 メイプルネコ	Maple Cat	メープル	Maple
 モグラ	Mole	マクバローズ	McBurrows
-ヤギ	Goat	ブライトフィールド	Brightfield
+ヤギ1	Goat		
+ヤギ2	Goat		Nettlefield
+ヤギ3	Goat	ブライトフィールド	Brightfield
 ライオン	Lion	グランド	Grand
 ラッコ	Sea Otter		Neptune
 ラテネコ	Latte Cat	フォンターナ	
 ラブラドール	Yellow Labrador	フェントン	Fenton
 ラベンダーウサギ	Lavender Rabbit		
+レッサーパンダ	Red Panda		Robinson
 わたウサギ	Cottontail Rabbit		Cottontail

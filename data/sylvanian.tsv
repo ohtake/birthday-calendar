@@ -120,11 +120,11 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 サル	女の子		ケイティ	Katie	F	1	17	
 サル	赤ちゃん	グリーン服	ボボ	Bobo	M			
 サル	赤ちゃん	イエロー服	バブルス	Bubbles	F			
-しおかぜウサギ	お父さん		チャールトン	Charlton	M	1	24	
-しおかぜウサギ	お母さん		ナディア	Libby	F	6	19	
-しおかぜウサギ	男の子		ヒューイ	Huey	M	6	2	
-しおかぜウサギ	女の子		ポーシャ	Porsha	F	7	20	
-しおかぜウサギ	赤ちゃん		エイブリー			8	1	
+しおかぜウサギ2	お父さん		チャールトン	Charlton	M	1	24	
+しおかぜウサギ2	お母さん		ナディア	Libby	F	6	19	
+しおかぜウサギ2	男の子		ヒューイ	Huey	M	6	2	
+しおかぜウサギ2	女の子		ポーシャ	Porsha	F	7	20	
+しおかぜウサギ2	赤ちゃん		エイブリー			8	1	
 シカ	お父さん		デビン	Rupert	M	8	24	
 シカ	お母さん		タバサ	Agatha	F	3	14	
 シカ	男の子		フレディ	Freddie	M	7	13	
@@ -243,12 +243,12 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 トイプードル	赤ちゃん		マイロ	Milo	M	8	15	
 トイプードル	ふたごちゃん	女の子/ピンク服	ミア	Mia	F	7	27	
 トイプードル	ふたごちゃん	男の子/エメラルド服	マックス	Max	M	7	27	
-トナカイ	お父さん		ジョリー	Jolly	M	6	28	靴下集め
-トナカイ	お母さん		エルム	Elm	F	12	14	ジョギング
-トナカイ	赤ちゃん	女の子/緑の服	イブ	Eve	F	1	22	オーナメント
-トナカイ	赤ちゃん	男の子/赤い服	ルイ	Luis	M	7	15	赤い帽子
-トナカイ	ふたごちゃん	女の子/イエロー服	ジンジャー	Ginger	F	1	31	プレゼントごっこ
-トナカイ	ふたごちゃん	男の子/ブルー服	オリ―	Ollie	M	1	31	クッキーの試食
+トナカイ2	お父さん		ジョリー	Jolly	M	6	28	靴下集め
+トナカイ2	お母さん		エルム	Elm	F	12	14	ジョギング
+トナカイ2	赤ちゃん	女の子/緑の服	イブ	Eve	F	1	22	オーナメント
+トナカイ2	赤ちゃん	男の子/赤い服	ルイ	Luis	M	7	15	赤い帽子
+トナカイ2	ふたごちゃん	女の子/イエロー服	ジンジャー	Ginger	F	1	31	プレゼントごっこ
+トナカイ2	ふたごちゃん	男の子/ブルー服	オリ―	Ollie	M	1	31	クッキーの試食
 どんぐりネズミ	お父さん			Darcy	M	2	17	
 どんぐりネズミ	お母さん			Bridget	F	3	21	
 どんぐりネズミ	男の子			Daniel	M	6	8	
@@ -286,14 +286,14 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ハリネズミ	赤ちゃん	女の子		Peaches	F			
 ハリネズミ	ふたごちゃん	男の子/イエロー服	ハニー	Honey	M	5	26	
 ハリネズミ	ふたごちゃん	女の子/ピンク服	ヘーゼル	Hazel	F	5	26	
-パンダ	お父さん		ウォルター	Walter	M	9	12	パーティー企画
-パンダ	お母さん		デボラ	Deborah	F	3	9	作曲
-パンダ	女の子		ロザリナ	Rosalina	F	12	4	他の人を楽しませること
-パンダ	赤ちゃん	男の子/イエローの服	タイラー	Tyler	M	2	18	ダンス
-パンダ	赤ちゃん	女の子/パープルの服	アンジェラ	Angela	F	10	13	歌うこと
-パンダ	赤ちゃん	男の子/ブルーの服	トニー	Tony	M	12	30	
-パンダ	ふたごちゃん	女の子/おすわり	クララ	Clara	F	9	1	
-パンダ	ふたごちゃん	男の子/はいはい	ロイ	Roy	M	9	1	
+パンダ2	お父さん		ウォルター	Walter	M	9	12	パーティー企画
+パンダ2	お母さん		デボラ	Deborah	F	3	9	作曲
+パンダ2	女の子		ロザリナ	Rosalina	F	12	4	他の人を楽しませること
+パンダ2	赤ちゃん	男の子/イエローの服	タイラー	Tyler	M	2	18	ダンス
+パンダ2	赤ちゃん	女の子/パープルの服	アンジェラ	Angela	F	10	13	歌うこと
+パンダ2	赤ちゃん	男の子/ブルーの服	トニー	Tony	M	12	30	
+パンダ2	ふたごちゃん	女の子/おすわり	クララ	Clara	F	9	1	
+パンダ2	ふたごちゃん	男の子/はいはい	ロイ	Roy	M	9	1	
 ビーバー1	お父さん			Wade	M	7	8	
 ビーバー1	お母さん			Nancy	F	1	25	
 ビーバー1	男の子			Roger	M	11	3	

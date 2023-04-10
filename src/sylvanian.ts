@@ -20,6 +20,7 @@ type FamilyData = {
   FamilyEn: string;
   FamilyNameJa: string;
   FamilyNameEn: string;
+  ReleaseYear: number | undefined;
 };
 
 const relationOrder = [
@@ -74,8 +75,12 @@ export async function createSylvanianCalendar() {
   const families = await loadTSV<FamilyData>(
     "./data/sylvanianFamilyName.tsv",
     (row) => {
+      const ReleaseYear = row.ReleaseYear
+        ? parseInt(row.ReleaseYear)
+        : undefined;
       return {
         ...row,
+        ReleaseYear,
       } as FamilyData;
     }
   );
@@ -86,22 +91,30 @@ export async function createSylvanianCalendar() {
   const bc = new BirthdayCalender("Sylvanian Birthdays");
   familyGroups.forEach((familyMembers, _family) => {
     sortFamilyMembers(familyMembers);
-    const familyTable = familyMembers
-      .map((m) => {
-        const bdStr = `${m.BirthMonth ?? "?"}/${m.BirthDay ?? "?"}`;
-        const str = `${toFullRelation(m)} ${
-          m.GivenNameJa || m.GivenNameEn || "NoGivenName"
-        } ${bdStr}`;
-        return str;
-      })
-      .join("\n");
+    const m0 = familyMembers[0];
+    const familyDesciptions: string[] = [];
+    const familyData: string[] = [m0.Family];
+    familyDesciptions.push(
+      `${m0.Family} / ${m0.FamilyEn} / ${m0.FamilyNameJa} / ${m0.FamilyNameEn} / ${m0.ReleaseYear}`
+    );
+    familyDesciptions.push(
+      familyMembers
+        .map((m) => {
+          const bdStr = `${m.BirthMonth ?? "?"}/${m.BirthDay ?? "?"}`;
+          const str = `${toFullRelation(m)} ${
+            m.GivenNameJa || m.GivenNameEn || "NoGivenName"
+          } ${bdStr}`;
+          return str;
+        })
+        .join("\n")
+    );
     // 双子や三つ子をまとめる
     // TODO 「ふたごの女の子」と「ふたごの男の子」がまとまらない
     const relGroups = groupBy(familyMembers, (m) =>
       [m.Relation1, m.BirthMonth, m.BirthDay].join("-")
     );
     relGroups.forEach((rg) => {
-      addBirthdayEntry(bc, rg, familyTable);
+      addBirthdayEntry(bc, rg, familyDesciptions.join("\n\n"));
     });
   });
   return bc;
@@ -110,7 +123,7 @@ export async function createSylvanianCalendar() {
 function addBirthdayEntry(
   bc: BirthdayCalender,
   members: (CharaData & Partial<FamilyData>)[],
-  familyTable: string
+  familyDesc: string
 ) {
   const m0 = members[0];
   if (!hasBirthday(m0)) return;
@@ -145,7 +158,7 @@ function addBirthdayEntry(
   }
   const descriptions: string[] = [];
   if (groupList) descriptions.push(groupList);
-  descriptions.push(familyTable);
+  descriptions.push(familyDesc);
   bc.addBirthday(summary, m0.BirthMonth, m0.BirthDay, {
     description: descriptions.join("\n\n"),
     startYear,

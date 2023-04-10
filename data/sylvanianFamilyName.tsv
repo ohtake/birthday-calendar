@@ -1,78 +1,78 @@
-Family	FamilyEn	FamilyNameJa	FamilyNameEn
-アイボリーイヌ	Ivory Dog		Patches
-アイボリーウサギ	Ivory Rabbit		Butterglove
-アヒル1	Duck		Puddleford
-アヒル2	Duck		Waddlington
-アヒル3	Duck	パドルトン	Puddleton
-アライグマ	Raccoon		Mulberry
-アルパカ	Woolly Alpaca	ウーリー	Woolly
-ウシ	Friesian Cow	バターカップ	Buttercup
-オークルイヌ	Ocher Dog		Tailbury
-カワウソ	Splashy Otter	スプラッシー	Splashy
-カンガルー	Kangaroo	ホッパー	Hopper
-キャラメルイヌ	Caramel Dog	キャラメル	Caramel
-キリン	Highbranch Giraffe	ハイブランチ	Highbranch
-クマ	Little Bear	ペティート	Petite
-クリームネコ	Cream Cat		Keats
-くるみリス	Walnut Squirrel	ウォールナット	Walnut
-グレイッシュネコ	Grey Cat		Harvey
-グレークマ	Grey Bear		Evergreen
-コアラ	Koala	アウトバック	Outback
-サル	Monkey	ダーウィン	Darwin
-しおかぜウサギ			Seabreeze
-シカ	Red Deer	バックリー	Buckley
-シナモンウサギ	Cinnamon Rabbit	シナモン	Cinnamon
-シバイヌ	Shiba Dog	ブラシウッド	Brushwood
-シフォンイヌ			Doughty
-シマネコ	Striped Cat	サンディー	Sandy
-シマリス	Furbanks Squirrel		Furbanks
-ショコラウサギ	Chocolate Rabbit	チョコレート	Chocolate
-シルクネコ	Silk Cat	ゴライトリー	Golightly
-シルバーポニー		シルバー	Silver
-しろウサギ	Snow Rabbit	スノー	Snow
-シロクマ1	Polar Bear	ポラリス	Polaris
-シロクマ2	Polar Bear	ポーラー	Polar
-ゾウ	Elephant	バブルブルック	Bubblebrook
-チャコールネコ	Tuxedo Cat	マーロウ	Marlowe
-チワワ	Chihuahua Dog	ロペス	Lopez
-ティアドロップクマ	Teardrop Bear		
-トイプードル	Toy Poodle	ケーキブレッド	Cakebread
-トナカイ	Reindeer	スノードリフト	Snowdrift
-どんぐりネズミ	Field Mouse		Fielding
-ののはなウサギ	Nonohana Rabbit		
-ハスキー	Husky	ハスキー	Husky
-ハリネズミ	Hedgehog	ブランブル	Bramble
-パンダ	Pookie Panda	プーキー	Pookie
-ビーバー1	Beaver		Waters
-ビーバー2	Beaver		Woodbrook
-ヒツジ	Sheep	デール	Dale
-フェネック	Fennec Fox	フェネック	Fennec
-ブタ	Pig		Grunt
-ブラウンイヌ	Brown Dog		
-ブラウンウサギ	Brown Rabbit		Wildwood
-ブラウンクマ	Brown Bear		Timbertop
-フローラウサギ	Flora Rabbit	フローラ	Flora
-ペルシャネコ1	Persian Cat		Persis
-ペルシャネコ2	Persian Cat		Teak
-ペルシャネコ3	Persian Cat	ペルシアン	Persian
-ペンギン	Penguin	ワドル	Waddle
-ほしぞらネコ	Midnight Cat	ミッドナイト	Midnight
-ポニー	Pony	メインリー	Manely
-ネズミ			
-マーガレットウサギ	Marguerite Rabbit	マーガレット	Marguerite
-マシュマロネズミ	Marshmallow Mouse	マシュマロ	Marshmallow
-マロンポニー		チェストナッツ	Chestnut
-ミケネコ	Whiskers Cat		Whiskers
-みるくウサギ	Milk Rabbit	ペリーウィンクル	Periwinkle
-メイプルネコ	Maple Cat	メープル	Maple
-モグラ	Mole	マクバローズ	McBurrows
-ヤギ1	Goat		
-ヤギ2	Goat		Nettlefield
-ヤギ3	Goat	ブライトフィールド	Brightfield
-ライオン	Lion	グランド	Grand
-ラッコ	Sea Otter		Neptune
-ラテネコ	Latte Cat	フォンターナ	
-ラブラドール	Yellow Labrador	フェントン	Fenton
-ラベンダーウサギ	Lavender Rabbit		
-レッサーパンダ	Red Panda		Robinson
-わたウサギ	Cottontail Rabbit		Cottontail
+Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
+アイボリーイヌ	Ivory Dog		Patches	1987
+アイボリーウサギ	Ivory Rabbit		Butterglove	1986
+アヒル1	Duck		Puddleford	1988
+アヒル2	Duck		Waddlington	1997
+アヒル3	Duck	パドルトン	Puddleton	2021
+アライグマ	Raccoon		Mulberry	1995
+アルパカ	Woolly Alpaca	ウーリー	Woolly	2018
+ウシ	Friesian Cow	バターカップ	Buttercup	2010
+オークルイヌ	Ocher Dog		Tailbury	1988
+カワウソ	Splashy Otter	スプラッシー	Splashy	2018
+カンガルー	Kangaroo	ホッパー	Hopper	2014
+キャラメルイヌ	Caramel Dog	キャラメル	Caramel	2019
+キリン	Highbranch Giraffe	ハイブランチ	Highbranch	2021
+クマ	Little Bear	ペティート	Petite	1998
+クリームネコ	Cream Cat		Keats	2006
+くるみリス	Walnut Squirrel	ウォールナット	Walnut	2004
+グレイッシュネコ	Grey Cat		Harvey	2012
+グレークマ	Grey Bear		Evergreen	1985
+コアラ	Koala	アウトバック	Outback	2012
+サル	Monkey	ダーウィン	Darwin	2011
+しおかぜウサギ2	Sea Breeze Rabbit		Seabreeze	2020
+シカ	Red Deer	バックリー	Buckley	2009
+シナモンウサギ	Cinnamon Rabbit	シナモン	Cinnamon	2018
+シバイヌ	Shiba Dog	ブラシウッド	Brushwood	2021
+シフォンイヌ	Chiffon Dog		Doughty	2007
+シマネコ	Striped Cat	サンディー	Sandy	2014
+シマリス	Furbanks Squirrel		Furbanks	1993
+ショコラウサギ	Chocolate Rabbit	チョコレート	Chocolate	2007
+シルクネコ	Silk Cat	ゴライトリー	Golightly	2009
+シルバーポニー		シルバー	Silver	2022
+しろウサギ	Snow Rabbit	スノー	Snow	2020
+シロクマ1	Polar Bear	ポラリス	Polaris	2014
+シロクマ2	Polar Bear	ポーラー	Polar	2019
+ゾウ	Elephant	バブルブルック	Bubblebrook	2019
+チャコールネコ	Tuxedo Cat	マーロウ	Marlowe	2008
+チワワ	Chihuahua Dog	ロペス	Lopez	2011
+ティアドロップクマ	Teardrop Bear			1991
+トイプードル	Toy Poodle	ケーキブレッド	Cakebread	2016
+トナカイ2	Reindeer	スノードリフト	Snowdrift	2022
+どんぐりネズミ	Field Mouse		Fielding	2009
+ののはなウサギ	Nonohana Rabbit			2006
+ハスキー	Husky	ハスキー	Husky	2021
+ハリネズミ	Hedgehog	ブランブル	Bramble	1991
+パンダ2	Pookie Panda	プーキー	Pookie	2020
+ビーバー1	Beaver		Waters	1986
+ビーバー2	Beaver		Woodbrook	2013
+ヒツジ	Sheep	デール	Dale	2005
+フェネック	Fennec Fox	フェネック	Fennec	2022
+ブタ	Pig		Grunt	2007
+ブラウンイヌ	Brown Dog			1987
+ブラウンウサギ	Brown Rabbit		Wildwood	1985
+ブラウンクマ	Brown Bear		Timbertop	1985
+フローラウサギ	Flora Rabbit	フローラ	Flora	2023
+ペルシャネコ1	Persian Cat		Persis	2008
+ペルシャネコ2	Persian Cat		Teak	2015
+ペルシャネコ3	Persian Cat	ペルシアン	Persian	2019
+ペンギン	Penguin	ワドル	Waddle	2022
+ほしぞらネコ	Midnight Cat	ミッドナイト	Midnight	2020
+ポニー	Pony	メインリー	Manely	2021
+ネズミ				1985
+マーガレットウサギ	Marguerite Rabbit	マーガレット	Marguerite	2020
+マシュマロネズミ	Marshmallow Mouse	マシュマロ	Marshmallow	2018
+マロンポニー		チェストナッツ	Chestnut	2022
+ミケネコ	Whiskers Cat		Whiskers	1996
+みるくウサギ	Milk Rabbit	ペリーウィンクル	Periwinkle	2002
+メイプルネコ	Maple Cat	メープル	Maple	2017
+モグラ	Mole	マクバローズ	McBurrows	1985
+ヤギ1	Goat			1988
+ヤギ2	Goat		Nettlefield	1992
+ヤギ3	Goat	ブライトフィールド	Brightfield	2013
+ライオン	Lion	グランド	Grand	2018
+ラッコ	Sea Otter		Neptune	2012
+ラテネコ	Latte Cat	フォンターナ		2023
+ラブラドール	Yellow Labrador	フェントン	Fenton	2014
+ラベンダーウサギ	Lavender Rabbit			2009
+レッサーパンダ	Red Panda		Robinson	2010
+わたウサギ	Cottontail Rabbit		Cottontail	1999

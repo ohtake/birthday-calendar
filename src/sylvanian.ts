@@ -81,7 +81,6 @@ export async function createSylvanianCalendar() {
     sortFamilyMembers(familyMembers);
     const m0 = familyMembers[0];
     const familyDesciptions: string[] = [];
-    const familyData: string[] = [m0.Family];
     familyDesciptions.push(
       `${m0.Family} / ${m0.FamilyEn} / ${m0.FamilyNameJa} / ${m0.FamilyNameEn} / ${m0.ReleaseYear}`
     );
@@ -89,8 +88,8 @@ export async function createSylvanianCalendar() {
       familyMembers
         .map((m) => {
           const bdStr = `${m.BirthMonth ?? "?"}/${m.BirthDay ?? "?"}`;
-          const str = `${toFullRelation(m)} ${
-            m.GivenNameJa || m.GivenNameEn || "NoGivenName"
+          const str = `${toFullRelation(m)} ${m.GivenNameJa || "NoGivenName"}/${
+            m.GivenNameEn || "NoGivenName"
           } ${bdStr}`;
           return str;
         })

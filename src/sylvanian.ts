@@ -49,18 +49,6 @@ function hasBirthday<T extends Partial<Birthday>>(d: T): d is T & Birthday {
   return d.BirthMonth !== undefined && d.BirthDay !== undefined;
 }
 
-function isLeap(d: Birthday): boolean {
-  return d.BirthMonth === 2 && d.BirthDay === 29;
-}
-
-function getYear(d: Birthday): number {
-  // キャラごとの開発年を入れたい
-
-  // 1985年3月20日が初代の発売日なので
-  if (isLeap(d)) return 1986;
-  return 1985;
-}
-
 export async function createSylvanianCalendar() {
   const characters = await loadTSV<CharaData>("./data/sylvanian.tsv", (row) => {
     const BirthMonth =
@@ -88,7 +76,7 @@ export async function createSylvanianCalendar() {
   const joined = leftJoin(characters, families, "Family");
   const familyGroups = groupBy(joined, (m) => m.Family);
 
-  const bc = new BirthdayCalender("Sylvanian Birthdays");
+  const bc = new BirthdayCalender("Sylvanian Birthdays", 1985); // 1985年3月20日が初代の発売日
   familyGroups.forEach((familyMembers, _family) => {
     sortFamilyMembers(familyMembers);
     const m0 = familyMembers[0];
@@ -142,7 +130,6 @@ function addBirthdayEntry(
     );
   }
   const summary = summaries.join("");
-  const startYear = getYear(m0);
   let groupList: string;
   if (members.length === 1) {
     groupList = m0.Favorites ?? "";
@@ -161,7 +148,7 @@ function addBirthdayEntry(
   descriptions.push(familyDesc);
   bc.addBirthday(summary, m0.BirthMonth, m0.BirthDay, {
     description: descriptions.join("\n\n"),
-    startYear,
+    releaseYear: m0.ReleaseYear,
   });
 }
 

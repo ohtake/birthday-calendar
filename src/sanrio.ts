@@ -25,15 +25,6 @@ function hasBirthday<T extends Partial<Birthday>>(d: T): d is T & Birthday {
   return d.BirthMonth !== undefined && d.BirthDay !== undefined;
 }
 
-function getYear(c: CharaData & Birthday & Partial<SeriesData>): number {
-  if (!c.ReleaseYear) return 1960; // 山梨シルクセンターの設立年
-  if (c.BirthMonth !== 2 || c.BirthDay !== 29) return c.ReleaseYear;
-  const mod4 = c.ReleaseYear % 4;
-  // 0 (mod 4) が 1900 や 2100 のときには閏年ではないが、その範囲の年になることはないので実用上問題ない
-  if (mod4 === 0) return c.ReleaseYear;
-  return c.ReleaseYear + 4 - mod4;
-}
-
 export async function createSanrioCalendar() {
   const characters = await loadTSV<CharaData>("./data/sanrio.tsv", (row) => {
     const BirthMonth =
@@ -56,7 +47,7 @@ export async function createSanrioCalendar() {
   const joined = leftJoin(characters, series, "SeriesKey");
   const grouped = groupBy(joined, (c) => c.SeriesKey);
 
-  const bc = new BirthdayCalender("Sanrio Birthdays");
+  const bc = new BirthdayCalender("Sanrio Birthdays", 1960); // 1960 = 山梨シルクセンターの設立年
   grouped.forEach((characters, seriesKey) => {
     const c0 = characters[0];
     const groupSummaries = [c0.SeriesNameJa];
@@ -87,7 +78,6 @@ export async function createSanrioCalendar() {
       const prefix = c.SeriesKey;
       const names = g.map((c) => c.CharaName).join("/");
       const summary = prefix === names ? prefix : `${prefix} ${names}`;
-      const startYear = getYear(c);
       const descriptionBlocks: string[] = [];
       const notes = g
         .map((c) => c.BirthdayNote)
@@ -96,7 +86,7 @@ export async function createSanrioCalendar() {
       if (notes) descriptionBlocks.push(notes);
       descriptionBlocks.push(groupSummary, groupTable);
       bc.addBirthday(summary, c.BirthMonth, c.BirthDay, {
-        startYear,
+        releaseYear: c.ReleaseYear,
         description: descriptionBlocks.join("\n\n"),
       });
     });

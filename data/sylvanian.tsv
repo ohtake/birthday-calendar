@@ -6,6 +6,20 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 アイボリーイヌ	赤ちゃん							
 アイボリーイヌ	ふたごちゃん							
 アイボリーイヌ	ふたごちゃん							
+アイボリーウサギ	お父さん			Burdock	M	4	14	
+アイボリーウサギ	お母さん			Angelica	F			
+アイボリーウサギ	男の子			Figwort	M			
+アイボリーウサギ	女の子			Aster	F			
+アイボリーウサギ	赤ちゃん	女の子		Primula	F			
+アイボリーウサギ	ふたごちゃん	男の子		Larkspur	M			
+アイボリーウサギ	ふたごちゃん	女の子		Lavender	F			
+アイボリーウサギ	おじいさん				M	4	2	
+アイボリーウサギ	おばあさん				F			
+アイボリーネコ	お父さん				M			
+アイボリーネコ	お母さん				F			
+アイボリーネコ	男の子				M			
+アイボリーネコ	女の子				F			
+アイボリーネコ	赤ちゃん					4	11	
 アヒル1	お父さん			Nelson	M			
 アヒル1	お母さん			Beth	F			
 アヒル1	みつごちゃん	男の子/青	エイミー	Tom	M	5	20	
@@ -47,6 +61,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 オークルイヌ	お母さん			Purdy	F	12	13	
 オークルイヌ	男の子			Tam	M			
 オークルイヌ	女の子			Jeanie	F	3	26	
+オークルイヌ	赤ちゃん					4	13	
 オークルイヌ	ふたごちゃん	男の子		Tinker	M	2	21	
 オークルイヌ	ふたごちゃん	女の子		Bouncer	F	2	21	
 オークルイヌ	おじいさん			Roland	M			
@@ -64,6 +79,13 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 キャラメルイヌ	お姉さん		メラニー	Melanie	F	1	15	
 キャラメルイヌ	女の子		カーリー	Carlie	F	3	6	おでかけ
 キャラメルイヌ	赤ちゃん	男の子	ジャスティン	Justin	M	9	9	どんぐり
+キツネ	お父さん			Slick	M	2	23	
+キツネ	お母さん			Velvette	F	9	23	
+キツネ	男の子			Buster	M	5	27	
+キツネ	女の子			Scarlet	F	4	18	
+キツネ	赤ちゃん			Baby				
+キツネ	ふたごちゃん			Skitter	M	10	31	
+キツネ	ふたごちゃん			Lindy	F	10	31	
 キリン	お父さん		エグバート	Egbert	M	7	11	ヴィンテージコレクション
 キリン	お母さん		オリーブ	Olive	F	5	11	シュークリーム
 キリン	赤ちゃん	男の子/オレンジの服	ブラン	Bran	M	4	20	カメラ・写真を撮ること
@@ -75,14 +97,19 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 クマ	赤ちゃん		ジェイソン		M	3	5	ぬり絵
 クマ	ふたごちゃん	男の子/ブルー服	フレディ	Freddie	M	11	24	
 クマ	ふたごちゃん	女の子/ピンク服	ハリー	Halley	F	11	24	
-クリームネコ	お父さん			Rossetti Longfellow	M	10	20	
-クリームネコ	お母さん			Bronte	F	7	16	
-クリームネコ	お姉さん				F			
-クリームネコ	男の子			T.S. Eliot	M	1	9	
-クリームネコ	女の子			Shelley	F	6	4	
-クリームネコ	赤ちゃん			Larkin	M	8	18	
-クリームネコ	ふたごちゃん	男の子		Dylan	M	5	23	
-クリームネコ	ふたごちゃん	女の子		Clare	F	5	23	
+クリームネコ1	お父さん				M			
+クリームネコ1	お母さん				F			
+クリームネコ1	男の子				M			
+クリームネコ1	女の子				F	3	31	
+クリームネコ1	赤ちゃん	女の子			F			
+クリームネコ2	お父さん			Rossetti Longfellow	M	10	20	
+クリームネコ2	お母さん			Bronte	F	7	16	
+クリームネコ2	お姉さん				F			
+クリームネコ2	男の子			T.S. Eliot	M	1	9	
+クリームネコ2	女の子			Shelley	F	6	4	
+クリームネコ2	赤ちゃん			Larkin	M	8	18	
+クリームネコ2	ふたごちゃん	男の子		Dylan	M	5	23	
+クリームネコ2	ふたごちゃん	女の子		Clare	F	5	23	
 くるみリス	お父さん		セドリック	Cedric	M	1	29	大工しごと
 くるみリス	お母さん		ヤドリー	Yardley	F	12	22	おしゃべり
 くるみリス	男の子		ラルフ	Ralph	M	8	22	木のぼり
@@ -118,7 +145,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 サル	お母さん		シャーリー	Shirley	F	11	21	
 サル	男の子			Simion	M			
 サル	女の子		ケイティ	Katie	F	1	17	
-サル	赤ちゃん	グリーン服	ボボ	Bobo	M			
+サル	赤ちゃん	グリーン服	ボボ	Bobo	M	4	16	
 サル	赤ちゃん	イエロー服	バブルス	Bubbles	F			
 しおかぜウサギ2	お父さん		チャールトン	Charlton	M	1	24	
 しおかぜウサギ2	お母さん		ナディア	Libby	F	6	19	
@@ -212,6 +239,18 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 そよかぜネコ	男の子				M	11	20	
 そよかぜネコ	女の子				F	7	18	
 そよかぜネコ	赤ちゃん				F	1	18	
+ダルメシアン1	お父さん			Montgomery	M	10	5	
+ダルメシアン1	お母さん			Dorothy	F			
+ダルメシアン1	男の子			Rufus	M			
+ダルメシアン1	女の子			Clara	F			
+ダルメシアン1	赤ちゃん	男の子		Timothy	M			
+ダルメシアン1	ふたごちゃん	男の子		Dash	M			
+ダルメシアン1	ふたごちゃん	女の子		Dot	F			
+ダルメシアン2	お父さん				M			
+ダルメシアン2	お母さん				F			
+ダルメシアン2	みつごちゃん	男の子/イエロー服			M	3	25	
+ダルメシアン2	みつごちゃん	男の子/ブルー服			M	3	25	
+ダルメシアン2	みつごちゃん	女の子/ピンク服			F	3	25	
 チャコールネコ	お父さん		メイソン	Mason	M	10	7	
 チャコールネコ	お母さん		ナタリー	Natalie	F	12	19	
 チャコールネコ	お姉さん		フェリシア	Felicia	F	4	15	
@@ -256,6 +295,18 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 どんぐりネズミ	赤ちゃん			Clop	M	9	29	
 どんぐりネズミ	ふたごちゃん	男の子		Clip	M	1	13	
 どんぐりネズミ	ふたごちゃん	女の子		Clipperty	F	1	13	
+ネズミ1	お父さん				M	5	5	
+ネズミ1	お母さん				F	3	10	
+ネズミ1	男の子				M	10	25	
+ネズミ1	女の子				F	5	20	
+ネズミ1	赤ちゃん					4	12	
+ネズミ2	お父さん			Wensleydale-Hector	M	3	30	
+ネズミ2	お母さん			Brie Norwood	F	9	17	
+ネズミ2	男の子			Endeavour	M	2	25	
+ネズミ2	女の子			Katy Norwood	F	7	12	
+ネズミ2	赤ちゃん					8	6	
+ネズミ2	ふたごちゃん	男の子		Norman	M	4	19	
+ネズミ2	ふたごちゃん	女の子		Millie	F	4	19	
 ののはなウサギ	お父さん				M	7	30	
 ののはなウサギ	お母さん				F	9	10	
 ののはなウサギ	男の子				M	4	25	
@@ -278,8 +329,21 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 はなぞのウサギ	男の子				M	1	28	
 はなぞのウサギ	女の子		はな		F	3	7	
 はなぞのウサギ	赤ちゃん				F	10	17	
+ハムスター1	お父さん			Huckleberry	M			
+ハムスター1	お母さん			Hilda	F			
+ハムスター1	男の子			George	M			
+ハムスター1	女の子			Jane	F			
+ハムスター1	ふたごちゃん	男の子		Neil	M			
+ハムスター1	ふたごちゃん	女の子		Christine	F			
+ハムスター2	お父さん			Nick	M	4	6	
+ハムスター2	お母さん			Emma	F			
+ハムスター2	男の子			Frank	M	11	21	
+ハムスター2	女の子			Nora	F			
+ハムスター2	赤ちゃん	男の子		Micki	M			
+ハムスター2	ふたごちゃん	男の子		Flitz	M			
+ハムスター2	ふたごちゃん	女の子		Nibbles	F			
 ハリネズミ	お父さん		モーティマー	Mortimer	M	9	9	
-ハリネズミ	お母さん		エレノア	Eleanor	F			
+ハリネズミ	お母さん		エレノア	Eleanor	F	4	3	
 ハリネズミ	男の子		マックスウェル	Maxwell	M	10	5	
 ハリネズミ	女の子		アビゲール	Abigail	F	2	27	
 ハリネズミ	赤ちゃん	男の子	ビルベリー	Bilberry	M	8	14	
@@ -336,7 +400,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ブラウンイヌ	赤ちゃん					7	13	
 ブラウンウサギ	お父さん			Herb	M	1	14	
 ブラウンウサギ	お母さん			Ginger	F			
-ブラウンウサギ	お兄さん			Ray	M			
+ブラウンウサギ	お兄さん			Ray	M	3	19	
 ブラウンウサギ	お姉さん			Tina	F	8	28	
 ブラウンウサギ	男の子			Rusty	M	10	2	
 ブラウンウサギ	女の子			Hollie	F			
@@ -403,11 +467,6 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ポニー	お母さん		セラフィナ	Serafina	F	11	8	
 ポニー	女の子	ブロンドヘア	サリー	Sally	F	10	20	
 ポニー	女の子	ピンクヘア	ジョイ	Joy	F	5	17	ネイルアート
-ネズミ	お父さん				M	5	5	
-ネズミ	お母さん				F	3	10	
-ネズミ	男の子				M	10	25	
-ネズミ	女の子				F	5	20	
-ネズミ	赤ちゃん					4	12	
 マーガレットウサギ	お父さん		ランドン	Landon	M			
 マーガレットウサギ	お母さん		リサ	Lisa	F			
 マーガレットウサギ	男の子		ロミオ	Romeo	M	8	19	豆
@@ -421,6 +480,13 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 マシュマロネズミ	みつごちゃん	女の子/ブルー服	メリー	Mary	F	12	21	
 マシュマロネズミ	みつごちゃん	男の子/イエロー服	エドワード	Edward	M	12	21	
 マシュマロネズミ	みつごちゃん	女の子/ピンク服	エリザベス	Elizabeth	F	12	21	
+マロンイヌ	お父さん			Hubert Alan	M	3	17	
+マロンイヌ	お母さん			Hatty	F	7	8	
+マロンイヌ	男の子			Dennis	M	12	3	
+マロンイヌ	女の子			Esme	F	2	7	
+マロンイヌ	赤ちゃん	男の子		Pip	M	12	17	
+マロンイヌ	ふたごちゃん	男の子		Jethro	M	1	22	
+マロンイヌ	ふたごちゃん	女の子		Cordelia	F	1	22	
 マロンポニー	女の子		ベラ	Bella	F	7	11	ミラー
 ミケネコ	お父さん			Sebastian	M	6	7	
 ミケネコ	お母さん			Katrina	F	12	13	

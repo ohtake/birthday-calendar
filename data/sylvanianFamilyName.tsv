@@ -1,6 +1,7 @@
 Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 アイボリーイヌ	Ivory Dog		Patches	1987
 アイボリーウサギ	Ivory Rabbit		Butterglove	1986
+アイボリーネコ	Ivory Cat			1987
 アヒル1	Duck		Puddleford	1988
 アヒル2	Duck		Waddlington	1997
 アヒル3	Duck	パドルトン	Puddleton	2021
@@ -11,8 +12,10 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 カワウソ	Splashy Otter	スプラッシー	Splashy	2018
 カンガルー	Kangaroo	ホッパー	Hopper	2014
 キャラメルイヌ	Caramel Dog	キャラメル	Caramel	2019
+キツネ	Honey Fox		Slydale	1985
 キリン	Highbranch Giraffe	ハイブランチ	Highbranch	2021
 クマ	Little Bear	ペティート	Petite	1998
+クリームネコ				1988
 クリームネコ	Cream Cat		Keats	2006
 くるみリス	Walnut Squirrel	ウォールナット	Walnut	2004
 グレイッシュネコ	Grey Cat		Harvey	2012
@@ -33,14 +36,20 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 シロクマ1	Polar Bear	ポラリス	Polaris	2014
 シロクマ2	Polar Bear	ポーラー	Polar	2019
 ゾウ	Elephant	バブルブルック	Bubblebrook	2019
+ダルメシアン1	Dalmatian		Kennelworth	2002
+ダルメシアン2	Dalmatian			2013
 チャコールネコ	Tuxedo Cat	マーロウ	Marlowe	2008
 チワワ	Chihuahua Dog	ロペス	Lopez	2011
 ティアドロップクマ	Teardrop Bear			1991
 トイプードル	Toy Poodle	ケーキブレッド	Cakebread	2016
 トナカイ2	Reindeer	スノードリフト	Snowdrift	2022
 どんぐりネズミ	Field Mouse		Fielding	2009
+ネズミ1				1985
+ネズミ2	Norwood Mouse		Norwood	1996
 ののはなウサギ	Nonohana Rabbit			2006
 ハスキー	Husky	ハスキー	Husky	2021
+ハムスター1	Hamster		Hamilton	2006
+ハムスター2	Hamster		Goldbacke	2013
 ハリネズミ	Hedgehog	ブランブル	Bramble	1991
 パンダ2	Pookie Panda	プーキー	Pookie	2020
 ビーバー1	Beaver		Waters	1986
@@ -58,9 +67,9 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 ペンギン	Penguin	ワドル	Waddle	2022
 ほしぞらネコ	Midnight Cat	ミッドナイト	Midnight	2020
 ポニー	Pony	メインリー	Manely	2021
-ネズミ				1985
 マーガレットウサギ	Marguerite Rabbit	マーガレット	Marguerite	2020
 マシュマロネズミ	Marshmallow Mouse	マシュマロ	Marshmallow	2018
+マロンイヌ	Hound Dog		Huckleberry	2003
 マロンポニー		チェストナッツ	Chestnut	2022
 ミケネコ	Whiskers Cat		Whiskers	1996
 みるくウサギ	Milk Rabbit	ペリーウィンクル	Periwinkle	2002

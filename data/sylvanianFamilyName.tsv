@@ -5,7 +5,8 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 アヒル1	Duck		Puddleford	1988
 アヒル2	Duck		Waddlington	1997
 アヒル3	Duck	パドルトン	Puddleton	2021
-アライグマ	Raccoon		Mulberry	1995
+アライグマ1	Raccoon		Chestnut	1986
+アライグマ2	Raccoon		Mulberry	1995
 アルパカ	Woolly Alpaca	ウーリー	Woolly	2018
 ウシ	Friesian Cow	バターカップ	Buttercup	2010
 オークルイヌ	Ocher Dog		Tailbury	1988
@@ -15,10 +16,11 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 キツネ	Honey Fox		Slydale	1985
 キリン	Highbranch Giraffe	ハイブランチ	Highbranch	2021
 クマ	Little Bear	ペティート	Petite	1998
-クリームネコ				1988
-クリームネコ	Cream Cat		Keats	2006
+クリームネコ1				1988
+クリームネコ2	Cream Cat		Keats	2006
 くるみリス	Walnut Squirrel	ウォールナット	Walnut	2004
 グレイッシュネコ	Grey Cat		Harvey	2012
+グレーウサギ	Grey Rabbit		Babblebrook	1985
 グレークマ	Grey Bear		Evergreen	1985
 コアラ	Koala	アウトバック	Outback	2012
 サル	Monkey	ダーウィン	Darwin	2011
@@ -35,6 +37,7 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 しろウサギ	Snow Rabbit	スノー	Snow	2020
 シロクマ1	Polar Bear	ポラリス	Polaris	2014
 シロクマ2	Polar Bear	ポーラー	Polar	2019
+スカンク	Bouquet Skunk		Bouquet	1987
 ゾウ	Elephant	バブルブルック	Bubblebrook	2019
 ダルメシアン1	Dalmatian		Kennelworth	2002
 ダルメシアン2	Dalmatian			2013
@@ -83,5 +86,6 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 ラテネコ	Latte Cat	フォンターナ		2023
 ラブラドール	Yellow Labrador	フェントン	Fenton	2014
 ラベンダーウサギ	Lavender Rabbit			2009
+リス	Oakwood Squirrel		Oakwood	1985
 レッサーパンダ	Red Panda		Robinson	2010
 わたウサギ	Cottontail Rabbit		Cottontail	1999

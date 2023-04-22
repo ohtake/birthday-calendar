@@ -9,17 +9,19 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 アイボリーウサギ	お父さん			Burdock	M	4	14	
 アイボリーウサギ	お母さん			Angelica	F	6	12	
 アイボリーウサギ	男の子			Figwort	M			
-アイボリーウサギ	女の子			Aster	F			
+アイボリーウサギ	女の子			Aster	F	10	1	
 アイボリーウサギ	赤ちゃん	女の子		Primula	F			
 アイボリーウサギ	ふたごちゃん	男の子		Larkspur	M	7	9	
 アイボリーウサギ	ふたごちゃん	女の子		Lavender	F	7	9	
 アイボリーウサギ	おじいさん				M	4	2	
 アイボリーウサギ	おばあさん				F	9	1	
-アイボリーネコ	お父さん				M			
-アイボリーネコ	お母さん				F			
+アイボリーネコ	お父さん				M	11	1	
+アイボリーネコ	お母さん				F	11	28	
 アイボリーネコ	男の子				M			
 アイボリーネコ	女の子				F	8	10	
 アイボリーネコ	赤ちゃん					4	11	
+アイボリーネコ	ふたごちゃん	男の子			M	10	27	
+アイボリーネコ	ふたごちゃん	女の子			F	10	27	
 アヒル1	お父さん			Nelson	M			
 アヒル1	お母さん			Beth	F			
 アヒル1	みつごちゃん	男の子/青	エイミー	Tom	M	5	20	
@@ -66,7 +68,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ウシ	おばあさん			Bessie	F			
 オークルイヌ	お父さん			Victor	M	6	7	
 オークルイヌ	お母さん			Purdy	F	12	13	
-オークルイヌ	男の子			Tam	M			
+オークルイヌ	男の子			Tam	M	10	8	
 オークルイヌ	女の子			Jeanie	F	3	26	
 オークルイヌ	赤ちゃん					4	13	
 オークルイヌ	ふたごちゃん	男の子		Tinker	M	2	21	
@@ -85,7 +87,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 キツネ1	お母さん			Velvette	F	9	23	
 キツネ1	男の子			Buster	M	5	27	
 キツネ1	女の子			Scarlet	F	4	18	
-キツネ1	赤ちゃん			Baby				
+キツネ1	赤ちゃん			Baby		11	3	
 キツネ1	ふたごちゃん			Skitter	M	10	31	
 キツネ1	ふたごちゃん			Lindy	F	10	31	
 キツネ2	お父さん			Eric	M			
@@ -111,8 +113,8 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 クマ	ふたごちゃん	男の子/ブルー服	フレディ	Freddie	M	11	24	
 クマ	ふたごちゃん	女の子/ピンク服	ハリー	Halley	F	11	24	
 クリームネコ1	お父さん				M	6	23	
-クリームネコ1	お母さん				F			
-クリームネコ1	男の子				M			
+クリームネコ1	お母さん				F	10	30	
+クリームネコ1	男の子				M	12	26	
 クリームネコ1	女の子				F	3	31	
 クリームネコ1	赤ちゃん	女の子			F	5	30	
 クリームネコ2	お父さん			Rossetti Longfellow	M	10	20	
@@ -148,7 +150,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 グレーウサギ	ふたごちゃん	男の子		Sandy	M	7	30	
 グレーウサギ	ふたごちゃん	女の子		Coral	F	7	30	
 グレーウサギ	おじいさん			Cliff	M	1	13	
-グレーウサギ	おばあさん			Pearl	F			
+グレーウサギ	おばあさん			Pearl	F	11	5	
 グレークマ	お父さん			Forrest	M	11	16	
 グレークマ	お母さん			Honeysuckle	F	8	2	
 グレークマ	お兄さん			Logan	M	4	8	
@@ -211,10 +213,10 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 シマネコ	赤ちゃん		アプリコット	Apricot	F	4	11	すべり台であそぶこと
 シマネコ	ふたごちゃん	男の子/ブルー服	スコット	Scott	M	1	18	
 シマネコ	ふたごちゃん	女の子/ピンク服	スカイラー	Skyler	F	1	18	
-シマリス	お父さん			Kenneth	M			
+シマリス	お父さん			Kenneth	M	11	26	
 シマリス	お母さん			Emma	F	7	13	
 シマリス	男の子			Douglas	M	3	15	
-シマリス	女の子			Greta	F			
+シマリス	女の子			Greta	F	12	24	
 シマリス	赤ちゃん					6	12	
 シマリス	ふたごちゃん	男の子		Ray	M	5	29	
 シマリス	ふたごちゃん	女の子		Fay	F	5	29	
@@ -280,13 +282,13 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 そよかぜネコ	男の子				M	11	20	
 そよかぜネコ	女の子				F	7	18	
 そよかぜネコ	赤ちゃん				F	1	18	
-タヌキ	お父さん				M			
+タヌキ	お父さん				M	10	9	
 タヌキ	お母さん				F	8	4	
 タヌキ	男の子				M			
 タヌキ	女の子				F	8	30	
 タヌキ	赤ちゃん							
 ダルメシアン1	お父さん			Montgomery	M	10	5	
-ダルメシアン1	お母さん			Dorothy	F			
+ダルメシアン1	お母さん			Dorothy	F	11	18	
 ダルメシアン1	男の子			Rufus	M			
 ダルメシアン1	女の子			Clara	F			
 ダルメシアン1	赤ちゃん	男の子		Timothy	M			
@@ -432,6 +434,16 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 フェネック	小さい赤ちゃん	男の子/パープル服	アリー	Allie	M	1	10	ベビーチェア
 フェネック	ふたごちゃん	女の子/ピンク服	タラ	Tara	F	9	30	ピカピカのスプーン
 フェネック	ふたごちゃん	男の子/ブルー服	ロッコ	Rocco	M	9	30	お砂の城づくり
+フクロウ1	お父さん			Aristotle	M			
+フクロウ1	お母さん			Arabella	F			
+フクロウ1	みつごちゃん	男の子/黄		Winky	M			
+フクロウ1	みつごちゃん	男の子/赤		Grumpy	M			
+フクロウ1	みつごちゃん	男の子/青		Blinky	M			
+フクロウ2	お父さん			Seewell	M			
+フクロウ2	お母さん			Evangeline	F			
+フクロウ2	みつごちゃん	女の子/赤		Fleur	F			
+フクロウ2	みつごちゃん	男の子/黄		Dee	M			
+フクロウ2	みつごちゃん	男の子/緑		Lee	M			
 ブタ	お父さん			Richard E.	M	3	1	
 ブタ	お母さん			Constance	F	11	8	
 ブタ	男の子			Hugh	M			
@@ -445,7 +457,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ブラウンイヌ	女の子				F	6	9	
 ブラウンイヌ	赤ちゃん					7	13	
 ブラウンウサギ	お父さん			Herb	M	1	14	
-ブラウンウサギ	お母さん			Ginger	F			
+ブラウンウサギ	お母さん			Ginger	F	11	14	
 ブラウンウサギ	お兄さん			Ray	M	3	19	
 ブラウンウサギ	お姉さん			Tina	F	8	28	
 ブラウンウサギ	男の子			Rusty	M	10	2	
@@ -608,7 +620,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ラベンダーウサギ	男の子				M	7	5	
 ラベンダーウサギ	女の子		ヴィーダ		F	2	8	
 ラベンダーウサギ	赤ちゃん				F	4	25	
-リス	お父さん			Ollie	M			
+リス	お父さん			Ollie	M	11	26	
 リス	お母さん			Betsy	F	7	13	
 リス	男の子			Barnaby	M	3	15	
 リス	女の子			Bluebell	F	12	24	

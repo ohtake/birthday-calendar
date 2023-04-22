@@ -4,21 +4,21 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 アイボリーイヌ	男の子			Bertie	M	7	24	
 アイボリーイヌ	女の子			Bella	F	9	30	
 アイボリーイヌ	赤ちゃん					5	22	
-アイボリーイヌ	ふたごちゃん							
-アイボリーイヌ	ふたごちゃん							
+アイボリーイヌ	ふたごちゃん					8	15	
+アイボリーイヌ	ふたごちゃん					8	15	
 アイボリーウサギ	お父さん			Burdock	M	4	14	
 アイボリーウサギ	お母さん			Angelica	F	6	12	
 アイボリーウサギ	男の子			Figwort	M			
 アイボリーウサギ	女の子			Aster	F			
 アイボリーウサギ	赤ちゃん	女の子		Primula	F			
-アイボリーウサギ	ふたごちゃん	男の子		Larkspur	M			
-アイボリーウサギ	ふたごちゃん	女の子		Lavender	F			
+アイボリーウサギ	ふたごちゃん	男の子		Larkspur	M	7	9	
+アイボリーウサギ	ふたごちゃん	女の子		Lavender	F	7	9	
 アイボリーウサギ	おじいさん				M	4	2	
-アイボリーウサギ	おばあさん				F			
+アイボリーウサギ	おばあさん				F	9	1	
 アイボリーネコ	お父さん				M			
 アイボリーネコ	お母さん				F			
 アイボリーネコ	男の子				M			
-アイボリーネコ	女の子				F			
+アイボリーネコ	女の子				F	8	10	
 アイボリーネコ	赤ちゃん					4	11	
 アヒル1	お父さん			Nelson	M			
 アヒル1	お母さん			Beth	F			
@@ -46,7 +46,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 アライグマ2	お母さん			Mae	F	9	5	
 アライグマ2	お姉さん			Martha	F			
 アライグマ2	男の子			Ike	M	5	19	
-アライグマ2	女の子			Candy	F			
+アライグマ2	女の子			Candy	F	9	13	
 アライグマ2	ふたごちゃん	男の子		Cookie	M	1	29	
 アライグマ2	ふたごちゃん	女の子		Pumpkin	F	1	29	
 アライグマ2	おじいさん			George	M			
@@ -81,18 +81,24 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 カンガルー	お母さん		サンディ	Sandy	F	8	4	
 カンガルー	女の子		イサベラ	Isabella	F	5	25	
 カンガルー	赤ちゃん		ケイティ	Katie	F	11	23	
+キツネ1	お父さん			Slick	M	2	23	
+キツネ1	お母さん			Velvette	F	9	23	
+キツネ1	男の子			Buster	M	5	27	
+キツネ1	女の子			Scarlet	F	4	18	
+キツネ1	赤ちゃん			Baby				
+キツネ1	ふたごちゃん			Skitter	M	10	31	
+キツネ1	ふたごちゃん			Lindy	F	10	31	
+キツネ2	お父さん			Eric	M			
+キツネ2	お母さん			Roxy	F			
+キツネ2	男の子			Baden	M			
+キツネ2	女の子			Mikaela	F			
+キツネ2	赤ちゃん	男の子		Danny	M			
+キツネ2	赤ちゃん	女の子		Carrie	F			
 キャラメルイヌ	お父さん		ランス	Lance	M	5	18	お気に入りの双眼鏡
 キャラメルイヌ	お母さん		ビビアン	Vivian	F	10	12	ハイキング
 キャラメルイヌ	お姉さん		メラニー	Melanie	F	1	15	
 キャラメルイヌ	女の子		カーリー	Carlie	F	3	6	おでかけ
 キャラメルイヌ	赤ちゃん	男の子	ジャスティン	Justin	M	9	9	どんぐり
-キツネ	お父さん			Slick	M	2	23	
-キツネ	お母さん			Velvette	F	9	23	
-キツネ	男の子			Buster	M	5	27	
-キツネ	女の子			Scarlet	F	4	18	
-キツネ	赤ちゃん			Baby				
-キツネ	ふたごちゃん			Skitter	M	10	31	
-キツネ	ふたごちゃん			Lindy	F	10	31	
 キリン	お父さん		エグバート	Egbert	M	7	11	ヴィンテージコレクション
 キリン	お母さん		オリーブ	Olive	F	5	11	シュークリーム
 キリン	赤ちゃん	男の子/オレンジの服	ブラン	Bran	M	4	20	カメラ・写真を撮ること
@@ -139,8 +145,8 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 グレーウサギ	お姉さん			Judy	F	10	19	
 グレーウサギ	男の子			Bubba	M	9	8	
 グレーウサギ	女の子			Breezy	F			
-グレーウサギ	ふたごちゃん	男の子		Sandy	M			
-グレーウサギ	ふたごちゃん	女の子		Coral	F			
+グレーウサギ	ふたごちゃん	男の子		Sandy	M	7	30	
+グレーウサギ	ふたごちゃん	女の子		Coral	F	7	30	
 グレーウサギ	おじいさん			Cliff	M	1	13	
 グレーウサギ	おばあさん			Pearl	F			
 グレークマ	お父さん			Forrest	M	11	16	
@@ -154,6 +160,11 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 グレークマ	ふたごちゃん	女の子		Poppy	F			
 グレークマ	おじいさん			Ernest	M	3	8	
 グレークマ	おばあさん			Primrose	F	12	8	
+グレーネコ	お父さん				M			
+グレーネコ	お母さん				F	9	2	
+グレーネコ	男の子				M			
+グレーネコ	女の子				F			
+グレーネコ	赤ちゃん					7	13	
 コアラ	お父さん		ブルース	Bruce	M	1	3	
 コアラ	お母さん		カリッサ	Carissa	F	10	29	
 コアラ	赤ちゃん	姉/イエロー服	アデレード	Adelaide	F	7	28	
@@ -201,7 +212,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 シマネコ	ふたごちゃん	男の子/ブルー服	スコット	Scott	M	1	18	
 シマネコ	ふたごちゃん	女の子/ピンク服	スカイラー	Skyler	F	1	18	
 シマリス	お父さん			Kenneth	M			
-シマリス	お母さん			Emma	F			
+シマリス	お母さん			Emma	F	7	13	
 シマリス	男の子			Douglas	M	3	15	
 シマリス	女の子			Greta	F			
 シマリス	赤ちゃん					6	12	
@@ -247,9 +258,16 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 シロクマ2	女の子			Keisha	F			
 シロクマ2	赤ちゃん	男の子		Stanley	M			
 シロクマ2	赤ちゃん	女の子	ヤーナ	Yana	F	2	3	コーンフレーク
+シロネズミ	お父さん			Hickery	M	7	2	
+シロネズミ	お母さん			Imogen	F			
+シロネズミ	男の子			Bryce	M	12	18	
+シロネズミ	女の子			Laurel	F	2	12	
+シロネズミ	赤ちゃん	女の子		Mabel	F	10	28	
+シロネズミ	ふたごちゃん	男の子		Matthew	M	1	30	
+シロネズミ	ふたごちゃん	女の子		Melanie	F	1	30	
 スカンク	お父さん			Stilton	M			
 スカンク	お母さん			Rosemary	F	6	1	
-スカンク	男の子			Sage	M			
+スカンク	男の子			Sage	M	11	30	
 スカンク	女の子			Jasmin	F	4	25	
 スカンク	ふたごちゃん	男の子		Parsley	M	6	14	
 スカンク	ふたごちゃん	女の子		Lavender	F	6	14	
@@ -262,6 +280,11 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 そよかぜネコ	男の子				M	11	20	
 そよかぜネコ	女の子				F	7	18	
 そよかぜネコ	赤ちゃん				F	1	18	
+タヌキ	お父さん				M			
+タヌキ	お母さん				F	8	4	
+タヌキ	男の子				M			
+タヌキ	女の子				F	8	30	
+タヌキ	赤ちゃん							
 ダルメシアン1	お父さん			Montgomery	M	10	5	
 ダルメシアン1	お母さん			Dorothy	F			
 ダルメシアン1	男の子			Rufus	M			
@@ -503,21 +526,27 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 マシュマロネズミ	みつごちゃん	女の子/ブルー服	メリー	Mary	F	12	21	
 マシュマロネズミ	みつごちゃん	男の子/イエロー服	エドワード	Edward	M	12	21	
 マシュマロネズミ	みつごちゃん	女の子/ピンク服	エリザベス	Elizabeth	F	12	21	
-マロンイヌ	お父さん			Hubert Alan	M	3	17	
-マロンイヌ	お母さん			Hatty	F	7	8	
-マロンイヌ	男の子			Dennis	M	12	3	
-マロンイヌ	女の子			Esme	F	2	7	
-マロンイヌ	赤ちゃん	男の子		Pip	M	12	17	
-マロンイヌ	ふたごちゃん	男の子		Jethro	M	1	22	
-マロンイヌ	ふたごちゃん	女の子		Cordelia	F	1	22	
+マロンイヌ1	お父さん			Harley	M	1	2	
+マロンイヌ1	お母さん			Penny	F	7	20	
+マロンイヌ1	男の子			Vespa	M	12	5	
+マロンイヌ1	女の子			Wren	F	9	26	
+マロンイヌ1	赤ちゃん	男の子		Rally	M	2	13	
+マロンイヌ1	赤ちゃん	女の子		Sally	F			
+マロンイヌ2	お父さん			Hubert Alan	M	3	17	
+マロンイヌ2	お母さん			Hatty	F	7	8	
+マロンイヌ2	男の子			Dennis	M	12	3	
+マロンイヌ2	女の子			Esme	F	2	7	
+マロンイヌ2	赤ちゃん	男の子		Pip	M	12	17	
+マロンイヌ2	ふたごちゃん	男の子		Jethro	M	1	22	
+マロンイヌ2	ふたごちゃん	女の子		Cordelia	F	1	22	
 マロンポニー	女の子		ベラ	Bella	F	7	11	ミラー
 ミケネコ	お父さん			Sebastian	M	6	7	
 ミケネコ	お母さん			Katrina	F	12	13	
 ミケネコ	男の子			Branson	M	9	19	
 ミケネコ	女の子			Amelia	F	7	8	
 ミケネコ	赤ちゃん	女の子		Katie	F	1	10	
-ミケネコ	ふたごちゃん	男の子		Jeremy	M			
-ミケネコ	ふたごちゃん	女の子		Mallory	F			
+ミケネコ	ふたごちゃん	男の子		Jeremy	M	7	26	
+ミケネコ	ふたごちゃん	女の子		Mallory	F	7	26	
 みるくウサギ	お父さん		アレックス	Alex	M	4	14	しゃしんをとること
 みるくウサギ	お母さん		ケイト	Kate	F	6	20	かわいいものでへやをかざること
 みるくウサギ	お姉さん		キャサリン	Catherine	F	5	29	
@@ -547,7 +576,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 モグラ	赤ちゃん	女の子/レッド服	ムー	Mo	F	9	20	ホットミルク
 ヤギ1	お父さん				M			
 ヤギ1	お母さん				F			
-ヤギ1	赤ちゃん							
+ヤギ1	赤ちゃん					9	1	
 ヤギ2	お父さん			Ramsey	M	3	6	
 ヤギ2	お母さん			Caprina	F	7	24	
 ヤギ2	ふたごちゃん	男の子		William	M	9	1	

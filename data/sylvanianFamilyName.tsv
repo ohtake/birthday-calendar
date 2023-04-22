@@ -12,8 +12,9 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 オークルイヌ	Ocher Dog		Tailbury	1988
 カワウソ	Splashy Otter	スプラッシー	Splashy	2018
 カンガルー	Kangaroo	ホッパー	Hopper	2014
+キツネ1	Honey Fox		Slydale	1985
+キツネ2	Red Fox		Renard	1995
 キャラメルイヌ	Caramel Dog	キャラメル	Caramel	2019
-キツネ	Honey Fox		Slydale	1985
 キリン	Highbranch Giraffe	ハイブランチ	Highbranch	2021
 クマ	Little Bear	ペティート	Petite	1998
 クリームネコ1				1988
@@ -22,6 +23,7 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 グレイッシュネコ	Grey Cat		Harvey	2012
 グレーウサギ	Grey Rabbit		Babblebrook	1985
 グレークマ	Grey Bear		Evergreen	1985
+グレーネコ	Grey Cat			1987
 コアラ	Koala	アウトバック	Outback	2012
 サル	Monkey	ダーウィン	Darwin	2011
 しおかぜウサギ2	Sea Breeze Rabbit		Seabreeze	2020
@@ -37,8 +39,10 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 しろウサギ	Snow Rabbit	スノー	Snow	2020
 シロクマ1	Polar Bear	ポラリス	Polaris	2014
 シロクマ2	Polar Bear	ポーラー	Polar	2019
+シロネズミ	White Mouse		Hawthorn	2005
 スカンク	Bouquet Skunk		Bouquet	1987
 ゾウ	Elephant	バブルブルック	Bubblebrook	2019
+タヌキ				1985
 ダルメシアン1	Dalmatian		Kennelworth	2002
 ダルメシアン2	Dalmatian			2013
 チャコールネコ	Tuxedo Cat	マーロウ	Marlowe	2008
@@ -72,7 +76,8 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 ポニー	Pony	メインリー	Manely	2021
 マーガレットウサギ	Marguerite Rabbit	マーガレット	Marguerite	2020
 マシュマロネズミ	Marshmallow Mouse	マシュマロ	Marshmallow	2018
-マロンイヌ	Hound Dog		Huckleberry	2003
+マロンイヌ1	Farthing Dog		Farthing	1988
+マロンイヌ2	Hound Dog		Huckleberry	2003
 マロンポニー		チェストナッツ	Chestnut	2022
 ミケネコ	Whiskers Cat		Whiskers	1996
 みるくウサギ	Milk Rabbit	ペリーウィンクル	Periwinkle	2002

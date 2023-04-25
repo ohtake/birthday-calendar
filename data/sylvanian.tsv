@@ -56,7 +56,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 アルパカ	お父さん		アンドレ	Andre	M	1	8	
 アルパカ	お母さん		アリアナ	Ariana	F	8	1	
 アルパカ	女の子		フィオレラ	Fiorella	F	2	10	
-アルパカ	赤ちゃん		ガブリエル	Gabriel	M	12	13	
+アルパカ	赤ちゃん		ガブリエル	Gabriel	M	12	13	お父さんが作ってくれたぼうし
 ウシ	お父さん		ホーンブル	Hornbull	M	5	28	四葉のクローバー
 ウシ	お母さん		デイジー	Daisy	F	10	18	おしゃべり
 ウシ	男の子		パドック	Paddock	M	12	30	体を動かすこと・レーズンブレッド
@@ -77,12 +77,12 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 オークルイヌ	おばあさん			Jacqueline	F			
 カワウソ	お父さん		グレン	Glenn	M	5	24	
 カワウソ	お母さん		アマンダ	Amanda	F	4	26	
-カワウソ	ふたごちゃん	女の子／ピンク服	ニコラ	Nicola	F	2	2	手あそび
-カワウソ	ふたごちゃん	男の子／ブルー服	ジョン	Jack	M	2	2	
+カワウソ	小さい赤ちゃん	女の子／ピンク服	ニコラ	Nicola	F	2	2	手あそび
+カワウソ	小さい赤ちゃん	男の子／ブルー服	ジョン	Jack	M	2	2	水あび
 カンガルー	お父さん		リッチー	Richie	M	3	10	
 カンガルー	お母さん		サンディ	Sandy	F	8	4	
 カンガルー	女の子		イサベラ	Isabella	F	5	25	
-カンガルー	赤ちゃん		ケイティ	Katie	F	11	23	
+カンガルー	赤ちゃん		ケイティ	Katie	F	11	23	おひるね
 キツネ1	お父さん			Slick	M	2	23	
 キツネ1	お母さん			Velvette	F	9	23	
 キツネ1	男の子			Buster	M	5	27	
@@ -110,8 +110,8 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 クマ	男の子		ピアーズ	Piers	M	12	25	
 クマ	女の子		アンドロメダ	Andromeda	F	3	20	
 クマ	赤ちゃん		ジェイソン		M	3	5	ぬり絵
-クマ	ふたごちゃん	男の子/ブルー服	フレディ	Freddie	M	11	24	
-クマ	ふたごちゃん	女の子/ピンク服	ハリー	Halley	F	11	24	
+クマ	ふたごちゃん	男の子/ブルー服	フレディ	Freddie	M	11	24	まねっこ
+クマ	ふたごちゃん	女の子/ピンク服	ハリー	Halley	F	11	24	手をつなぐこと
 クリームネコ1	お父さん				M	6	23	
 クリームネコ1	お母さん				F	10	30	
 クリームネコ1	男の子				M	12	26	
@@ -130,13 +130,13 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 くるみリス	男の子		ラルフ	Ralph	M	8	22	木のぼり
 くるみリス	女の子		サフラン	Saffron	F	9	4	黄色いものをあつめること
 くるみリス	赤ちゃん		アンブローズ	Ambrose	M	4	17	とびはねること
-くるみリス	ふたごちゃん	男の子/イエロー服	アルフィー	Alfie	M	6	16	
-くるみリス	ふたごちゃん	女の子/ピンク服	アリッサ	Alyssa	F	6	16	
+くるみリス	ふたごちゃん	男の子/イエロー服	アルフィー	Alfie	M	6	16	お父さんの道具をさわること
+くるみリス	ふたごちゃん	女の子/ピンク服	アリッサ	Alyssa	F	6	16	らくがき、クレヨン
 グレイッシュネコ	お父さん			Perkin	M	12	11	
 グレイッシュネコ	お母さん			Dorothy	F	9	17	
 グレイッシュネコ	男の子			Austin	M	2	23	
 グレイッシュネコ	女の子			Zara	F	7	29	
-グレイッシュネコ	赤ちゃん			Liberty	F	8	26	
+グレイッシュネコ	赤ちゃん		リバティ	Liberty	F	8	26	ブランコに乗ること
 グレイッシュネコ	ふたごちゃん	男の子		Ashton	M	5	17	
 グレイッシュネコ	ふたごちゃん	女の子		Lulu	F	5	17	
 グレイッシュネコ	おじいさん			Bert	M			
@@ -169,8 +169,8 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 グレーネコ	赤ちゃん					7	13	
 コアラ	お父さん		ブルース	Bruce	M	1	3	
 コアラ	お母さん		カリッサ	Carissa	F	10	29	
-コアラ	赤ちゃん	姉/イエロー服	アデレード	Adelaide	F	7	28	
-コアラ	赤ちゃん	妹/ピンク服	ジュリー	Julie	F	5	13	
+コアラ	赤ちゃん	姉/イエロー服	アデレード	Adelaide	F	7	28	ヨーグルトシェイク
+コアラ	赤ちゃん	妹/ピンク服	ジュリー	Julie	F	5	13	すりおろしたりんご
 サル	お父さん		ジェフ	Geoff	M	8	5	
 サル	お母さん		シャーリー	Shirley	F	11	21	
 サル	男の子			Simion	M			
@@ -186,16 +186,16 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 シカ	お母さん		タバサ	Agatha	F	3	14	
 シカ	男の子		フレディ	Freddie	M	7	13	
 シカ	女の子		ファウナ	Maria	F	3	6	
-シカ	赤ちゃん		ペリー	Oscar	M	1	16	
-シカ	ふたごちゃん	男の子/イエロー服	ダレン	Matthew	M	5	3	
-シカ	ふたごちゃん	女の子/ピンク服	リリー	Lily	F	5	3	
+シカ	赤ちゃん		ペリー	Oscar	M	1	16	お兄ちゃんが作ってくれた笛
+シカ	ふたごちゃん	男の子/イエロー服	ダレン	Matthew	M	5	3	家族みんなでおでかけ
+シカ	ふたごちゃん	女の子/ピンク服	リリー	Lily	F	5	3	ふしぎなもの
 シナモンウサギ	お兄さん		ウィリアム	William	M	10	4	
 シバイヌ	お父さん		ケント	Kent	M	4	8	
 シバイヌ	お母さん		アンナ	Anna	F	1	19	
 シバイヌ	男の子		エイト	Eight	M			
 シバイヌ	女の子		ナナ	Nana	F			
-シバイヌ	赤ちゃん	男の子/ピンク服	モモ	Momo	M	2	22	
-シバイヌ	赤ちゃん	女の子/ブルー服	マル	Maru	F			
+シバイヌ	赤ちゃん	女の子/ブルー服	マル	Maru	F	3	11	ピクルス
+シバイヌ	赤ちゃん	男の子/ピンク服	モモ	Momo	M	2	22	ラベンダー
 シフォンイヌ	お父さん			Gordon	M	5	7	
 シフォンイヌ	お母さん			Delia	F	7	6	
 シフォンイヌ	お姉さん				F			
@@ -211,8 +211,8 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 シマネコ	男の子		シェーン	Shane	M	7	22	
 シマネコ	女の子		サブリナ	Sabrina	F	6	28	
 シマネコ	赤ちゃん		アプリコット	Apricot	F	4	11	すべり台であそぶこと
-シマネコ	ふたごちゃん	男の子/ブルー服	スコット	Scott	M	1	18	
-シマネコ	ふたごちゃん	女の子/ピンク服	スカイラー	Skyler	F	1	18	
+シマネコ	ふたごちゃん	男の子/ブルー服	スコット	Scott	M	1	18	麦わらぼうし
+シマネコ	ふたごちゃん	女の子/ピンク服	スカイラー	Skyler	F	1	18	みんなに手をふること
 シマリス	お父さん			Kenneth	M	11	26	
 シマリス	お母さん			Emma	F	7	13	
 シマリス	男の子			Douglas	M	3	15	
@@ -226,8 +226,8 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ショコラウサギ	男の子		ココ	Coco	M	2	1	サッカー
 ショコラウサギ	女の子		フレア	Freya	F	10	3	絵をかくこと
 ショコラウサギ	赤ちゃん		クレム	Crème	F	7	14	チョコレートパンを食べること
-ショコラウサギ	ふたごちゃん	男の子/イエロー服	ケイブ	Kabe	M	12	12	
-ショコラウサギ	ふたごちゃん	女の子/ピンク服	ブリーズ	Breeze	F	12	12	
+ショコラウサギ	ふたごちゃん	男の子/イエロー服	ケイブ	Kabe	M	12	12	ボールあそび
+ショコラウサギ	ふたごちゃん	女の子/ピンク服	ブリーズ	Breeze	F	12	12	ちょうちょ
 ショコラウサギ	みつごちゃん	男の子/イエローの服	フィリップ	Philip	M	3	25	寝転がって足を蹴る
 ショコラウサギ	みつごちゃん	女の子/レッドの服	フローラ	Flora	F	3	25	ハンカチを振る
 ショコラウサギ	みつごちゃん	女の子/ブルーの服	フォーナ	Fauna	F	3	25	空の鳥を見る
@@ -239,8 +239,8 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 シルクネコ	男の子		トビー	Toby	M	12	28	
 シルクネコ	女の子		ティファニー	Tiffany	F	4	29	
 シルクネコ	赤ちゃん		ギリー	Gilly	F	8	11	きれいなものをあつめること
-シルクネコ	ふたごちゃん	女の子/ピンク服	ジニー	Ginni	F	5	15	
-シルクネコ	ふたごちゃん	男の子/イエロー服	ジョージ	George	M	5	15	
+シルクネコ	ふたごちゃん	女の子/ピンク服	ジニー	Ginni	F	5	15	ほうき
+シルクネコ	ふたごちゃん	男の子/イエロー服	ジョージ	George	M	5	15	音楽
 シルバーポニー	女の子		ジゼル	Giselle	F	2	25	ヘアクリーム
 しろウサギ	お父さん			Kit	M	8	18	
 しろウサギ	お母さん		エミリア	Emilia	F	11	13	旅行・氷菓子づくり
@@ -305,16 +305,16 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 チャコールネコ	ふたごの女の子	ピンク服	ローズ	Rose	F	6	13	
 チャコールネコ	ふたごの女の子	ブルー服	リリー	Lily	F	6	13	
 チャコールネコ	赤ちゃん			Olive	F	9	16	
-チャコールネコ	みつごちゃん	女の子/ピンク服	アンジェリカ	Angelica	F	4	27	
-チャコールネコ	みつごちゃん	男の子/グリーン服	ミッドナイト	Midnight	M	4	27	
-チャコールネコ	みつごちゃん	女の子/ブルー服	ペパーミント	Peppermint	F	4	27	
+チャコールネコ	みつごちゃん	女の子/ピンク服	アンジェリカ	Angelica	F	9	16	人形あそび
+チャコールネコ	みつごちゃん	男の子/グリーン服	ミッドナイト	Midnight	M	9	16	おいかけっこ
+チャコールネコ	みつごちゃん	女の子/ブルー服	ペパーミント	Peppermint	F	9	16	シーソー
 チワワ	お父さん		シーザー	Cesar	M	6	9	
 チワワ	お母さん		コンチータ	Conchita	F	10	21	
 チワワ	男の子		パブロ	Pablo	M	7	16	
 チワワ	女の子		ラヤ	Laya	F	3	11	
 チワワ	赤ちゃん		ジョリンダ	Joelynda	F	4	12	つみ木であそぶこと
-チワワ	ふたごちゃん	女の子/イエロー服	ローラ	Lola	F	9	28	
-チワワ	ふたごちゃん	男の子/イエロー服	ペピ	Pepi	M	9	28	
+チワワ	ふたごちゃん	女の子/イエロー服	ローラ	Lola	F	9	28	もうふ
+チワワ	ふたごちゃん	男の子/イエロー服	ペピ	Pepi	M	9	28	あったかいところ
 ティアドロップクマ	お父さん				M	4	24	
 ティアドロップクマ	お母さん				F	7	5	
 ティアドロップクマ	男の子				M	12	25	
@@ -327,9 +327,9 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 トイプードル	お姉さん		ローラ	Laura	F	8	8	
 トイプードル	男の子		エリック	Eric	M	10	12	
 トイプードル	女の子		メリンダ	Melinda	F	5	5	
-トイプードル	赤ちゃん		マイロ	Milo	M	8	15	
-トイプードル	ふたごちゃん	女の子/ピンク服	ミア	Mia	F	7	27	
-トイプードル	ふたごちゃん	男の子/エメラルド服	マックス	Max	M	7	27	
+トイプードル	赤ちゃん		マイロ	Milo	M	8	15	人形のおせわ
+トイプードル	ふたごちゃん	女の子/ピンク服	ミア	Mia	F	7	27	にっこりすること
+トイプードル	ふたごちゃん	男の子/エメラルド服	マックス	Max	M	7	27	はいはい
 トナカイ2	お父さん		ジョリー	Jolly	M	6	28	靴下集め
 トナカイ2	お母さん		エルム	Elm	F	12	14	ジョギング
 トナカイ2	赤ちゃん	女の子/緑の服	イブ	Eve	F	1	22	オーナメント
@@ -343,6 +343,10 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 どんぐりネズミ	赤ちゃん			Clop	M	9	29	
 どんぐりネズミ	ふたごちゃん	男の子		Clip	M	1	13	
 どんぐりネズミ	ふたごちゃん	女の子		Clipperty	F	1	13	
+ナマケモノ	お父さん			Clint	M			
+ナマケモノ	お母さん			Candice	F			
+ナマケモノ	ふたごちゃん	男の子	ネイサン	Nathan	M	12	17	ストレッチ
+ナマケモノ	ふたごちゃん	女の子	ナターシャ	Natasha	F	12	17	りんご
 ネズミ1	お父さん				M	5	6	
 ネズミ1	お母さん				F	3	10	
 ネズミ1	男の子				M	10	25	
@@ -366,12 +370,12 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ハスキー	お母さん		アヴリル	Avril	F	6	30	ジュエリー
 ハスキー	男の子		ハイデン	Hayden	M	1	7	植物観察・葉っぱコレクション
 ハスキー	女の子		ポーリーン	Pauline	F	8	7	工作
-ハスキー	赤ちゃん		リンネア	Linnea	F	4	4	
+ハスキー	赤ちゃん		リンネア	Linnea	F	4	4	石あつめ
 ハスキー	ふたごちゃん	女の子/オレンジ服	アンバー	Amber	F	10	20	面白い顔をすること
 ハスキー	ふたごちゃん	男の子/ブルー服	ジェレミー	Jeremy	M	10	20	押し車
-ハスキー	みつごちゃん	女の子/イエローの服	レイ	Rae	F	9	11	
-ハスキー	みつごちゃん	男の子/ピンクの服	ドレイク	Drake	M	9	11	
-ハスキー	みつごちゃん	女の子/ミントグリーンの服	ネリー	Nelly	F	9	11	
+ハスキー	みつごちゃん	女の子/イエローの服	レイ	Rae	F	9	11	そりでおかをくだること
+ハスキー	みつごちゃん	男の子/ピンクの服	ドレイク	Drake	M	9	11	ピンクのフードのお洋服
+ハスキー	みつごちゃん	女の子/ミントグリーンの服	ネリー	Nelly	F	9	11	お兄ちゃんがとってくるハーブをかぐこと
 はなぞのウサギ	お父さん				M	6	5	
 はなぞのウサギ	お母さん				F	9	23	
 はなぞのウサギ	男の子				M	1	28	
@@ -381,8 +385,9 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ハムスター1	お母さん			Hilda	F			
 ハムスター1	男の子			George	M			
 ハムスター1	女の子			Jane	F			
-ハムスター1	ふたごちゃん	男の子		Neil	M			
-ハムスター1	ふたごちゃん	女の子		Christine	F			
+ハムスター1	赤ちゃん	男の子	ロビン		M	1	19	ダンス
+ハムスター1	ふたごちゃん	男の子	ニール	Neil	M	2	24	ホイップをたっぷりのせたいちご
+ハムスター1	ふたごちゃん	女の子	クリスティン	Christine	F	2	24	ポップコーン
 ハムスター2	お父さん			Nick	M	4	6	
 ハムスター2	お母さん			Emma	F			
 ハムスター2	男の子			Frank	M	11	21	
@@ -394,18 +399,18 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ハリネズミ	お母さん		エレノア	Eleanor	F	4	3	
 ハリネズミ	男の子		マックスウェル	Maxwell	M	10	5	
 ハリネズミ	女の子		アビゲール	Abigail	F	2	27	
-ハリネズミ	赤ちゃん	男の子	ビルベリー	Bilberry	M	8	14	
+ハリネズミ	赤ちゃん	男の子	ビルベリー	Bilberry	M	8	14	おさんぽ
 ハリネズミ	赤ちゃん	女の子		Peaches	F			
-ハリネズミ	ふたごちゃん	男の子/イエロー服	ハニー	Honey	M	5	26	
-ハリネズミ	ふたごちゃん	女の子/ピンク服	ヘーゼル	Hazel	F	5	26	
+ハリネズミ	ふたごちゃん	男の子/イエロー服	ハニー	Honey	M	5	26	いろいろないれもののふたをあけること
+ハリネズミ	ふたごちゃん	女の子/ピンク服	ヘーゼル	Hazel	F	5	26	ねること
 パンダ2	お父さん		ウォルター	Walter	M	9	12	パーティー企画
 パンダ2	お母さん		デボラ	Deborah	F	3	9	作曲
 パンダ2	女の子		ロザリナ	Rosalina	F	12	4	他の人を楽しませること
 パンダ2	赤ちゃん	男の子/イエローの服	タイラー	Tyler	M	2	18	ダンス
 パンダ2	赤ちゃん	女の子/パープルの服	アンジェラ	Angela	F	10	13	歌うこと
-パンダ2	赤ちゃん	男の子/ブルーの服	トニー	Tony	M	12	30	
-パンダ2	ふたごちゃん	女の子/おすわり	クララ	Clara	F	9	1	
-パンダ2	ふたごちゃん	男の子/はいはい	ロイ	Roy	M	9	1	
+パンダ2	赤ちゃん	男の子/ブルーの服	トニー	Tony	M	12	30	メリーゴーラウンド
+パンダ2	ふたごちゃん	女の子/おすわり	クララ	Clara	F	9	1	ゆめを見ること
+パンダ2	ふたごちゃん	男の子/はいはい	ロイ	Roy	M	9	1	いたずら
 ビーバー1	お父さん			Wade	M	7	8	
 ビーバー1	お母さん			Nancy	F	1	25	
 ビーバー1	男の子			Roger	M	11	3	
@@ -415,25 +420,25 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ビーバー2	お父さん			Andrew	M	7	8	
 ビーバー2	お母さん			Aubrey	F	1	25	
 ビーバー2	女の子			Evelyn	F	2	9	
-ビーバー2	赤ちゃん	男の子		Ethan	M	9	1	
+ビーバー2	赤ちゃん	男の子	イーサン	Ethan	M	9	1	セサミクラッカー
 ヒツジ	お父さん		イーワン	Ewan	M	7	21	カリフラワースープ・楽器作り
 ヒツジ	お母さん		バーバラ	Barbara	F	4	20	ブロッコリースープ・人形作り
 ヒツジ	男の子		ウィントン	Winton	M	6	14	サンドイッチ・読書
 ヒツジ	女の子		ローナ	Lona	F	10	16	クレープ・お絵描き
 ヒツジ	赤ちゃん		エマ	Emma	F	2	16	リンゴ・シュークリーム・気球に乗ること
-ヒツジ	ふたごちゃん	女の子/ピンク服	ショーナ	Shona	F	4	9	
-ヒツジ	ふたごちゃん	男の子/イエロー服	ショーン	Sean	M	4	9	
+ヒツジ	ふたごちゃん	女の子/ピンク服	ショーナ	Shona	F	4	9	ちょうちょ
+ヒツジ	ふたごちゃん	男の子/イエロー服	ショーン	Sean	M	4	9	くだもの
 ヒツジ	おじいさん			Wesley	M			
 ヒツジ	おばあさん			Dove	F			
 フェネック	お父さん		ロナルド	Ronald	M	6	2	サンドアート
 フェネック	お母さん		シャロン	Sharon	F	10	10	絵本をかくこと
 フェネック	女の子		ジャスミン	Jasmine	F	2	8	砂絵
 フェネック	赤ちゃん	男の子	カレブ	Caleb	M	7	4	砂のなかにもぐること
-フェネック	赤ちゃん	女の子	ユリー	Yulie	F	5	12	
-フェネック	小さい赤ちゃん	女の子/ミントグリーン服	カーヤ	Kaya	F	1	10	星の形
-フェネック	小さい赤ちゃん	男の子/パープル服	アリー	Allie	M	1	10	ベビーチェア
+フェネック	赤ちゃん	女の子	ユリー	Yulie	F	5	12	シャボン玉
 フェネック	ふたごちゃん	女の子/ピンク服	タラ	Tara	F	9	30	ピカピカのスプーン
 フェネック	ふたごちゃん	男の子/ブルー服	ロッコ	Rocco	M	9	30	お砂の城づくり
+フェネック	小さい赤ちゃん	女の子/ミントグリーン服	カーヤ	Kaya	F	1	10	星の形
+フェネック	小さい赤ちゃん	男の子/パープル服	アリー	Allie	M	1	10	ベビーチェア
 フクロウ1	お父さん			Aristotle	M			
 フクロウ1	お母さん			Arabella	F			
 フクロウ1	みつごちゃん	男の子/黄		Winky	M			
@@ -462,7 +467,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ブラウンウサギ	お姉さん			Tina	F	8	28	
 ブラウンウサギ	男の子			Rusty	M	10	2	
 ブラウンウサギ	女の子			Hollie	F			
-ブラウンウサギ	ふたごちゃん	男の子		Barkley	M	6	20	
+ブラウンウサギ	ふたごちゃん	男の子	バークリー	Barkley	M	6	20	
 ブラウンウサギ	ふたごちゃん	女の子		Juniper	F	6	20	
 ブラウンウサギ	おじいさん			Smokey	M	9	5	
 ブラウンウサギ	おばあさん			Flora	F	8	20	
@@ -476,16 +481,22 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ブラウンクマ	赤ちゃん	女の子		Blossom	F			
 ブラウンクマ	おじいさん			Gus	M	5	29	
 ブラウンクマ	おばあさん			Fern	F	5	6	
+フレンチブルドッグ	お父さん			Dan	M			
+フレンチブルドッグ	お母さん			Rolly	F			
+フレンチブルドッグ	男の子			Ron	M			
+フレンチブルドッグ	女の子			Ann	F			
+フレンチブルドッグ	赤ちゃん	女の子	ニコ	Niko	F	8	13	枝や小石をあつめること
+フレンチブルドッグ	赤ちゃん	男の子	コニー	Connie	M	2	23	砂場であなをほること
 フローラウサギ	お父さん		ノーラン	Nolan	M	5	20	ハーブティー
 フローラウサギ	お母さん		アリア	Aria	F	3	28	ピアノ
 フローラウサギ	男の子		レノン	Lennon	M	10	26	理科の勉強
 フローラウサギ	女の子		アリス	Alice	F	8	2	植物図鑑
-フローラウサギ	赤ちゃん		シエル	Ciel	F			
+フローラウサギ	赤ちゃん		シエル	Ciel	F	5	31	ほいくえんに行くこと
 フローラウサギ	ふたごちゃん	女の子/ピンク服	ヴィオラ	Viola	F	5	10	クレヨン
 フローラウサギ	ふたごちゃん	男の子/エメラルド服	ルノー	Renault	M	5	10	おままごと
-フローラウサギ	みつごちゃん	男の子/イエローの服	タイム	Thyme	M	12	3	雪の日
 フローラウサギ	みつごちゃん	男の子/パープルの服	セージ	Sage	M	12	3	雨の日
 フローラウサギ	みつごちゃん	女の子/ピンクの服	ローズマリー	Rosemary	F	12	3	晴れの日
+フローラウサギ	みつごちゃん	男の子/イエローの服	タイム	Thyme	M	12	3	雪の日
 ペルシャネコ1	お父さん			Septimus	M			
 ペルシャネコ1	お母さん			Salome	F			
 ペルシャネコ1	男の子			Nolly	M			
@@ -507,11 +518,11 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ペルシャネコ3	ふたごの女の子	グレー/イエロー服	スカイ	Skye	F	2	5	日記
 ペルシャネコ3	ふたごの女の子	ホワイト/ピンク服	ライラ	Lyra	F	2	5	お気に入りのメトロノーム
 ペルシャネコ3	赤ちゃん		ライアン	Ryan	M	12	30	写真を撮ること
-ペルシャネコ3	ふたごちゃん	ピンク服	レイヤ	Leah	F	8	3	
-ペルシャネコ3	ふたごちゃん	エメラルド服	ベラミー	Bellamy	M	8	3	
-ペルシャネコ3	みつごちゃん	ホワイト/イエロー服	ブレア	Blair	F	11	25	
-ペルシャネコ3	みつごちゃん	グレー/グリーン服	ブレイク	Blake	M	11	25	
-ペルシャネコ3	みつごちゃん	ホワイト/ピンク服	ブリアナ	Brianna	F	11	25	
+ペルシャネコ3	ふたごちゃん	ピンク服	レイヤ	Leah	F	8	3	でこぼこしたもの
+ペルシャネコ3	ふたごちゃん	エメラルド服	ベラミー	Bellamy	M	8	3	のりもの
+ペルシャネコ3	みつごちゃん	ホワイト/イエロー服	ブレア	Blair	F	11	25	いたずら
+ペルシャネコ3	みつごちゃん	グレー/グリーン服	ブレイク	Blake	M	11	25	ミントのかおり
+ペルシャネコ3	みつごちゃん	ホワイト/ピンク服	ブリアナ	Brianna	F	11	25	ねがえりでごろごろすること
 ペンギン	お父さん		オッジ―	Ozzie	M	7	18	釣り
 ペンギン	お母さん		サファイア	Sapphire	F	5	23	アイスダンス
 ペンギン	赤ちゃん	男の子/イエロー服	キッピ―	Kippie	M	8	4	アイスクリーム
@@ -520,7 +531,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ほしぞらネコ	お父さん		ジェームズ	James	M	12	27	マジックをすること
 ほしぞらネコ	お母さん		アリソン	Alison	F	10	19	タロット占い
 ほしぞらネコ	女の子		シャンテール	Chantelle	F	1	4	カードマジック
-ほしぞらネコ	赤ちゃん		グロリア	Gloria	F	6	11	
+ほしぞらネコ	赤ちゃん		グロリア	Gloria	F	6	11	かくれんぼ
 ほしぞらネコ	小さい赤ちゃん		レジー	Reggie	M	1	23	ごみばこからキラキラしたものやいいものを探す
 ポニー	お母さん		セラフィナ	Serafina	F	11	8	
 ポニー	女の子	ブロンドヘア	サリー	Sally	F	10	20	
@@ -535,9 +546,9 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 マシュマロネズミ	男の子		クリストファー	Christopher	M	10	9	ものしり
 マシュマロネズミ	女の子		キャサリン	Katherine	F	5	28	暗算
 マシュマロネズミ	赤ちゃん		アルバート	Albert		8	31	クイズ
-マシュマロネズミ	みつごちゃん	女の子/ブルー服	メリー	Mary	F	12	21	
-マシュマロネズミ	みつごちゃん	男の子/イエロー服	エドワード	Edward	M	12	21	
-マシュマロネズミ	みつごちゃん	女の子/ピンク服	エリザベス	Elizabeth	F	12	21	
+マシュマロネズミ	みつごちゃん	女の子/ブルー服	メリー	Mary	F	12	21	くすぐってもらうこと
+マシュマロネズミ	みつごちゃん	男の子/イエロー服	エドワード	Edward	M	12	21	ねること
+マシュマロネズミ	みつごちゃん	女の子/ピンク服	エリザベス	Elizabeth	F	12	21	お姉ちゃんのこもりうた
 マロンイヌ1	お父さん			Harley	M	1	2	
 マロンイヌ1	お母さん			Penny	F	7	20	
 マロンイヌ1	男の子			Vespa	M	12	5	
@@ -577,9 +588,9 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 メイプルネコ	お姉さん		ミランダ	Miranda	F			
 メイプルネコ	男の子		ジャスパー	Jasper	M	7	17	
 メイプルネコ	女の子		ミリー	Millie	F	7	31	
-メイプルネコ	赤ちゃん		アルフィ	Alfie	M	1	19	楽器をならすこと
-メイプルネコ	ふたごちゃん	女の子/オレンジ服	デイジー	Daisy	F	5	1	
-メイプルネコ	ふたごちゃん	女の子/ピンク服	ミスティー	Misty	F	5	1	
+メイプルネコ	赤ちゃん		アルフィー	Alfie	M	1	19	楽器をならすこと
+メイプルネコ	ふたごちゃん	女の子/オレンジ服	デイジー	Daisy	F	5	1	音楽を聞くこと
+メイプルネコ	ふたごちゃん	女の子/ピンク服	ミスティー	Misty	F	5	1	ジェラート
 モグラ	お父さん		ディガー	Digger	M	2	17	
 モグラ	お母さん		ハイジ	Heidi	F	6	17	
 モグラ	男の子		マディ	Muddy	M	4	19	
@@ -598,7 +609,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ヤギ3	女の子		マンディ	Mandy	F	3	18	手紙を書くこと
 ヤギ3	赤ちゃん	女の子	ジェニー	Jenny	F	12	4	ブランコ
 ライオン	お父さん		ライオネル	Lionel	M	6	18	
-ライオン	赤ちゃん		ローレンス	Lawrence	M	8	10	
+ライオン	赤ちゃん		ローレンス	Lawrence	M	8	10	コンサートごっこ
 ラッコ	お父さん			Caspian	M	10	13	
 ラッコ	お母さん			Narrisa	F	1	24	
 ラッコ	女の子			Shelly	F	6	26	
@@ -612,9 +623,9 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ラブラドール	お兄さん		リアム	Liam	M			
 ラブラドール	男の子		バディー	Buddy	M	9	7	
 ラブラドール	女の子		セイディー	Sadie	F	3	13	
-ラブラドール	赤ちゃん		ポピー	Poppy	F	2	20	
-ラブラドール	ふたごちゃん	女の子/ピンク服	シャイロ	Shiloh	F	11	9	
-ラブラドール	ふたごちゃん	男の子/ブルー服	マーリー	Marley	M	11	9	
+ラブラドール	赤ちゃん		ポピー	Poppy	F	2	20	おしゃれごっこ
+ラブラドール	ふたごちゃん	女の子/ピンク服	シャイロ	Shiloh	F	11	9	お姉ちゃんのまね
+ラブラドール	ふたごちゃん	男の子/ブルー服	マーリー	Marley	M	11	9	ラッパ
 ラベンダーウサギ	お父さん				M	8	1	
 ラベンダーウサギ	お母さん				F	5	3	
 ラベンダーウサギ	男の子				M	7	5	
@@ -634,8 +645,8 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 わたウサギ	お母さん			Sorrel	F	4	28	
 わたウサギ	男の子			Gromwell	M	9	8	
 わたウサギ	女の子		ウィロー	Willow	F	5	4	
-わたウサギ	赤ちゃん			Charlie	M	7	7	
-わたウサギ	ふたごちゃん	男の子		Comfrey	M	7	30	
-わたウサギ	ふたごちゃん	女の子		Angelica	F	7	30	
+わたウサギ	赤ちゃん		チャーリー	Charlie	M	7	7	水あそび
+わたウサギ	ふたごちゃん	男の子	コンフリー	Comfrey	M	7	30	雲をみること
+わたウサギ	ふたごちゃん	女の子	アンジェリカ	Angelica	F	7	30	おひさまのにおい
 わたウサギ	おじいさん			Christopher	M			
 わたウサギ	おばあさん			Carmen	F			

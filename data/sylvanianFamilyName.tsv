@@ -16,7 +16,8 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 キツネ2	Red Fox		Renard	1995
 キャラメルイヌ	Caramel Dog	キャラメル	Caramel	2019
 キリン	Highbranch Giraffe	ハイブランチ	Highbranch	2021
-クマ	Little Bear	ペティート	Petite	1998
+クマ1	Little Bear	ペティート	Petite	1998
+クマ2	Bear		Osborne	2014
 クリームネコ1				1988
 クリームネコ2	Cream Cat		Keats	2006
 くるみリス	Walnut Squirrel	ウォールナット	Walnut	2004
@@ -25,6 +26,7 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 グレークマ	Grey Bear		Evergreen	1985
 グレーネコ	Grey Cat			1987
 コアラ	Koala	アウトバック	Outback	2012
+サニーラビット	Sunny Rabbit		Sunny	2019
 サル	Monkey	ダーウィン	Darwin	2011
 しおかぜウサギ2	Sea Breeze Rabbit		Seabreeze	2020
 シカ	Red Deer	バックリー	Buckley	2009
@@ -33,6 +35,7 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 シフォンイヌ	Chiffon Dog		Doughty	2007
 シマネコ	Striped Cat	サンディー	Sandy	2014
 シマリス	Furbanks Squirrel		Furbanks	1993
+シャムネコ	Siamese Cat		Solitaire	1991
 ショコラウサギ	Chocolate Rabbit	チョコレート	Chocolate	2007
 シルクネコ	Silk Cat	ゴライトリー	Golightly	2009
 シルバーポニー		シルバー	Silver	2022
@@ -52,7 +55,9 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 トナカイ2	Reindeer	スノードリフト	Snowdrift	2022
 どんぐりネズミ	Field Mouse		Fielding	2009
 ナマケモノ	Snuggly Sloth	スナグリー	Snuggly	2020
-ネズミ1				1985
+ネコ1	Cat		Catwood	1989
+ネコ2	Cat		Devon	2009
+ネズミ1	Grey Mouse		Thistlethorn	1985
 ネズミ2	Norwood Mouse		Norwood	1996
 ののはなウサギ	Nonohana Rabbit			2006
 ハスキー	Husky	ハスキー	Husky	2021
@@ -60,6 +65,7 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 ハムスター2	Hamster		Goldbacke	2013
 ハリネズミ	Hedgehog	ブランブル	Bramble	1991
 パンダ2	Pookie Panda	プーキー	Pookie	2020
+ビーグル	Beagle Dog		Beagle	1997
 ビーバー1	Beaver		Waters	1986
 ビーバー2	Beaver		Woodbrook	2013
 ヒツジ	Sheep	デール	Dale	2005
@@ -72,10 +78,12 @@ Family	FamilyEn	FamilyNameJa	FamilyNameEn	ReleaseYear
 ブラウンクマ	Brown Bear		Timbertop	1985
 フレンチブルドッグ	French Bulldog	チェッカーズ	Checkers	2022
 フローラウサギ	Flora Rabbit	フローラ	Flora	2023
+フローラルネコ	Floral Cat		Floral	2019
 ペルシャネコ1	Persian Cat		Persis	2008
 ペルシャネコ2	Persian Cat		Teak	2015
 ペルシャネコ3	Persian Cat	ペルシアン	Persian	2019
 ペンギン	Penguin	ワドル	Waddle	2022
+ボーダーコリー	Border Collie		Fletcher	2012
 ほしぞらネコ	Midnight Cat	ミッドナイト	Midnight	2020
 ポニー	Pony	メインリー	Manely	2021
 マーガレットウサギ	Marguerite Rabbit	マーガレット	Marguerite	2020

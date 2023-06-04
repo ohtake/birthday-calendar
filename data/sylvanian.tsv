@@ -22,7 +22,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 アイボリーネコ	赤ちゃん					4	11	
 アイボリーネコ	ふたごちゃん	男の子			M	10	27	
 アイボリーネコ	ふたごちゃん	女の子			F	10	27	
-アヒル1	お父さん			Nelson	M			
+アヒル1	お父さん			Nelson	M	5	8	
 アヒル1	お母さん			Beth	F			
 アヒル1	みつごちゃん	男の子/青	エイミー	Tom	M	5	20	
 アヒル1	みつごちゃん	女の子	ブレット		F	5	20	
@@ -41,7 +41,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 アライグマ1	お母さん			Pansy	F	8	4	
 アライグマ1	男の子			Grover	M	6	24	
 アライグマ1	女の子			Myrtle	F	8	30	
-アライグマ1	赤ちゃん	女の子		Amy	F			
+アライグマ1	赤ちゃん	女の子		Amy	F	5	9	
 アライグマ1	赤ちゃん	男の子		Ricky	M			
 アライグマ1	赤ちゃん	女の子		Molly	F			
 アライグマ2	お父さん			Elma	M	5	10	

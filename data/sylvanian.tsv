@@ -22,6 +22,10 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 アイボリーネコ	赤ちゃん					4	11	
 アイボリーネコ	ふたごちゃん	男の子			M	10	27	
 アイボリーネコ	ふたごちゃん	女の子			F	10	27	
+アザラシ	お父さん		モーリス	Maurice	M	3	23	お魚のパイ
+アザラシ	お母さん		アモラ	Amora	F	7	12	アイスキャンディ
+アザラシ	赤ちゃん	男の子	パフィ	Puffy	M	8	30	フィッシュバーガー
+アザラシ	赤ちゃん	女の子／はいはい	マフィ	Muffy	F	6	4	ボール
 アヒル1	お父さん			Nelson	M	5	8	
 アヒル1	お母さん			Beth	F			
 アヒル1	みつごちゃん	男の子/青	エイミー	Tom	M	5	20	

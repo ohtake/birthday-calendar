@@ -346,7 +346,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ティアドロップクマ	ふたごちゃん					11	24	
 ティアドロップクマ	ふたごちゃん					11	24	
 トイプードル	お父さん		フランク	Frank	M	1	11	
-トイプードル	お母さん		ベロニカ	Veronica	F	4	20	
+トイプードル	お母さん		ベロニカ	Veronica	F	8	20	
 トイプードル	お姉さん		ローラ	Laura	F	8	8	
 トイプードル	男の子		エリック	Eric	M	10	12	
 トイプードル	女の子		メリンダ	Melinda	F	5	5	
@@ -637,7 +637,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 みるくウサギ	おばあさん			Mabel	F	9	1	
 メイプルネコ	お父さん		セオドア	Theodore	M	10	6	
 メイプルネコ	お母さん		ジョージーナ	Georgina	F	8	27	
-メイプルネコ	お姉さん		ミランダ	Miranda	F			
+メイプルネコ	お姉さん		ミランダ	Miranda	F	5	13	
 メイプルネコ	男の子		ジャスパー	Jasper	M	7	17	
 メイプルネコ	女の子		ミリー	Millie	F	7	31	
 メイプルネコ	赤ちゃん		アルフィー	Alfie	M	1	19	楽器をならすこと
@@ -680,8 +680,8 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ラブラドール	ふたごちゃん	男の子/ブルー服	マーリー	Marley	M	11	9	ラッパ
 ラベンダーウサギ	お父さん				M	8	1	
 ラベンダーウサギ	お母さん				F	5	3	
-ラベンダーウサギ	男の子				M	7	5	
-ラベンダーウサギ	女の子		ヴィーダ		F	2	8	
+ラベンダーウサギ	男の子				M	2	8	
+ラベンダーウサギ	女の子		ヴィーダ		F	7	5	
 ラベンダーウサギ	赤ちゃん				F	4	25	
 リス	お父さん			Ollie	M	11	26	
 リス	お母さん			Betsy	F	7	13	

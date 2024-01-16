@@ -1,11 +1,12 @@
 import ical, {
   ICalCalendar,
   ICalEventData,
-  ICalRepeatingOptions,
   ICalEventRepeatingFreq,
-  ICalEventTransparency,
   ICalEventStatus,
+  ICalEventTransparency,
+  ICalRepeatingOptions,
 } from "ical-generator";
+import { writeFile } from "node:fs/promises";
 
 const repeatingAnnualy: ICalRepeatingOptions = {
   freq: ICalEventRepeatingFreq.YEARLY,
@@ -66,6 +67,6 @@ export class BirthdayCalender {
   }
 
   public async writeFile(filename: string) {
-    await this.cal.save(filename);
+    await writeFile(filename, this.cal.toString());
   }
 }

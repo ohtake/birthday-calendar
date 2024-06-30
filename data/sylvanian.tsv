@@ -669,12 +669,22 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ヤギ3	お母さん		ナンシー	Nancy	F	11	22	キルトづくり
 ヤギ3	女の子		マンディ	Mandy	F	3	18	手紙を書くこと
 ヤギ3	赤ちゃん	女の子	ジェニー	Jenny	F	12	4	ブランコ
+ゆきヒョウ	お父さん		ジェラルド	Gerald	M	1	16	釣り
+ゆきヒョウ	お母さん		ホープ	Hope	F	10	5	山登り
+ゆきヒョウ	赤ちゃん	女の子	ララ	Lara	F	9	23	スキー
+ゆきヒョウ	赤ちゃん	女の子/おすわり	ルミ	Rumi	F	12	19	転がって遊ぶこと
 ライオン	お父さん		ライオネル	Lionel	M	6	18	
 ライオン	赤ちゃん		ローレンス	Lawrence	M	8	10	コンサートごっこ
-ラッコ	お父さん			Caspian	M	10	13	
-ラッコ	お母さん			Narrisa	F	1	24	
-ラッコ	女の子			Shelly	F	6	26	
-ラッコ	赤ちゃん			Sandy	F	4	4	
+ラッコ1	お父さん			Caspian	M	10	13	
+ラッコ1	お母さん			Narrisa	F	1	24	
+ラッコ1	女の子			Shelly	F	6	26	
+ラッコ1	赤ちゃん			Sandy	F	4	4	
+ラッコ2	お父さん		コリン	Colin	M	8	11	クラムチャウダー
+ラッコ2	お母さん		マイラ	Myra	F	6	22	貝料理
+ラッコ2	女の子		マリーナ	Marina	F	9	7	水泳
+ラッコ2	赤ちゃん	女の子	マノン	Manon	F	5	23	船長さんごっこ
+ラッコ2	小さい赤ちゃん	男の子/グリーン服	ケイリ―	Caley	M	2	21	貝のおもちゃ
+ラッコ2	小さい赤ちゃん	女の子/ピンク服	コートニー	Courtney	F	2	21	お昼寝
 ラテネコ	お父さん		マテオ		M	2	14	お買いもの
 ラテネコ	お母さん		ダニエラ		F	11	7	ケーキ
 ラテネコ	女の子		モニカ		F	11	23	新しいものを食べに行くこと

@@ -79,6 +79,13 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 オークルイヌ	ふたごちゃん	女の子		Bouncer	F	2	21	
 オークルイヌ	おじいさん			Roland	M			
 オークルイヌ	おばあさん			Jacqueline	F			
+カールミミネコ	お父さん		クロード	Claude	M			
+カールミミネコ	お母さん		シャーロット	Charlotte	F			
+カールミミネコ	お兄さん		マキシム	Maxim	M			おもてなし
+カールミミネコ	男の子		エリオット	Elliott	M			
+カールミミネコ	女の子		クロエ	Chloe	F			
+カールミミネコ	赤ちゃん	男の子	バロウ	Burrow	M			
+カールミミネコ	赤ちゃん	女の子	マロウ	Marrow	F			
 カワウソ	お父さん		グレン	Glenn	M	5	24	
 カワウソ	お母さん		アマンダ	Amanda	F	4	26	
 カワウソ	小さい赤ちゃん	女の子／ピンク服	ニコラ	Nicola	F	2	2	手あそび
@@ -215,7 +222,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 シカ2	小さい赤ちゃん	男の子	カイ	Kai	M	11	19	メリーを見ること
 シカ2	小さい赤ちゃん	女の子/イエロー服	ノヴァ	Nova	F	11	19	ガラガラ
 シカ2	小さい赤ちゃん	女の子/ミント服	ロゼ	Rose	F	11	19	お花の香り
-シナモンウサギ	お兄さん		ウィリアム	William	M	10	4	
+シナモンウサギ	お兄さん		ウィリアム	William	M	10	4	美術館、博物館めぐり
 シバイヌ	お父さん		ケント	Kent	M	4	8	
 シバイヌ	お母さん		アンナ	Anna	F	1	19	
 シバイヌ	男の子		エイト	Eight	M			
@@ -233,7 +240,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 シフォンイヌ	ふたごちゃん	女の子		Nigella	F	1	6	
 シマネコ	お父さん		サイモン	Simon	M	11	1	
 シマネコ	お母さん		アメリア	Amelia	F	11	28	
-シマネコ	お兄さん		ヴィクター	Victor	M			
+シマネコ	お兄さん		ヴィクター	Victor	M	8	5	コーヒー
 シマネコ	男の子		シェーン	Shane	M	7	22	
 シマネコ	女の子		サブリナ	Sabrina	F	6	28	
 シマネコ	赤ちゃん		アプリコット	Apricot	F	4	11	すべり台であそぶこと
@@ -411,6 +418,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ののはなウサギ	ふたごちゃん					3	24	
 ハスキー	お父さん		ヴィンセント	Vincent	M	12	10	車
 ハスキー	お母さん		アヴリル	Avril	F	6	30	ジュエリー
+ハスキー	お兄さん		ブルース	Bruce	M	2	8	船で旅すること、アウトドア料理
 ハスキー	男の子		ハイデン	Hayden	M	1	7	植物観察・葉っぱコレクション
 ハスキー	女の子		ポーリーン	Pauline	F	8	7	工作
 ハスキー	赤ちゃん		リンネア	Linnea	F	4	4	石あつめ
@@ -568,7 +576,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ペルシャネコ2	ふたごちゃん	女の子		Nel	F	6	29	
 ペルシャネコ3	お父さん		ルーカス	Lucas	M	6	19	スムージーづくり
 ペルシャネコ3	お母さん		ダーン	Dawn	F	1	25	天体観測
-ペルシャネコ3	お兄さん		フィン	Finn	M			
+ペルシャネコ3	お兄さん		フィン	Finn	M	7	10	読書
 ペルシャネコ3	お姉さん		アリシア	Alicia	F	9	20	エクササイズ
 ペルシャネコ3	ふたごの女の子	グレー/イエロー服	スカイ	Skye	F	2	5	日記
 ペルシャネコ3	ふたごの女の子	ホワイト/ピンク服	ライラ	Lyra	F	2	5	お気に入りのメトロノーム
@@ -591,6 +599,7 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ボーダーコリー	ふたごちゃん	女の子		Mia	F			
 ほしぞらネコ	お父さん		ジェームズ	James	M	12	27	マジックをすること
 ほしぞらネコ	お母さん		アリソン	Alison	F	10	19	タロット占い
+ほしぞらネコ	お兄さん		エミール	Emile	M	11	4	洋服作り
 ほしぞらネコ	女の子		シャンテール	Chantelle	F	1	4	カードマジック
 ほしぞらネコ	赤ちゃん		グロリア	Gloria	F	6	11	かくれんぼ
 ほしぞらネコ	小さい赤ちゃん		レジー	Reggie	M	1	23	ごみばこからキラキラしたものやいいものを探す
@@ -685,13 +694,17 @@ Family	Relation1	Relation2	GivenNameJa	GivenNameEn	Sex	BirthMonth	BirthDay	Favor
 ラッコ2	赤ちゃん	女の子	マノン	Manon	F	5	23	船長さんごっこ
 ラッコ2	小さい赤ちゃん	男の子/グリーン服	ケイリ―	Caley	M	2	21	貝のおもちゃ
 ラッコ2	小さい赤ちゃん	女の子/ピンク服	コートニー	Courtney	F	2	21	お昼寝
-ラテネコ	お父さん		マテオ		M	2	14	お買いもの
-ラテネコ	お母さん		ダニエラ		F	11	7	ケーキ
-ラテネコ	女の子		モニカ		F	11	23	新しいものを食べに行くこと
-ラテネコ	赤ちゃん	男の子	ピーノ		M	12	16	お買いものあそび
+ラテネコ	お父さん		マテオ	Matteo	M	2	14	お買いもの
+ラテネコ	お母さん		ダニエラ	Daniela	F	11	7	ケーキ
+ラテネコ	男の子		ミック	Mick	M	4	2	探検
+ラテネコ	女の子		モニカ	Monica	F	11	23	新しいものを食べに行くこと
+ラテネコ	赤ちゃん	男の子	ピーノ	Pino	M	12	16	お買い物あそび
+ラテネコ	赤ちゃん	女の子	メイベル	Mabel	F	8	17	探検ごっこ
+ラテネコ	小さい赤ちゃん	男の子	ニコロ	Nicolo	M	3	4	お買い物に連れて行ってもらうこと
+ラテネコ	小さい赤ちゃん	女の子	カーラ	Carla	F	3	4	いっぱいミルクを飲むこと
 ラブラドール	お父さん		バーカー	Barker	M	4	10	
 ラブラドール	お母さん		ルーシー	Lucy	F	7	25	
-ラブラドール	お兄さん		リアム	Liam	M			
+ラブラドール	お兄さん		リアム	Liam	M	6	28	チェロ
 ラブラドール	男の子		バディー	Buddy	M	9	7	
 ラブラドール	女の子		セイディー	Sadie	F	3	13	
 ラブラドール	赤ちゃん		ポピー	Poppy	F	2	20	おしゃれごっこ

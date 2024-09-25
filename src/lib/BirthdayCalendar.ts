@@ -51,19 +51,27 @@ export class BirthdayCalender {
     this.cal.createEvent(data);
   }
 
+  /**
+   * 開発年と誕生日が矛盾しないように誕生年を推定する。
+   */
   private inferBirthYear(
     month: number,
     day: number,
     releaseYear?: number
   ): number {
     const year = releaseYear ?? this.initialYear;
+    // 2月29日以外なら開発年を誕生年とする
     if (month !== 2 || day !== 29) return year;
     const mod4 = year % 4;
     const mod100 = year % 100;
     const mod400 = year % 400;
-    // 0 (mod 4) が 1900 や 2100 のときには閏年ではないが、その範囲の年になることはないので実用上問題ない
+    // 開発年が閏年なら開発年を誕生年とする
     if (mod4 === 0 && (mod100 !== 0 || mod400 === 0)) return year;
-    return this.inferBirthYear(month, day, year + 4 - mod4);
+    // 2月29日生まれなのに開発年が閏年でないのなら、開発年の直近の閏年を誕生年とする。
+    // e.g. 1995-02-29 => 1992-02-29
+    // 閏年が必ずしも4年周期で来るとは限らないので再帰する。
+    // e.g. 1901-02-29 => 1900-02-29 => 1896-02-29
+    return this.inferBirthYear(month, day, year - mod4);
   }
 
   public async writeFile(filename: string) {

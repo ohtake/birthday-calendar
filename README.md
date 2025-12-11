@@ -9,7 +9,7 @@ Or [browse files](https://github.com/ohtake/birthday-calendar/tree/gh-pages) in 
 
 ## Usage
 
-Install [Node.js](https://nodejs.org/en) 20 or later.
+Install [Node.js](https://nodejs.org/en) 24 or later.
 
 ```bash
 npm ci

@@ -28,8 +28,9 @@ function hasBirthday<T extends Partial<Birthday>>(d: T): d is T & Birthday {
 export async function createSanrioCalendar() {
   const characters = await loadTSV<CharaData>("./data/sanrio.tsv", (row) => {
     const BirthMonth =
-      row.BirthMonth === "" ? undefined : parseInt(row.BirthMonth);
-    const BirthDay = row.BirthDay === "" ? undefined : parseInt(row.BirthDay);
+      row["BirthMonth"] === "" ? undefined : parseInt(row["BirthMonth"]!);
+    const BirthDay =
+      row["BirthDay"] === "" ? undefined : parseInt(row["BirthDay"]!);
     return {
       ...row,
       BirthMonth,
@@ -37,7 +38,7 @@ export async function createSanrioCalendar() {
     } as CharaData;
   });
   const series = await loadTSV<SeriesData>("./data/sanrioSeries.tsv", (row) => {
-    const ReleaseYear = parseInt(row.ReleaseYear);
+    const ReleaseYear = parseInt(row["ReleaseYear"]!);
     return {
       ...row,
       ReleaseYear,
@@ -49,7 +50,7 @@ export async function createSanrioCalendar() {
 
   const bc = new BirthdayCalender("Sanrio Birthdays", 1960); // 1960 = 山梨シルクセンターの設立年
   grouped.forEach((characters, seriesKey) => {
-    const c0 = characters[0];
+    const c0 = characters[0]!;
     const groupSummaries = [c0.SeriesNameJa];
     if (c0.SeriesNameEn) groupSummaries.push("/", c0.SeriesNameEn);
     groupSummaries.push(
@@ -74,7 +75,7 @@ export async function createSanrioCalendar() {
       (c) => `${c.BirthMonth}-${c.BirthDay}`
     );
     bdGroup.forEach((g) => {
-      const c = g[0];
+      const c = g[0]!;
       const prefix = c.SeriesKey;
       const names = g.map((c) => c.CharaName).join("/");
       const summary = prefix === names ? prefix : `${prefix} ${names}`;

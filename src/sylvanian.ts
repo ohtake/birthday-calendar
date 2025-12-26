@@ -13,6 +13,7 @@ type CharaData = {
   GivenNameEn: string;
   Sex: "M" | "F" | "";
   Favorites: string;
+  Job: string;
 } & Partial<Birthday>;
 
 type FamilyData = {
@@ -52,8 +53,9 @@ function hasBirthday<T extends Partial<Birthday>>(d: T): d is T & Birthday {
 export async function createSylvanianCalendar() {
   const characters = await loadTSV<CharaData>("./data/sylvanian.tsv", (row) => {
     const BirthMonth =
-      row.BirthMonth === "" ? undefined : parseInt(row.BirthMonth);
-    const BirthDay = row.BirthDay === "" ? undefined : parseInt(row.BirthDay);
+      row["BirthMonth"] === "" ? undefined : parseInt(row["BirthMonth"]!);
+    const BirthDay =
+      row["BirthDay"] === "" ? undefined : parseInt(row["BirthDay"]!);
     return {
       ...row,
       BirthMonth,
@@ -63,8 +65,8 @@ export async function createSylvanianCalendar() {
   const families = await loadTSV<FamilyData>(
     "./data/sylvanianFamilyName.tsv",
     (row) => {
-      const ReleaseYear = row.ReleaseYear
-        ? parseInt(row.ReleaseYear)
+      const ReleaseYear = row["ReleaseYear"]
+        ? parseInt(row["ReleaseYear"])
         : undefined;
       return {
         ...row,
@@ -79,7 +81,7 @@ export async function createSylvanianCalendar() {
   const bc = new BirthdayCalender("Sylvanian Birthdays", 1985); // 1985年3月20日が初代の発売日
   familyGroups.forEach((familyMembers, _family) => {
     sortFamilyMembers(familyMembers);
-    const m0 = familyMembers[0];
+    const m0 = familyMembers[0]!;
     const familyDesciptions: string[] = [];
     familyDesciptions.push(
       `${m0.Family} / ${m0.FamilyEn} / ${m0.FamilyNameJa} / ${m0.FamilyNameEn} / ${m0.ReleaseYear}`
@@ -112,7 +114,7 @@ function addBirthdayEntry(
   members: (CharaData & Partial<FamilyData>)[],
   familyDesc: string
 ) {
-  const m0 = members[0];
+  const m0 = members[0]!;
   if (!hasBirthday(m0)) return;
   const summaries: string[] = [];
   summaries.push(`${m0.Family}の${m0.Relation1}`);
@@ -131,14 +133,14 @@ function addBirthdayEntry(
   const summary = summaries.join("");
   let groupList: string;
   if (members.length === 1) {
-    groupList = m0.Favorites ?? "";
+    groupList = `fav: ${m0.Favorites}, job: ${m0.Job}`;
   } else {
     groupList = members
       .map(
         (m) =>
           `${m.Relation2} ${toFullName(m)}${
-            m.Favorites ? ` [${m.Favorites}]` : ""
-          }`
+            m.Favorites ? ` [fav: ${m.Favorites}]` : ""
+          }${m.Job ? ` [job: ${m.Job}]` : ""}`
       )
       .join("\n");
   }
